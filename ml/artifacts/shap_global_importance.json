@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "num__Profit",
+    "mean_abs_shap": 296.1919
+  },
+  {
+    "feature": "num__Discount",
+    "mean_abs_shap": 32.7518
+  },
+  {
+    "feature": "cat__Sub-Category_Chairs",
+    "mean_abs_shap": 21.911
+  },
+  {
+    "feature": "cat__Category_Office Supplies",
+    "mean_abs_shap": 20.8682
+  },
+  {
+    "feature": "num__Quantity",
+    "mean_abs_shap": 17.4766
+  },
+  {
+    "feature": "cat__Sub-Category_Storage",
+    "mean_abs_shap": 14.85
+  },
+  {
+    "feature": "cat__Sub-Category_Tables",
+    "mean_abs_shap": 8.651
+  },
+  {
+    "feature": "cat__Category_Furniture",
+    "mean_abs_shap": 6.8937
+  },
+  {
+    "feature": "cat__Sub-Category_Machines",
+    "mean_abs_shap": 5.8439
+  },
+  {
+    "feature": "cat__Sub-Category_Bookcases",
+    "mean_abs_shap": 5.6262
+  },
+  {
+    "feature": "cat__Category_Technology",
+    "mean_abs_shap": 4.7226
+  },
+  {
+    "feature": "cat__Sub-Category_Phones",
+    "mean_abs_shap": 3.3517
+  },
+  {
+    "feature": "cat__Sub-Category_Appliances",
+    "mean_abs_shap": 3.3342
+  },
+  {
+    "feature": "cat__Sub-Category_Supplies",
+    "mean_abs_shap": 2.4913
+  },
+  {
+    "feature": "cat__Sub-Category_Binders",
+    "mean_abs_shap": 2.4745
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "index": 5825,
+    "prediction": 73.54541569021359,
+    "explanation": "Predicted sales of 73.55 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 178.26); cat__Sub-Category_Chairs (pushed the prediction up by 108.07); num__Quantity (pulled the prediction down by 87.68)."
+  },
+  {
+    "index": 5171,
+    "prediction": 67.45928742054916,
+    "explanation": "Predicted sales of 67.46 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 121.61); num__Discount (pushed the prediction up by 32.63); cat__Category_Office Supplies (pulled the prediction down by 24.30)."
+  },
+  {
+    "index": 6041,
+    "prediction": 18.03064074387756,
+    "explanation": "Predicted sales of 18.03 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 181.96); num__Quantity (pushed the prediction up by 23.78); cat__Category_Office Supplies (pulled the prediction down by 19.19)."
+  },
+  {
+    "index": 107,
+    "prediction": 58.89794201186403,
+    "explanation": "Predicted sales of 58.90 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 220.05); num__Discount (pushed the prediction up by 35.45); cat__Category_Technology (pushed the prediction up by 18.71)."
+  },
+  {
+    "index": 3422,
+    "prediction": 394.63139896704246,
+    "explanation": "Predicted sales of 394.63 vs. an average of 230.18, mainly driven by: num__Discount (pushed the prediction up by 104.51); cat__Category_Office Supplies (pushed the prediction up by 54.54); cat__Sub-Category_Machines (pushed the prediction up by 43.95)."
+  },
+  {
+    "index": 39,
+    "prediction": 323.1602296332823,
+    "explanation": "Predicted sales of 323.16 vs. an average of 230.18, mainly driven by: cat__Sub-Category_Chairs (pushed the prediction up by 199.97); num__Profit (pulled the prediction down by 182.87); num__Discount (pushed the prediction up by 50.63)."
+  },
+  {
+    "index": 6800,
+    "prediction": 16.843422376627295,
+    "explanation": "Predicted sales of 16.84 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 171.78); num__Discount (pushed the prediction up by 18.11); cat__Category_Office Supplies (pulled the prediction down by 16.07)."
+  },
+  {
+    "index": 4535,
+    "prediction": 58.89794201186403,
+    "explanation": "Predicted sales of 58.90 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 175.34); cat__Category_Technology (pushed the prediction up by 18.73); cat__Category_Office Supplies (pushed the prediction up by 14.37)."
+  },
+  {
+    "index": 6045,
+    "prediction": 263.32655025098364,
+    "explanation": "Predicted sales of 263.33 vs. an average of 230.18, mainly driven by: num__Profit (pushed the prediction up by 92.65); num__Discount (pulled the prediction down by 43.51); cat__Sub-Category_Appliances (pushed the prediction up by 32.92)."
+  },
+  {
+    "index": 2554,
+    "prediction": 62.71752392267424,
+    "explanation": "Predicted sales of 62.72 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 158.39); cat__Category_Technology (pushed the prediction up by 16.15); cat__Category_Office Supplies (pushed the prediction up by 11.61)."
+  },
+  {
+    "index": 7292,
+    "prediction": 16.843422376627295,
+    "explanation": "Predicted sales of 16.84 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 169.27); cat__Category_Office Supplies (pulled the prediction down by 16.66); num__Discount (pushed the prediction up by 15.74)."
+  },
+  {
+    "index": 8424,
+    "prediction": 153.82725405864966,
+    "explanation": "Predicted sales of 153.83 vs. an average of 230.18, mainly driven by: cat__Category_Office Supplies (pulled the prediction down by 110.15); num__Discount (pushed the prediction up by 73.52); num__Profit (pushed the prediction up by 42.98)."
+  },
+  {
+    "index": 8608,
+    "prediction": 122.14185084733414,
+    "explanation": "Predicted sales of 122.14 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 216.13); cat__Sub-Category_Storage (pushed the prediction up by 93.15); num__Discount (pushed the prediction up by 25.65)."
+  },
+  {
+    "index": 3312,
+    "prediction": 100.05835522337875,
+    "explanation": "Predicted sales of 100.06 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 56.73); cat__Category_Office Supplies (pulled the prediction down by 19.89); cat__Sub-Category_Storage (pulled the prediction down by 8.98)."
+  },
+  {
+    "index": 4534,
+    "prediction": 19.470293422158164,
+    "explanation": "Predicted sales of 19.47 vs. an average of 230.18, mainly driven by: num__Profit (pulled the prediction down by 174.17); cat__Sub-Category_Storage (pulled the prediction down by 11.09); cat__Category_Office Supplies (pulled the prediction down by 10.35)."
+  }
+]

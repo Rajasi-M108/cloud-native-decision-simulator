@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+pydantic
+python-jose[cryptography]
+sqlalchemy
+psycopg2-binary
+
+requests
+
+boto3

@@ -1,0 +1,21 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit,Profit_Margin,Unit_Price,anomaly_score,is_anomaly
+Standard Class,Consumer,United States,Detroit,Michigan,48205,Central,Office Supplies,Binders,9892.74,13,0.0,4946.37,0.5,760.98,0.7914620591046468,True
+Second Class,Consumer,United States,Concord,North Carolina,28027,South,Furniture,Tables,4297.644,13,0.4,-1862.3124,-0.4333333333333333,330.588,0.7714220888611801,True
+Standard Class,Consumer,United States,Lancaster,Ohio,43130,East,Technology,Machines,4499.985,5,0.7,-6599.978,-1.4666666666666668,899.997,0.766014099637339,True
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,2177.584,8,0.8,-3701.8928,-1.7000000000000002,272.198,0.7593160581421352,True
+Same Day,Corporate,United States,Burlington,North Carolina,27217,South,Technology,Machines,7999.98,4,0.5,-3839.9904,-0.48,1999.995,0.7512687643847261,True
+Standard Class,Corporate,United States,Lafayette,Indiana,47905,Central,Technology,Copiers,17499.95,5,0.0,8399.976,0.48,3499.99,0.7497339287492455,True
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,Technology,Machines,22638.48,6,0.5,-1811.0784,-0.08,3773.08,0.7496289181852324,True
+First Class,Consumer,United States,Seattle,Washington,98115,West,Technology,Copiers,13999.96,4,0.0,6719.9808,0.48,3499.99,0.7465137547372862,True
+Standard Class,Home Office,United States,Providence,Rhode Island,2908,East,Technology,Copiers,5399.91,9,0.0,2591.9568,0.48,599.99,0.7447932016937115,True
+Standard Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Office Supplies,Binders,9449.95,5,0.0,4630.4755,0.4899999999999999,1889.99,0.7427566852908933,True
+Standard Class,Consumer,United States,Newark,Delaware,19711,East,Technology,Copiers,10499.97,3,0.0,5039.9856,0.48,3499.99,0.7425401215342747,True
+Standard Class,Home Office,United States,Louisville,Colorado,80027,West,Technology,Machines,2549.985,5,0.7,-3399.98,-1.3333333333333333,509.997,0.7423144821979326,True
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Appliances,463.248,8,0.8,-1181.2824,-2.5500000000000003,57.906,0.7410960675267952,True
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,8159.952,8,0.4,-1359.992,-0.1666666666666666,1019.994,0.7405055102532943,True
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Copiers,11199.968,4,0.2,3919.9888,0.35,2799.992,0.7404384370135101,True
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Binders,6354.95,5,0.0,3177.475,0.5,1270.99,0.7386344004581191,True
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Machines,4899.93,7,0.0,2400.9657,0.49,699.99,0.7380614013825351,True
+Standard Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Binders,1889.99,5,0.8,-2929.4845,-1.55,377.998,0.7378360063137174,True
+Standard Class,Corporate,United States,Lakewood,New Jersey,8701,East,Technology,Machines,9099.93,7,0.0,2365.9818,0.26,1299.99,0.7334078794083413,True
+First Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,1525.188,6,0.8,-2287.782,-1.5,254.198,0.733161851201804,True

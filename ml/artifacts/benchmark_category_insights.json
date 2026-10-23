@@ -1,0 +1,178 @@
+[
+  {
+    "category": "advertising",
+    "n_companies": 62,
+    "survival_rate_pct": 72.6,
+    "median_funding_survived_usd": 10000000.0,
+    "median_funding_closed_usd": 2000000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 10.0,
+    "median_relationships_closed": 3.0
+  },
+  {
+    "category": "analytics",
+    "n_companies": 19,
+    "survival_rate_pct": 84.2,
+    "median_funding_survived_usd": 9378090.0,
+    "median_funding_closed_usd": 2387481.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 11.0,
+    "median_relationships_closed": 2.0
+  },
+  {
+    "category": "biotech",
+    "n_companies": 34,
+    "survival_rate_pct": 64.7,
+    "median_funding_survived_usd": 53000000.0,
+    "median_funding_closed_usd": 23754835.5,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 4.0,
+    "median_relationships_closed": 3.5
+  },
+  {
+    "category": "cleantech",
+    "n_companies": 23,
+    "survival_rate_pct": 43.5,
+    "median_funding_survived_usd": 26595273.5,
+    "median_funding_closed_usd": 21470000.0,
+    "median_funding_rounds_survived": 3.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 7.0,
+    "median_relationships_closed": 2.0
+  },
+  {
+    "category": "ecommerce",
+    "n_companies": 25,
+    "survival_rate_pct": 44.0,
+    "median_funding_survived_usd": 6250000.0,
+    "median_funding_closed_usd": 750000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 8.0,
+    "median_relationships_closed": 3.0
+  },
+  {
+    "category": "enterprise",
+    "n_companies": 73,
+    "survival_rate_pct": 76.7,
+    "median_funding_survived_usd": 13200000.0,
+    "median_funding_closed_usd": 3700000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 8.0,
+    "median_relationships_closed": 7.0
+  },
+  {
+    "category": "games_video",
+    "n_companies": 52,
+    "survival_rate_pct": 59.6,
+    "median_funding_survived_usd": 15000000.0,
+    "median_funding_closed_usd": 1500000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 8.0,
+    "median_relationships_closed": 3.0
+  },
+  {
+    "category": "hardware",
+    "n_companies": 27,
+    "survival_rate_pct": 40.7,
+    "median_funding_survived_usd": 20750000.0,
+    "median_funding_closed_usd": 15500000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 10.0,
+    "median_relationships_closed": 2.0
+  },
+  {
+    "category": "mobile",
+    "n_companies": 79,
+    "survival_rate_pct": 65.8,
+    "median_funding_survived_usd": 13000000.0,
+    "median_funding_closed_usd": 2600000.0,
+    "median_funding_rounds_survived": 3.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 9.0,
+    "median_relationships_closed": 5.0
+  },
+  {
+    "category": "network_hosting",
+    "n_companies": 34,
+    "survival_rate_pct": 70.6,
+    "median_funding_survived_usd": 16250000.0,
+    "median_funding_closed_usd": 8100000.0,
+    "median_funding_rounds_survived": 2.5,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 6.0,
+    "median_relationships_closed": 5.0
+  },
+  {
+    "category": "other",
+    "n_companies": 116,
+    "survival_rate_pct": 63.8,
+    "median_funding_survived_usd": 8250000.0,
+    "median_funding_closed_usd": 3754231.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 8.5,
+    "median_relationships_closed": 3.0
+  },
+  {
+    "category": "public_relations",
+    "n_companies": 25,
+    "survival_rate_pct": 40.0,
+    "median_funding_survived_usd": 14200000.0,
+    "median_funding_closed_usd": 2192000.0,
+    "median_funding_rounds_survived": 1.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 6.0,
+    "median_relationships_closed": 3.0
+  },
+  {
+    "category": "security",
+    "n_companies": 19,
+    "survival_rate_pct": 78.9,
+    "median_funding_survived_usd": 10500000.0,
+    "median_funding_closed_usd": 47000000.0,
+    "median_funding_rounds_survived": 1.0,
+    "median_funding_rounds_closed": 3.5,
+    "median_relationships_survived": 5.0,
+    "median_relationships_closed": 5.0
+  },
+  {
+    "category": "semiconductor",
+    "n_companies": 35,
+    "survival_rate_pct": 68.6,
+    "median_funding_survived_usd": 26850000.0,
+    "median_funding_closed_usd": 18000000.0,
+    "median_funding_rounds_survived": 3.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 4.0,
+    "median_relationships_closed": 2.0
+  },
+  {
+    "category": "software",
+    "n_companies": 153,
+    "survival_rate_pct": 66.0,
+    "median_funding_survived_usd": 14000000.0,
+    "median_funding_closed_usd": 10000000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 2.0,
+    "median_relationships_survived": 6.0,
+    "median_relationships_closed": 2.0
+  },
+  {
+    "category": "web",
+    "n_companies": 144,
+    "survival_rate_pct": 64.6,
+    "median_funding_survived_usd": 5675000.0,
+    "median_funding_closed_usd": 1900000.0,
+    "median_funding_rounds_survived": 2.0,
+    "median_funding_rounds_closed": 1.0,
+    "median_relationships_survived": 8.0,
+    "median_relationships_closed": 3.0
+  }
+]

@@ -1,0 +1,1997 @@
+Quantity,Discount,Profit,Ship Mode,Segment,Region,Category,Sub-Category,y_true,y_pred_best
+1,0.0,8.0946,Standard Class,Consumer,Central,Furniture,Chairs,29.98,73.54541569021359
+2,0.2,19.968,First Class,Consumer,West,Office Supplies,Binders,53.248,67.45928742054916
+9,0.7,-12.9168,Standard Class,Corporate,South,Office Supplies,Binders,16.146,18.03064074387756
+1,0.2,2.0994,Standard Class,Consumer,South,Technology,Phones,27.992,58.89794201186403
+2,0.2,41.88,Standard Class,Consumer,West,Technology,Machines,558.4,394.63139896704246
+3,0.3,-15.147,Standard Class,Home Office,Central,Furniture,Chairs,212.058,323.16022963328226
+2,0.7,-2.588,First Class,Consumer,East,Office Supplies,Binders,3.882,16.843422376627295
+2,0.0,1.0598,Standard Class,Corporate,East,Technology,Phones,105.98,58.89794201186403
+5,0.0,76.272,Standard Class,Consumer,Central,Office Supplies,Appliances,272.4,263.32655025098364
+2,0.0,12.0,Standard Class,Consumer,East,Technology,Accessories,50.0,62.71752392267424
+3,0.8,-4.9164,First Class,Consumer,Central,Office Supplies,Binders,2.892,16.843422376627295
+4,0.2,51.36,Standard Class,Consumer,West,Office Supplies,Binders,136.96,153.82725405864966
+4,0.2,3.9808,Standard Class,Consumer,West,Office Supplies,Storage,39.808,122.14185084733414
+2,0.0,40.1702,Standard Class,Consumer,West,Office Supplies,Paper,81.98,100.05835522337875
+4,0.0,4.3296,Standard Class,Home Office,West,Office Supplies,Art,13.12,19.470293422158164
+1,0.8,-4.7685,First Class,Consumer,Central,Office Supplies,Binders,2.89,16.843422376627295
+2,0.2,3.0144,Standard Class,Corporate,West,Office Supplies,Appliances,30.144,16.92971559448283
+7,0.2,123.4737,First Class,Corporate,Central,Technology,Phones,1097.544,1194.572591215591
+5,0.2,148.845,Standard Class,Consumer,East,Furniture,Furnishings,396.92,1194.7353077889998
+8,0.0,62.4,Standard Class,Corporate,Central,Technology,Accessories,160.0,200.0282587543402
+5,0.0,13.132,Second Class,Corporate,West,Furniture,Furnishings,46.9,42.84039566482641
+5,0.2,-20.691,Standard Class,Corporate,West,Technology,Phones,91.96,101.16295002418205
+2,0.2,-29.4368,Second Class,Consumer,South,Office Supplies,Storage,147.184,151.2944460739985
+6,0.2,11.7936,First Class,Corporate,East,Office Supplies,Binders,34.944,33.525529466668345
+5,0.2,-8.18,Standard Class,Consumer,Central,Technology,Accessories,65.44,63.81614487071104
+2,0.3,-131.951,Second Class,Consumer,Central,Furniture,Tables,401.59,745.9950906902827
+4,0.0,0.3112,Standard Class,Home Office,South,Office Supplies,Fasteners,31.12,16.93236931318311
+3,0.0,30.99,Second Class,Corporate,East,Furniture,Furnishings,154.95,118.64670120254152
+5,0.0,378.274,Second Class,Corporate,Central,Furniture,Chairs,1454.9,1565.3001154963697
+2,0.2,10.098,Standard Class,Consumer,West,Furniture,Chairs,161.568,158.4123920322849
+4,0.0,55.936,Standard Class,Home Office,Central,Office Supplies,Binders,121.6,160.8673767157346
+8,0.0,28.0192,Standard Class,Consumer,East,Furniture,Furnishings,63.68,101.197889749318
+2,0.6,-1.6752,Standard Class,Consumer,Central,Furniture,Furnishings,5.584,30.711014720023176
+4,0.0,14.6264,Standard Class,Consumer,South,Office Supplies,Envelopes,31.12,39.62377034762091
+5,0.2,3.668,Second Class,Consumer,Central,Office Supplies,Storage,41.92,122.26721927159959
+3,0.0,28.3095,Second Class,Consumer,Central,Technology,Phones,104.85,109.32260154184083
+7,0.2,13.0928,Second Class,Home Office,South,Office Supplies,Paper,37.408,35.33926113436583
+1,0.2,4.8416,Standard Class,Consumer,West,Furniture,Furnishings,22.784,30.81705761151593
+7,0.0,6.6584,Standard Class,Consumer,South,Office Supplies,Art,22.96,20.37845354334087
+7,0.2,12.8499,Standard Class,Consumer,East,Office Supplies,Binders,35.448,34.797637631628035
+3,0.2,1.4784,Standard Class,Corporate,East,Office Supplies,Art,4.224,16.843422376627295
+3,0.0,3.7236,Standard Class,Corporate,South,Office Supplies,Art,12.84,17.41088348443869
+9,0.0,136.665,Same Day,Consumer,Central,Furniture,Chairs,546.66,615.6104528658407
+5,0.0,383.931,Standard Class,Consumer,Central,Furniture,Chairs,1323.9,1471.314154346164
+6,0.2,150.294,Standard Class,Consumer,West,Furniture,Chairs,2404.704,1291.0302527030199
+2,0.0,7.9984,First Class,Consumer,East,Technology,Accessories,99.98,59.773529613439266
+4,0.0,9.504,Standard Class,Corporate,West,Office Supplies,Paper,21.12,22.599509981728847
+13,0.0,636.0003,Standard Class,Consumer,West,Technology,Accessories,3347.37,1708.4966768677934
+4,0.2,12.012,Second Class,Consumer,South,Office Supplies,Art,36.96,35.541206179729684
+6,0.0,46.8996,Second Class,Consumer,South,Furniture,Furnishings,275.88,159.90830056665376
+2,0.4,-16.998,First Class,Consumer,East,Technology,Phones,101.988,82.55895517489705
+2,0.0,3.7208,Standard Class,Corporate,West,Office Supplies,Storage,93.02,58.94613646927248
+2,0.0,2.054,Standard Class,Corporate,West,Office Supplies,Appliances,7.9,16.843422376627295
+2,0.2,15.0384,First Class,Consumer,Central,Technology,Phones,150.384,75.1173495647584
+3,0.0,18.3456,First Class,Consumer,East,Furniture,Furnishings,47.04,71.1349912692623
+8,0.0,157.3632,Second Class,Corporate,South,Office Supplies,Binders,327.84,450.63289309755385
+5,0.2,17.745,Standard Class,Consumer,West,Furniture,Chairs,283.92,314.38867270423884
+2,0.0,1.1946,Standard Class,Consumer,West,Office Supplies,Fasteners,3.62,16.843422376627295
+4,0.2,8.7672,Standard Class,Corporate,West,Office Supplies,Binders,26.976,22.702060173586556
+9,0.2,1.7514,First Class,Consumer,South,Office Supplies,Art,20.016,17.055506559292855
+4,0.2,4.2952,Standard Class,Consumer,Central,Office Supplies,Labels,13.216,19.243981284104166
+2,0.7,-15.08,Standard Class,Corporate,West,Office Supplies,Binders,22.62,18.500576958546166
+2,0.0,12.864,Second Class,Corporate,East,Furniture,Furnishings,26.8,42.39997662601752
+3,0.0,40.416,First Class,Consumer,Central,Furniture,Furnishings,126.3,149.62804740134118
+8,0.7,-24.416,Standard Class,Corporate,West,Office Supplies,Binders,36.624,23.06807566045123
+4,0.3,0.0,Standard Class,Consumer,Central,Furniture,Chairs,683.144,257.6614167487216
+6,0.2,6.6294,Second Class,Consumer,West,Office Supplies,Binders,18.288,20.039151080752113
+4,0.2,94.2784,First Class,Corporate,South,Office Supplies,Appliances,942.784,622.4919562960646
+5,0.2,944.9865,Same Day,Consumer,West,Technology,Copiers,2799.96,2771.133528220853
+2,0.2,-25.2956,First Class,Consumer,East,Furniture,Bookcases,183.968,235.19889899303772
+1,0.0,2.0979,Standard Class,Corporate,West,Office Supplies,Appliances,7.77,16.843422376627295
+4,0.0,225.6,Standard Class,Consumer,East,Technology,Machines,480.0,849.718660245321
+3,0.0,9.2556,Standard Class,Consumer,South,Furniture,Furnishings,25.71,32.674961310030646
+3,0.2,37.236,Standard Class,Consumer,West,Office Supplies,Binders,102.72,105.6110945947432
+6,0.0,9.1674,Standard Class,Corporate,Central,Office Supplies,Art,27.78,23.24065254829083
+5,0.0,17.108,Standard Class,Consumer,South,Office Supplies,Binders,36.4,47.740004878397585
+2,0.2,16.3172,Standard Class,Home Office,West,Furniture,Furnishings,68.704,52.26477571383194
+2,0.0,14.3856,Standard Class,Home Office,South,Furniture,Furnishings,39.96,46.711012919464444
+5,0.0,31.4895,Second Class,Corporate,West,Technology,Accessories,149.95,132.53675473794144
+4,0.2,2.0088,Standard Class,Home Office,South,Office Supplies,Art,17.856,16.93236931318311
+7,0.0,41.2237,Standard Class,Consumer,East,Office Supplies,Labels,87.71,104.85256627973702
+5,0.0,94.962,Standard Class,Consumer,South,Office Supplies,Paper,193.8,214.07516788866346
+3,0.2,27.735,Standard Class,Consumer,West,Office Supplies,Binders,88.752,84.12094240330686
+5,0.2,-10.948,Standard Class,Consumer,Central,Office Supplies,Supplies,51.52,17.167304659089158
+3,0.0,144.3546,Standard Class,Consumer,East,Office Supplies,Appliances,370.14,449.3727916563925
+2,0.0,10.9096,Standard Class,Consumer,West,Furniture,Furnishings,41.96,39.28789019051844
+3,0.2,0.5097,Standard Class,Consumer,East,Technology,Accessories,40.776,59.27780495315669
+2,0.2,2.64,First Class,Home Office,Central,Office Supplies,Paper,8.448,16.8957436141644
+6,0.0,320.3172,First Class,Corporate,West,Furniture,Tables,1685.88,1573.3533508130854
+1,0.2,3.0338,First Class,Consumer,West,Furniture,Furnishings,11.032,30.76927273539058
+4,0.15,-4.8392,Same Day,Home Office,West,Furniture,Bookcases,411.332,286.2120971184673
+2,0.0,17.38,First Class,Consumer,East,Office Supplies,Storage,69.52,103.2289867984751
+1,0.2,0.4264,First Class,Consumer,East,Office Supplies,Art,2.624,16.843422376627295
+1,0.0,13.071,Standard Class,Home Office,East,Office Supplies,Storage,43.57,76.36061368025882
+4,0.0,12.4416,Standard Class,Consumer,South,Office Supplies,Paper,25.92,34.46537569096245
+3,0.2,-4.641,First Class,Consumer,East,Technology,Accessories,53.04,59.57088690011644
+3,0.0,8.7906,Second Class,Corporate,South,Office Supplies,Envelopes,17.94,22.565859016154576
+5,0.0,10.368,Second Class,Corporate,West,Office Supplies,Art,32.4,32.2105180606835
+3,0.1,12.8058,Second Class,Consumer,East,Furniture,Chairs,164.646,246.25238609455934
+1,0.0,8.5914,Standard Class,Home Office,East,Furniture,Furnishings,19.98,32.49001968548028
+2,0.0,148.1064,First Class,Consumer,South,Technology,Phones,569.64,517.7450468184941
+2,0.8,-11.7612,Second Class,Corporate,Central,Office Supplies,Appliances,4.356,17.258382766993325
+6,0.3,-92.7996,Standard Class,Consumer,Central,Furniture,Chairs,382.116,552.9523718744068
+3,0.0,42.8148,Standard Class,Consumer,West,Office Supplies,Appliances,152.91,132.56194664578854
+5,0.1,178.901,Standard Class,Corporate,Central,Office Supplies,Appliances,555.21,771.765991343854
+3,0.0,25.5528,Standard Class,Corporate,East,Furniture,Chairs,212.94,239.56647577219366
+7,0.0,0.6993,First Class,Corporate,Central,Technology,Phones,69.93,59.27780495315669
+2,0.2,3.546,Standard Class,Consumer,East,Office Supplies,Art,15.76,17.16644080428584
+2,0.0,9.936,First Class,Corporate,South,Office Supplies,Labels,20.7,30.91703609644702
+2,0.0,89.3142,First Class,Consumer,East,Technology,Phones,307.98,280.9738435460108
+7,0.2,334.4985,Standard Class,Consumer,West,Technology,Machines,2973.32,2387.473397445037
+5,0.2,302.373,First Class,Consumer,West,Office Supplies,Binders,895.92,975.6686046541995
+7,0.0,40.5426,Second Class,Home Office,East,Furniture,Furnishings,96.53,140.0937872351434
+3,0.2,47.8152,Standard Class,Corporate,West,Office Supplies,Paper,131.904,135.07201125687365
+3,0.0,41.823,Standard Class,Consumer,West,Office Supplies,Paper,92.94,103.02034444220439
+6,0.0,258.696,Second Class,Corporate,South,Technology,Accessories,646.74,961.2254454477312
+3,0.0,9.3312,Standard Class,Corporate,South,Office Supplies,Paper,19.44,22.599509981728847
+3,0.0,16.2486,Standard Class,Home Office,South,Technology,Accessories,47.79,72.89781767593857
+2,0.0,11.5432,Standard Class,Home Office,East,Office Supplies,Paper,24.56,33.15214538802579
+3,0.6,-10.1736,Standard Class,Home Office,Central,Furniture,Furnishings,22.608,31.03720176348516
+3,0.2,5.538,Same Day,Corporate,West,Office Supplies,Binders,17.04,19.3699797572532
+8,0.0,25.8984,Standard Class,Consumer,West,Office Supplies,Art,95.92,72.64925612576589
+3,0.4,-31.05,Second Class,Consumer,East,Technology,Phones,124.2,173.43291857461975
+6,0.2,607.608,First Class,Consumer,East,Technology,Accessories,2025.36,2073.3839801984127
+5,0.3,-77.333,Second Class,Home Office,Central,Furniture,Chairs,318.43,512.0277899003635
+4,0.2,7.2576,Standard Class,Home Office,East,Office Supplies,Paper,20.736,22.046619831368485
+6,0.2,9.7092,Standard Class,Consumer,East,Office Supplies,Art,86.304,33.02866291746634
+2,0.2,5.998,First Class,Home Office,Central,Technology,Phones,47.984,58.89794201186403
+2,0.2,8.1552,Standard Class,Consumer,East,Office Supplies,Appliances,81.552,24.126992929346393
+3,0.2,15.525,Standard Class,Consumer,East,Furniture,Furnishings,124.2,49.60078251838664
+1,0.0,9.7812,Standard Class,Consumer,East,Furniture,Furnishings,22.23,38.122308955920616
+4,0.2,415.9896,Standard Class,Home Office,West,Technology,Machines,1279.968,2457.9607129441497
+3,0.2,6.7176,Standard Class,Consumer,West,Furniture,Tables,268.704,322.53205605095224
+5,0.2,59.4355,Standard Class,Consumer,South,Office Supplies,Paper,163.96,182.6183269110002
+8,0.2,17.6016,Standard Class,Consumer,South,Technology,Accessories,74.112,91.96496126371507
+4,0.0,66.0736,Standard Class,Home Office,West,Office Supplies,Appliances,227.84,218.28413192093234
+2,0.2,5.5512,Standard Class,Consumer,Central,Office Supplies,Paper,16.448,19.3699797572532
+4,0.2,7.4816,Standard Class,Home Office,South,Office Supplies,Paper,21.376,22.046619831368485
+3,0.0,6.2016,Standard Class,Home Office,West,Office Supplies,Art,18.24,19.960815202835615
+4,0.0,210.4936,Second Class,Consumer,West,Office Supplies,Storage,725.84,837.6969969711087
+3,0.0,25.47,Second Class,Corporate,South,Office Supplies,Envelopes,50.94,69.85542458352582
+7,0.0,49.105,Second Class,Consumer,Central,Office Supplies,Envelopes,106.75,119.53592117631264
+7,0.0,123.7691,Same Day,Consumer,East,Office Supplies,Appliances,426.79,391.0057111564256
+2,0.0,12.9792,Standard Class,Home Office,Central,Furniture,Furnishings,40.56,42.7656510553661
+3,0.0,25.1916,Standard Class,Consumer,East,Technology,Phones,89.97,103.64163042330223
+3,0.0,14.9292,Standard Class,Corporate,East,Furniture,Furnishings,124.41,48.899506693721044
+3,0.0,18.447,Second Class,Corporate,West,Office Supplies,Art,70.95,55.51673178822647
+14,0.0,87.1962,Standard Class,Consumer,West,Technology,Accessories,223.58,466.86439059469575
+3,0.0,19.3116,First Class,Consumer,East,Office Supplies,Art,68.97,58.706829648039296
+13,0.0,76.5583,Standard Class,Consumer,South,Office Supplies,Labels,162.89,230.92328801269448
+2,0.0,17.4064,Standard Class,Consumer,East,Furniture,Furnishings,40.48,63.4582367652579
+7,0.0,334.551,Standard Class,Corporate,West,Furniture,Tables,1115.17,1650.2944244243988
+5,0.8,-33.139,Standard Class,Consumer,Central,Office Supplies,Binders,21.38,23.516284096464553
+4,0.0,14.4648,Same Day,Consumer,Central,Office Supplies,Binders,29.52,39.62377034762091
+2,0.0,33.5888,Second Class,Consumer,West,Office Supplies,Appliances,119.96,108.662957195862
+4,0.7,-18.4624,Standard Class,Home Office,East,Office Supplies,Binders,25.176,19.03044981218219
+3,0.0,56.301,Standard Class,Home Office,West,Office Supplies,Storage,1126.02,640.2144184910276
+2,0.1,107.346,Same Day,Consumer,Central,Office Supplies,Appliances,644.076,481.9924648197771
+2,0.0,21.792,Standard Class,Consumer,East,Technology,Accessories,72.64,97.54719982916609
+6,0.2,3.504,Standard Class,Consumer,Central,Office Supplies,Art,28.032,17.092978444392493
+3,0.2,1.5795,Standard Class,Consumer,West,Office Supplies,Art,14.04,16.843422376627295
+3,0.4,-122.7816,Standard Class,Corporate,East,Furniture,Tables,613.908,414.3341247101296
+2,0.2,-28.5978,First Class,Corporate,South,Furniture,Chairs,207.984,171.87872989949136
+1,0.0,1.512,Second Class,Corporate,West,Office Supplies,Labels,3.15,16.843422376627295
+3,0.0,3.4086,Second Class,Corporate,East,Office Supplies,Appliances,13.11,17.077095348959542
+5,0.3,-4.497,Second Class,Consumer,Central,Furniture,Chairs,104.93,510.98104521385756
+3,0.0,6.7236,Standard Class,Consumer,South,Office Supplies,Appliances,25.86,21.47272102395225
+2,0.7,-2.1756,Standard Class,Home Office,West,Office Supplies,Binders,3.108,16.843422376627295
+4,0.0,6719.9808,First Class,Consumer,West,Technology,Copiers,13999.96,11501.947553333377
+4,0.0,21.1344,Standard Class,Consumer,West,Furniture,Furnishings,50.32,85.02203708971781
+4,0.0,15.2988,Standard Class,Consumer,West,Technology,Accessories,46.36,68.02827865032495
+7,0.2,15.8158,Standard Class,Consumer,West,Office Supplies,Binders,48.664,40.65330608841925
+1,0.4,-31.6204,Second Class,Consumer,East,Technology,Phones,135.516,169.53556140263433
+3,0.2,4.1151,Same Day,Consumer,East,Office Supplies,Paper,11.352,17.583881422590697
+2,0.3,156.047,First Class,Home Office,Central,Technology,Machines,574.91,628.2908331925127
+1,0.0,3.9831,Second Class,Consumer,East,Furniture,Furnishings,12.07,30.76927273539058
+4,0.0,24.9132,Standard Class,Home Office,East,Technology,Accessories,63.88,103.54730173660923
+2,0.0,8.922,Second Class,Home Office,East,Office Supplies,Storage,59.48,66.05155067412906
+1,0.0,15.525,Standard Class,Consumer,South,Furniture,Furnishings,51.75,48.42588849995656
+1,0.2,11.2839,Second Class,Home Office,West,Furniture,Tables,300.904,270.05265837514327
+2,0.0,3.401,Standard Class,Corporate,West,Technology,Accessories,17.9,58.89794201186403
+7,0.0,9.8784,Standard Class,Consumer,Central,Office Supplies,Binders,20.16,30.91703609644702
+4,0.2,3.0144,Second Class,Consumer,East,Furniture,Furnishings,20.096,30.76927273539058
+3,0.2,3.8844,Standard Class,Home Office,South,Office Supplies,Labels,11.952,17.553636170793993
+6,0.0,136.6176,Standard Class,Home Office,West,Office Supplies,Appliances,487.92,413.1027305728908
+2,0.7,-13.3936,Standard Class,Corporate,South,Office Supplies,Binders,18.264,17.844934432594638
+2,0.2,5.544,Standard Class,Corporate,Central,Office Supplies,Envelopes,15.84,19.3699797572532
+8,0.2,29.7024,Standard Class,Consumer,West,Office Supplies,Binders,91.392,90.12940747906508
+5,0.2,25.186,Standard Class,Corporate,West,Technology,Phones,71.96,249.53683238262417
+3,0.1,2.3094,Second Class,Corporate,East,Furniture,Chairs,207.846,307.227991648769
+2,0.0,4.3524,Standard Class,Corporate,Central,Furniture,Furnishings,16.74,30.63145039436984
+3,0.0,7.86,Standard Class,Corporate,West,Office Supplies,Art,31.44,22.546762785442322
+3,0.2,134.9322,Standard Class,Consumer,East,Office Supplies,Binders,415.176,441.92563764991843
+3,0.3,-7.7094,Standard Class,Corporate,Central,Furniture,Chairs,539.658,308.2092715254009
+9,0.2,50.4711,Standard Class,Corporate,East,Office Supplies,Binders,149.544,153.8187395429419
+3,0.0,6.6465,Second Class,Consumer,East,Office Supplies,Storage,221.55,111.19232536533625
+2,0.0,18.2112,Standard Class,Corporate,East,Office Supplies,Paper,37.94,54.367291980873674
+3,0.0,0.0,Standard Class,Corporate,West,Office Supplies,Storage,15.84,160.00651189110454
+5,0.0,14.896,Standard Class,Consumer,West,Furniture,Furnishings,53.2,48.82480319721755
+3,0.0,8.0352,First Class,Corporate,South,Office Supplies,Binders,16.74,22.018031156236095
+12,0.0,561.564,Standard Class,Consumer,South,Technology,Phones,1871.88,1795.5101180898298
+2,0.2,2.401,Standard Class,Home Office,East,Office Supplies,Storage,27.44,55.34080327576619
+9,0.0,33.642,Standard Class,Consumer,West,Office Supplies,Art,120.15,102.61976173853574
+5,0.0,88.1295,Second Class,Home Office,West,Technology,Accessories,214.95,273.7741930746853
+2,0.0,0.1744,First Class,Consumer,East,Office Supplies,Supplies,4.36,17.003714753682836
+2,0.0,100.122,First Class,Home Office,South,Furniture,Tables,455.1,554.0824820494649
+2,0.0,6.2208,Second Class,Consumer,Central,Office Supplies,Paper,12.96,19.64514166406282
+3,0.0,13.9152,Standard Class,Home Office,East,Furniture,Bookcases,173.94,240.64928370166052
+7,0.2,-1.2558,Standard Class,Consumer,West,Office Supplies,Storage,33.488,188.9049278811573
+3,0.0,5.6994,Standard Class,Corporate,South,Office Supplies,Labels,12.39,19.337620130481138
+2,0.2,4.9616,Standard Class,Corporate,West,Technology,Phones,49.616,58.89794201186403
+5,0.0,156.751,Standard Class,Corporate,South,Office Supplies,Binders,319.9,426.8330997634761
+2,0.2,2.1286,Same Day,Consumer,West,Office Supplies,Binders,5.872,16.843422376627295
+3,0.0,300.735,First Class,Corporate,South,Furniture,Tables,1202.94,1514.6633595258172
+8,0.0,11.7488,Standard Class,Corporate,West,Furniture,Furnishings,167.84,40.00860584016907
+5,0.0,29.0325,First Class,Consumer,West,Technology,Accessories,82.95,107.86702092423911
+9,0.0,11.9412,Second Class,Corporate,East,Office Supplies,Art,38.52,34.45556101930112
+2,0.0,2.224,Standard Class,Consumer,West,Office Supplies,Art,5.56,16.843422376627295
+4,0.7,-6.1248,Standard Class,Consumer,West,Office Supplies,Binders,7.656,16.93236931318311
+3,0.15,20.5176,Standard Class,Corporate,West,Furniture,Bookcases,435.999,231.26858452982768
+2,0.2,-14.603,Second Class,Corporate,West,Technology,Phones,68.72,67.6494587585955
+8,0.2,14.5152,Second Class,Corporate,South,Office Supplies,Paper,41.472,39.76959896529475
+3,0.0,11.025,Standard Class,Home Office,West,Furniture,Furnishings,26.25,39.28789019051844
+3,0.0,5.1552,Same Day,Home Office,Central,Office Supplies,Binders,10.74,19.337620130481138
+2,0.4,-66.6,Second Class,Consumer,East,Furniture,Tables,166.5,270.9948500444222
+1,0.0,24.47,Same Day,Consumer,West,Office Supplies,Paper,48.94,67.40645090955418
+1,0.2,1.062,Second Class,Corporate,Central,Office Supplies,Storage,14.16,53.23391230876804
+2,0.0,6.8714,Standard Class,Home Office,West,Office Supplies,Labels,14.62,19.942286678739894
+2,0.2,11.7488,Second Class,Consumer,East,Office Supplies,Binders,33.568,33.525529466668345
+6,0.0,9.102,Standard Class,Consumer,South,Furniture,Furnishings,22.2,32.68257594728555
+5,0.2,9.072,Standard Class,Consumer,Central,Office Supplies,Paper,25.92,22.735711139160827
+1,0.7,-1.9275,Standard Class,Consumer,East,Office Supplies,Binders,2.313,16.843422376627295
+2,0.0,6.4128,Same Day,Corporate,West,Office Supplies,Paper,13.36,19.698063427342706
+1,0.0,4.0995,Standard Class,Consumer,South,Office Supplies,Paper,9.11,17.583881422590697
+7,0.0,9.8784,Standard Class,Home Office,Central,Office Supplies,Labels,20.16,30.91703609644702
+2,0.7,-412.6154,First Class,Consumer,East,Office Supplies,Binders,538.194,513.6170416753755
+1,0.0,4.1634,Standard Class,Consumer,South,Office Supplies,Storage,15.42,53.65223339646078
+2,0.2,0.0,Standard Class,Consumer,South,Furniture,Bookcases,241.568,218.12660704763982
+3,0.2,0.8856,Second Class,Corporate,Central,Office Supplies,Art,7.872,16.843422376627295
+9,0.0,28.8576,Second Class,Corporate,South,Office Supplies,Paper,60.12,71.32119066952455
+6,0.0,72.5754,First Class,Consumer,West,Office Supplies,Appliances,250.26,247.0221491271883
+3,0.2,16.7832,Second Class,Corporate,West,Office Supplies,Paper,47.952,48.90717830849869
+2,0.2,20.724,Second Class,Corporate,West,Office Supplies,Binders,55.264,69.45670827419983
+3,0.2,44.046,Standard Class,Consumer,Central,Office Supplies,Paper,117.456,126.05335612498554
+6,0.15,-36.294,First Class,Corporate,West,Furniture,Bookcases,616.998,552.084829007907
+1,0.0,22.992,Standard Class,Corporate,West,Office Supplies,Paper,47.9,63.03689877038904
+3,0.2,8.7735,Second Class,Consumer,West,Technology,Phones,140.376,60.03586980107789
+6,0.2,61.4628,Standard Class,Consumer,Central,Office Supplies,Paper,182.112,184.67595131834622
+9,0.2,22.518,Standard Class,Corporate,West,Office Supplies,Paper,60.048,74.11910622729286
+9,0.0,70.5456,Standard Class,Consumer,East,Office Supplies,Binders,153.36,212.85308284273518
+2,0.0,3.72,Standard Class,Consumer,West,Office Supplies,Art,14.88,17.41088348443869
+3,0.2,11.5587,Second Class,Corporate,East,Office Supplies,Binders,34.248,33.28724419108454
+3,0.2,-37.9434,Second Class,Home Office,East,Furniture,Bookcases,275.952,297.41460696841006
+2,0.0,54.7136,First Class,Consumer,Central,Furniture,Bookcases,341.96,273.24218307925605
+1,0.4,-52.3365,Standard Class,Consumer,East,Furniture,Tables,136.53,246.32258786888482
+3,0.0,68.976,Second Class,Home Office,West,Office Supplies,Paper,143.7,146.81289980648
+2,0.7,-1.5264,Standard Class,Consumer,East,Office Supplies,Binders,1.908,16.843422376627295
+9,0.0,35.0244,Standard Class,Consumer,South,Office Supplies,Envelopes,74.52,98.1734693947074
+4,0.0,214.164,Standard Class,Corporate,East,Office Supplies,Storage,713.88,822.6006005661795
+8,0.2,6.7032,Standard Class,Corporate,South,Office Supplies,Appliances,76.608,21.671638092631138
+7,0.2,13.8572,Second Class,Home Office,Central,Office Supplies,Storage,158.368,279.9530665242492
+2,0.0,5.2256,Standard Class,Consumer,East,Office Supplies,Paper,11.36,19.337620130481138
+4,0.0,30.52,Standard Class,Corporate,East,Office Supplies,Binders,61.04,82.17635916497494
+1,0.0,28.7964,Standard Class,Home Office,West,Technology,Accessories,79.99,106.3125782044869
+4,0.0,11.1776,Standard Class,Corporate,South,Furniture,Furnishings,39.92,39.62191005623457
+10,0.2,179.73,Standard Class,Corporate,West,Technology,Machines,2396.4,955.3464459159768
+2,0.2,3.024,Standard Class,Consumer,East,Office Supplies,Binders,8.64,16.92971559448283
+3,0.0,77.625,Second Class,Consumer,South,Furniture,Chairs,258.75,349.00771122107847
+3,0.2,-6.4233,Standard Class,Corporate,West,Furniture,Tables,171.288,297.8156804614844
+2,0.0,3.4544,Second Class,Corporate,South,Furniture,Furnishings,10.16,30.76927273539058
+2,0.0,120.9416,Standard Class,Consumer,Central,Office Supplies,Appliances,465.16,399.787382550887
+2,0.0,209.993,Same Day,Consumer,Central,Technology,Copiers,599.98,766.4136625128588
+3,0.8,-12.9792,Standard Class,Corporate,Central,Office Supplies,Appliances,4.992,17.645897312756286
+4,0.3,-58.5048,Standard Class,Consumer,East,Furniture,Chairs,215.544,577.1744845082015
+2,0.0,57.5928,Standard Class,Consumer,East,Technology,Accessories,159.98,199.33556268290687
+3,0.0,10.4148,Same Day,Consumer,West,Furniture,Furnishings,31.56,38.57424109841453
+9,0.2,6.7536,Second Class,Home Office,Central,Office Supplies,Storage,67.536,158.87987777638364
+2,0.0,10.518,Standard Class,Consumer,West,Office Supplies,Supplies,35.06,44.98984191663627
+3,0.2,33.7212,Second Class,Home Office,West,Office Supplies,Paper,93.024,102.229210051073
+3,0.2,47.061,Second Class,Consumer,East,Office Supplies,Binders,139.44,133.88359434295313
+1,0.2,1.0738,Standard Class,Consumer,South,Office Supplies,Art,3.304,16.843422376627295
+5,0.2,1.926,Same Day,Consumer,East,Office Supplies,Art,17.12,16.93236931318311
+6,0.2,9.7038,Standard Class,Consumer,West,Office Supplies,Binders,28.752,30.950551603636782
+2,0.0,80.6312,Standard Class,Corporate,West,Office Supplies,Storage,310.12,334.1998743971778
+3,0.2,-33.804,Standard Class,Consumer,Central,Office Supplies,Storage,338.04,205.14086446532326
+4,0.0,4.9648,First Class,Consumer,West,Office Supplies,Art,17.12,19.596291895307203
+3,0.2,3.21,Second Class,Consumer,South,Office Supplies,Paper,10.272,16.92971559448283
+3,0.2,1.002,Standard Class,Home Office,South,Office Supplies,Art,8.016,16.843422376627295
+3,0.0,62.532,First Class,Corporate,South,Office Supplies,Appliances,208.44,191.75982423570227
+2,0.0,16.4052,Standard Class,Consumer,Central,Office Supplies,Binders,33.48,41.19319155723797
+2,0.2,0.91,First Class,Corporate,West,Office Supplies,Art,2.912,16.843422376627295
+2,0.0,2.528,Same Day,Consumer,Central,Office Supplies,Fasteners,7.9,16.8957436141644
+2,0.0,61.389,Standard Class,Corporate,West,Office Supplies,Storage,323.1,307.384311277537
+5,0.2,38.725,Standard Class,Corporate,East,Office Supplies,Paper,123.92,114.00748798220702
+3,0.0,2.397,Standard Class,Consumer,West,Furniture,Furnishings,47.94,30.76927273539058
+4,0.0,9.7608,Second Class,Consumer,West,Office Supplies,Paper,19.92,30.91703609644702
+2,0.0,89.3142,Standard Class,Corporate,East,Technology,Phones,307.98,283.1711097581843
+7,0.2,46.095,Standard Class,Corporate,Central,Technology,Phones,122.92,426.9286578119897
+3,0.0,1.4742,Standard Class,Corporate,South,Office Supplies,Art,5.46,16.843422376627295
+4,0.0,5.4488,Standard Class,Corporate,East,Office Supplies,Binders,11.12,19.337620130481138
+4,0.7,-27.9312,Standard Class,Corporate,East,Office Supplies,Binders,38.088,37.23401401062432
+3,0.0,8.694,First Class,Corporate,West,Office Supplies,Labels,18.9,22.565859016154576
+4,0.0,69.986,Standard Class,Consumer,West,Technology,Accessories,199.96,232.75180355069898
+4,0.0,134.3888,Standard Class,Consumer,Central,Technology,Phones,479.96,442.68934187703445
+6,0.0,10.8,Standard Class,Corporate,East,Office Supplies,Labels,22.5,32.567665041353536
+1,0.2,1.7136,Second Class,Corporate,West,Furniture,Furnishings,15.232,30.76927273539058
+7,0.0,19.8254,Standard Class,Consumer,West,Office Supplies,Paper,40.46,59.07998666431584
+7,0.2,3.528,Standard Class,Consumer,West,Office Supplies,Binders,10.08,17.220550454114612
+6,0.2,3.4974,Standard Class,Home Office,East,Office Supplies,Fasteners,9.648,17.092978444392493
+2,0.7,-13.6312,Second Class,Consumer,East,Office Supplies,Binders,18.588,17.844934432594638
+3,0.2,15.282,First Class,Home Office,East,Office Supplies,Envelopes,40.752,39.919881777336755
+3,0.0,21.7515,Standard Class,Consumer,Central,Furniture,Furnishings,127.95,84.79310364110052
+6,0.7,-33.636,Standard Class,Home Office,South,Office Supplies,Binders,50.454,40.00176655534828
+3,0.4,-12.5103,Standard Class,Home Office,East,Technology,Phones,68.238,63.14991960516892
+3,0.0,86.3856,Standard Class,Home Office,West,Technology,Accessories,179.97,251.1101323269662
+3,0.2,2.205,Second Class,Home Office,Central,Office Supplies,Art,7.056,16.843422376627295
+4,0.2,20.196,Same Day,Consumer,West,Furniture,Chairs,323.136,239.28771679189967
+4,0.45,-458.1468,Standard Class,Consumer,South,Furniture,Tables,933.262,796.7027758827247
+3,0.2,1.6524,Standard Class,Consumer,East,Office Supplies,Envelopes,4.896,16.843422376627295
+2,0.0,15.8256,Standard Class,Corporate,West,Furniture,Furnishings,37.68,50.20241949030926
+1,0.0,170.997,Second Class,Corporate,East,Technology,Phones,569.99,615.2214400031395
+4,0.0,30.7776,Second Class,Corporate,South,Office Supplies,Binders,64.12,82.17635916497494
+1,0.0,3.1104,Standard Class,Consumer,East,Office Supplies,Paper,6.48,16.92971559448283
+1,0.2,-16.3183,Standard Class,Consumer,East,Office Supplies,Storage,76.792,90.64861339884993
+3,0.2,4.7976,First Class,Consumer,South,Technology,Phones,47.976,59.27780495315669
+4,0.2,7.2268,Standard Class,Corporate,West,Office Supplies,Binders,19.936,22.046619831368485
+5,0.0,114.9385,Standard Class,Corporate,South,Office Supplies,Paper,244.55,246.43608452279616
+3,0.2,-19.1058,Standard Class,Consumer,West,Furniture,Chairs,218.352,246.74679778451042
+3,0.0,15.4752,Same Day,Consumer,West,Office Supplies,Art,59.52,40.93875899335569
+6,0.0,151.47,Standard Class,Home Office,East,Furniture,Chairs,605.88,638.5800735600874
+2,0.0,119.2,Standard Class,Corporate,Central,Furniture,Chairs,476.8,760.2930287429485
+1,0.2,17.6391,Standard Class,Home Office,West,Technology,Phones,156.792,126.48169331500084
+5,0.0,6.206,Standard Class,Home Office,West,Office Supplies,Art,21.4,19.960815202835615
+5,0.8,-90.774,First Class,Corporate,Central,Office Supplies,Appliances,33.62,40.58463971674278
+1,0.2,0.8162,Second Class,Corporate,West,Office Supplies,Art,9.328,16.843422376627295
+4,0.2,16.8544,Standard Class,Consumer,South,Furniture,Furnishings,337.088,73.37243898198781
+2,0.0,9.2928,Standard Class,Consumer,West,Office Supplies,Paper,19.36,22.599509981728847
+5,0.0,34.2925,Standard Class,Consumer,West,Office Supplies,Storage,118.25,161.88827646744437
+2,0.0,93.5948,Standard Class,Corporate,East,Technology,Phones,359.98,317.2075264683312
+4,0.0,107.7216,First Class,Consumer,West,Office Supplies,Paper,219.84,230.8838696724349
+2,0.2,3.6288,Same Day,Consumer,East,Office Supplies,Paper,10.368,17.131603517558794
+3,0.0,9.3312,First Class,Home Office,West,Office Supplies,Paper,19.44,22.599509981728847
+6,0.4,-299.2614,Standard Class,Consumer,South,Furniture,Tables,945.036,1143.6107530647473
+2,0.15,-14.4784,Standard Class,Consumer,West,Furniture,Bookcases,307.666,231.61354092354014
+3,0.2,13.4316,Standard Class,Consumer,West,Office Supplies,Binders,38.376,35.604961051987445
+3,0.0,5.1465,Standard Class,Corporate,East,Office Supplies,Paper,10.95,19.337620130481138
+8,0.0,18.3264,Standard Class,Consumer,West,Office Supplies,Labels,39.84,54.423514147075494
+4,0.2,3.1212,Standard Class,Consumer,Central,Office Supplies,Labels,9.248,17.018662531038643
+7,0.0,189.4046,Standard Class,Consumer,Central,Furniture,Chairs,860.93,662.0680326192477
+2,0.2,-7.996,Standard Class,Corporate,West,Technology,Phones,31.984,63.18485988423934
+8,0.0,770.352,Standard Class,Consumer,Central,Furniture,Chairs,2567.84,2602.354094258495
+4,0.7,-1306.5504,Standard Class,Home Office,South,Office Supplies,Binders,1633.188,7607.332101333326
+5,0.0,43.176,Standard Class,Consumer,East,Technology,Phones,89.95,138.17034230902746
+9,0.2,2.6568,Standard Class,Consumer,Central,Office Supplies,Art,23.616,17.107827796829962
+3,0.2,116.2425,Standard Class,Consumer,West,Technology,Machines,371.976,767.8425746176048
+2,0.0,7.0048,Same Day,Home Office,Central,Furniture,Furnishings,15.92,30.869751509000768
+4,0.2,0.896,Second Class,Consumer,South,Office Supplies,Appliances,14.336,16.93236931318311
+1,0.2,0.2996,Second Class,Home Office,East,Office Supplies,Art,3.424,16.843422376627295
+9,0.0,11.151,Same Day,Home Office,West,Office Supplies,Art,37.17,33.67852275178048
+3,0.2,4.4352,First Class,Corporate,East,Office Supplies,Binders,12.672,19.243981284104166
+3,0.0,9.7176,Standard Class,Corporate,West,Office Supplies,Storage,242.94,122.23044522307808
+4,0.2,70.5564,First Class,Home Office,West,Technology,Phones,627.168,721.0648403510472
+2,0.2,-10.0196,First Class,Consumer,East,Furniture,Bookcases,801.568,224.57227860791016
+3,0.7,-26.964,Standard Class,Consumer,South,Office Supplies,Binders,38.52,29.51323143763368
+2,0.2,3.6288,Standard Class,Corporate,Central,Office Supplies,Paper,10.368,17.131603517558794
+2,0.0,40.1702,First Class,Home Office,East,Office Supplies,Paper,81.98,100.07077744560095
+4,0.2,19.0848,Standard Class,Consumer,South,Furniture,Furnishings,72.704,111.26612519578254
+5,0.0,15.372,Standard Class,Consumer,East,Office Supplies,Supplies,54.9,64.79353192242921
+3,0.2,7.1994,Standard Class,Corporate,East,Furniture,Bookcases,287.976,248.56012096643045
+5,0.8,-123.858,Standard Class,Home Office,Central,Office Supplies,Appliances,68.81,52.213038342481575
+2,0.0,27.4344,Standard Class,Consumer,Central,Technology,Phones,97.98,107.70779624782678
+3,0.0,9.039,First Class,Consumer,East,Office Supplies,Paper,19.65,22.565859016154576
+5,0.0,8.5025,Standard Class,Corporate,South,Technology,Accessories,44.75,60.03586980107789
+3,0.0,13.8828,Standard Class,Corporate,West,Office Supplies,Paper,30.18,37.655119509307475
+2,0.0,3.7996,Standard Class,Consumer,West,Office Supplies,Labels,8.26,17.403487399687346
+10,0.0,25.098,Standard Class,Consumer,Central,Office Supplies,Binders,53.4,70.01177255632962
+7,0.2,111.5688,Standard Class,Corporate,West,Office Supplies,Paper,307.776,397.9745750941048
+2,0.2,12.599,Second Class,Consumer,West,Technology,Phones,201.584,65.83859680168266
+5,0.8,-65.568,Standard Class,Consumer,Central,Office Supplies,Binders,40.98,39.94906501598075
+3,0.7,-3.4272,Second Class,Consumer,East,Office Supplies,Binders,4.896,16.843422376627295
+2,0.2,0.5904,Standard Class,Home Office,Central,Office Supplies,Art,5.248,16.843422376627295
+3,0.0,11.1564,Standard Class,Consumer,Central,Furniture,Furnishings,123.96,39.76036998695092
+6,0.5,-376.6932,Second Class,Corporate,East,Furniture,Bookcases,482.94,575.5056954904935
+2,0.8,-38.8212,Standard Class,Consumer,Central,Office Supplies,Appliances,15.224,24.9740260000183
+4,0.0,19.6328,Same Day,Corporate,South,Office Supplies,Envelopes,42.68,58.958406096685344
+4,0.8,-11.4648,Standard Class,Consumer,Central,Office Supplies,Binders,6.744,17.10660509940328
+7,0.4,-251.9958,Second Class,Corporate,Central,Technology,Machines,2519.958,1355.5657154900725
+2,0.1,140.396,Standard Class,Consumer,East,Furniture,Chairs,631.782,736.3424823439183
+2,0.0,41.1684,Standard Class,Consumer,West,Furniture,Bookcases,141.96,182.45363358925525
+7,0.0,14.6825,Standard Class,Home Office,East,Office Supplies,Appliances,58.73,44.47211753066058
+11,0.2,17.908,Second Class,Corporate,West,Office Supplies,Art,71.632,59.93668250384252
+2,0.2,5.1184,Second Class,Consumer,West,Office Supplies,Binders,14.624,19.3699797572532
+7,0.1,63.9345,Same Day,Consumer,East,Furniture,Chairs,383.607,471.5611137655003
+2,0.2,2.401,First Class,Corporate,Central,Office Supplies,Storage,27.44,56.314678100209385
+10,0.0,394.268,Standard Class,Home Office,Central,Furniture,Chairs,1408.1,1625.0197373405476
+5,0.2,13.572,Standard Class,Corporate,Central,Technology,Phones,180.96,71.94699301721528
+5,0.0,26.973,Standard Class,Corporate,West,Furniture,Furnishings,72.9,100.70759371192794
+1,0.8,-6.3441,First Class,Consumer,Central,Office Supplies,Appliances,2.394,16.843422376627295
+1,0.0,8.0548,First Class,Consumer,East,Office Supplies,Appliances,30.98,23.677223198814996
+8,0.2,49.2576,Second Class,Home Office,West,Technology,Phones,140.736,575.7639623805333
+1,0.0,3.04,Standard Class,Corporate,Central,Office Supplies,Fasteners,6.08,16.92971559448283
+2,0.0,0.1472,Same Day,Corporate,East,Office Supplies,Supplies,7.36,17.003714753682836
+5,0.0,76.1125,Second Class,Consumer,South,Furniture,Chairs,304.45,390.9995985453076
+3,0.0,9.9882,Second Class,Consumer,South,Office Supplies,Storage,332.94,120.97158602857756
+7,0.4,-93.2316,Standard Class,Corporate,East,Technology,Phones,466.158,456.97131554019063
+3,0.0,10.3071,Second Class,Consumer,East,Office Supplies,Labels,21.93,31.221769589789492
+2,0.0,217.767,Standard Class,Consumer,East,Technology,Accessories,659.9,727.5659294626615
+2,0.2,2.2066,Standard Class,Corporate,East,Technology,Accessories,10.384,58.89794201186403
+4,0.8,-2.7648,Standard Class,Consumer,Central,Office Supplies,Binders,1.728,16.93236931318311
+7,0.1,29.8802,Second Class,Consumer,East,Furniture,Chairs,384.174,357.10396014229656
+1,0.0,3.1104,Standard Class,Corporate,West,Office Supplies,Paper,6.48,16.92971559448283
+3,0.0,8.4966,Second Class,Consumer,West,Office Supplies,Paper,17.34,22.489503404729472
+5,0.0,129.5865,Standard Class,Consumer,East,Technology,Phones,479.95,437.50822269451214
+3,0.0,2.6568,Second Class,Corporate,East,Office Supplies,Art,9.84,16.8957436141644
+2,0.7,-6.104,Standard Class,Home Office,West,Office Supplies,Binders,9.156,16.843422376627295
+6,0.0,9.816,Standard Class,Corporate,Central,Technology,Accessories,98.16,61.289328204004136
+7,0.2,111.517,Same Day,Consumer,West,Furniture,Tables,892.136,1049.1410595563245
+5,0.3,-143.431,Standard Class,Corporate,Central,Furniture,Chairs,528.43,656.05121631495
+2,0.2,3.5256,Standard Class,Corporate,East,Office Supplies,Paper,10.848,17.131603517558794
+6,0.2,341.994,First Class,Consumer,Central,Technology,Phones,2735.952,1727.3170955376818
+7,0.32,-225.0976,Standard Class,Consumer,Central,Furniture,Bookcases,956.6648,1059.8050578215216
+4,0.2,11.0704,Standard Class,Consumer,West,Furniture,Furnishings,40.256,39.32914759855466
+3,0.2,-4.641,First Class,Consumer,West,Technology,Accessories,53.04,59.57088690011644
+3,0.8,-3.0396,Standard Class,Home Office,Central,Office Supplies,Binders,1.788,16.843422376627295
+5,0.0,17.745,Standard Class,Consumer,West,Office Supplies,Storage,354.9,208.7252072046038
+2,0.2,2.1492,Standard Class,Consumer,West,Office Supplies,Binders,6.368,16.843422376627295
+3,0.5,-131.445,Standard Class,Consumer,Central,Furniture,Tables,219.075,213.6755629765588
+3,0.6,-5.8248,First Class,Corporate,Central,Furniture,Furnishings,9.708,30.711014720023176
+5,0.5,-465.568,Standard Class,Corporate,West,Furniture,Tables,727.45,709.8714184084089
+1,0.0,1.512,Standard Class,Corporate,East,Office Supplies,Labels,3.15,16.843422376627295
+9,0.2,39.8736,Same Day,Consumer,West,Office Supplies,Binders,122.688,113.79331899782173
+3,0.2,7.0173,Standard Class,Consumer,Central,Office Supplies,Art,62.376,20.838581917879953
+4,0.0,38.9312,Standard Class,Consumer,West,Office Supplies,Storage,139.04,173.73941947992296
+2,0.3,-28.498,Standard Class,Consumer,East,Furniture,Chairs,398.972,161.49425858915473
+2,0.2,15.808,Standard Class,Corporate,West,Office Supplies,Binders,48.64,40.65330608841925
+3,0.0,8.694,First Class,Corporate,East,Office Supplies,Labels,18.9,22.565859016154576
+3,0.0,91.7892,Standard Class,Corporate,West,Technology,Accessories,254.97,280.32460111444675
+2,0.0,6.2208,First Class,Corporate,South,Office Supplies,Paper,12.96,19.64514166406282
+2,0.0,12.99,Second Class,Consumer,South,Furniture,Chairs,51.96,203.66215522934888
+3,0.0,3.0996,Standard Class,Consumer,East,Office Supplies,Art,7.56,16.92971559448283
+1,0.2,1.1151,Standard Class,Corporate,West,Office Supplies,Binders,3.304,16.843422376627295
+5,0.0,38.988,Second Class,Corporate,West,Office Supplies,Storage,324.9,194.55419969144987
+2,0.2,6.3612,Second Class,Consumer,South,Furniture,Furnishings,28.272,30.94976339152403
+5,0.0,24.84,Second Class,Consumer,West,Office Supplies,Labels,51.75,68.54395562670676
+2,0.2,10.3936,First Class,Consumer,East,Furniture,Furnishings,51.968,38.756057148135476
+5,0.0,19.458,Standard Class,Consumer,East,Office Supplies,Envelopes,41.4,58.81431886476976
+3,0.0,42.1314,Standard Class,Consumer,East,Office Supplies,Labels,91.59,109.82463317722599
+3,0.2,9.7152,Second Class,Consumer,East,Furniture,Furnishings,48.576,38.16356636395684
+3,0.2,44.2425,Standard Class,Consumer,West,Technology,Phones,707.88,419.4042537266581
+5,0.45,-383.031,Standard Class,Consumer,South,Furniture,Tables,957.5775,732.4803578448845
+6,0.2,10.8864,First Class,Home Office,West,Office Supplies,Paper,31.104,32.702763844412296
+5,0.0,14.148,Standard Class,Consumer,Central,Office Supplies,Storage,52.4,172.64347303636632
+3,0.1,36.3018,Second Class,Corporate,East,Furniture,Chairs,192.186,347.6579924139506
+5,0.0,55.647,Second Class,Consumer,South,Technology,Phones,206.1,198.96242484645126
+8,0.0,13.2,Same Day,Consumer,East,Technology,Accessories,120.0,63.33920282403169
+3,0.0,9.3312,Standard Class,Corporate,West,Office Supplies,Paper,19.44,22.599509981728847
+8,0.2,6.2424,Second Class,Home Office,East,Office Supplies,Labels,18.496,19.79492782935493
+4,0.2,-68.392,Standard Class,Home Office,East,Furniture,Furnishings,547.136,407.2438511514999
+6,0.0,88.053,Standard Class,Consumer,East,Technology,Phones,179.7,282.9907222650536
+4,0.0,198.46,Standard Class,Consumer,East,Furniture,Furnishings,396.92,665.0483657858207
+7,0.0,63.8232,Standard Class,Corporate,West,Technology,Accessories,265.93,203.3763329460715
+4,0.2,-3.768,Standard Class,Consumer,Central,Office Supplies,Fasteners,15.072,16.93236931318311
+2,0.0,5.796,Standard Class,Corporate,West,Office Supplies,Labels,12.6,19.444067469397904
+7,0.0,31.9319,Second Class,Consumer,West,Office Supplies,Supplies,110.11,490.56105345421895
+2,0.2,13.7176,Standard Class,Consumer,South,Office Supplies,Paper,42.208,37.75882689648544
+3,0.2,-10.7973,Second Class,Corporate,Central,Technology,Accessories,95.976,63.81614487071104
+1,0.2,13.2293,Standard Class,Consumer,Central,Technology,Phones,151.192,66.08846727742849
+2,0.0,2.99,Standard Class,Consumer,Central,Office Supplies,Art,11.96,16.92971559448283
+2,0.2,-5.4548,Second Class,Corporate,East,Furniture,Furnishings,33.568,32.38190022319021
+3,0.0,163.1898,Standard Class,Corporate,West,Technology,Accessories,479.97,510.38728764201903
+2,0.7,-2.5632,Standard Class,Home Office,South,Office Supplies,Binders,3.204,16.843422376627295
+2,0.2,6.2664,Standard Class,Consumer,Central,Office Supplies,Paper,17.904,19.79492782935493
+6,0.0,23.5872,Standard Class,Home Office,West,Office Supplies,Appliances,87.36,74.98332702201883
+3,0.2,40.8006,Standard Class,Corporate,West,Furniture,Chairs,544.008,501.21230974398696
+4,0.0,3.456,Standard Class,Consumer,West,Office Supplies,Art,11.52,17.092978444392493
+4,0.8,-8.316,Standard Class,Consumer,Central,Office Supplies,Binders,4.752,16.93236931318311
+2,0.2,3.5742,Second Class,Home Office,Central,Technology,Accessories,13.616,58.89794201186403
+2,0.2,19.824,First Class,Consumer,Central,Office Supplies,Storage,264.32,222.71523783410382
+2,0.0,53.196,Same Day,Consumer,West,Furniture,Furnishings,204.6,224.09146581882766
+6,0.3,-9.7176,Standard Class,Home Office,Central,Furniture,Chairs,340.116,455.192795156947
+2,0.7,-2.6544,Standard Class,Consumer,East,Office Supplies,Binders,3.318,16.843422376627295
+2,0.0,19.8144,Same Day,Corporate,Central,Office Supplies,Binders,41.28,59.20829160563728
+11,0.2,-35.178,Same Day,Consumer,Central,Office Supplies,Storage,281.424,505.30047984562486
+3,0.0,12.5118,Standard Class,Home Office,Central,Office Supplies,Art,29.79,35.49911463077319
+7,0.0,67.6599,Standard Class,Corporate,East,Technology,Accessories,205.03,237.7932134085864
+10,0.8,-51.296,Standard Class,Consumer,Central,Office Supplies,Binders,32.06,168.42824419099443
+3,0.32,-18.0588,Standard Class,Consumer,Central,Furniture,Bookcases,613.9992,260.51162807166577
+2,0.0,2.0672,Same Day,Consumer,West,Office Supplies,Art,6.08,16.843422376627295
+2,0.2,1.9926,Standard Class,Corporate,Central,Office Supplies,Labels,5.904,16.843422376627295
+4,0.2,3.6432,First Class,Consumer,East,Office Supplies,Art,13.248,17.341053537112764
+1,0.2,0.8058,Standard Class,Consumer,West,Office Supplies,Storage,10.744,53.47361375112432
+1,0.2,0.51,Standard Class,Consumer,West,Office Supplies,Supplies,6.8,17.003714753682836
+7,0.3,-9.093,First Class,Home Office,Central,Furniture,Chairs,127.302,559.4561918203885
+4,0.0,17.982,First Class,Corporate,East,Office Supplies,Paper,39.96,54.367291980873674
+3,0.7,-12.8961,Standard Class,Consumer,West,Office Supplies,Binders,16.821,17.844934432594638
+3,0.0,10.4148,Standard Class,Corporate,East,Furniture,Furnishings,31.56,38.57424109841453
+5,0.2,7.196,Standard Class,Consumer,South,Office Supplies,Art,71.96,23.083656158135174
+3,0.0,7.9248,Second Class,Consumer,East,Office Supplies,Art,30.48,22.546762785442322
+3,0.3,-35.9058,First Class,Home Office,Central,Furniture,Bookcases,359.058,289.96051254271475
+10,0.0,26.598,Standard Class,Consumer,East,Office Supplies,Supplies,102.3,143.8732482913933
+5,0.2,207.475,Same Day,Consumer,East,Office Supplies,Binders,663.92,733.0469675497161
+6,0.0,19.6686,Standard Class,Consumer,West,Office Supplies,Paper,40.14,58.830101155363906
+6,0.0,15.7584,Standard Class,Corporate,South,Furniture,Furnishings,56.28,50.20241949030926
+2,0.0,4.6818,Same Day,Consumer,South,Office Supplies,Appliances,17.34,20.706443797314584
+1,0.3,-60.6078,Second Class,Consumer,East,Furniture,Tables,385.686,341.76685452240434
+2,0.2,16.704,Standard Class,Consumer,Central,Technology,Phones,148.48,120.33386171333926
+1,0.0,2.1762,Standard Class,Consumer,East,Office Supplies,Art,5.58,16.843422376627295
+2,0.0,57.5928,Standard Class,Corporate,West,Technology,Accessories,159.98,195.76505175760755
+3,0.2,6.756,Standard Class,Consumer,Central,Office Supplies,Art,67.56,20.838581917879953
+6,0.7,-27.6936,First Class,Consumer,East,Office Supplies,Binders,37.764,32.29366035652613
+2,0.2,-28.368,Second Class,Corporate,East,Office Supplies,Storage,126.08,150.14628265702925
+5,0.8,-14.773,Standard Class,Consumer,Central,Office Supplies,Binders,8.69,17.839612665769778
+3,0.0,56.9772,Second Class,Corporate,Central,Office Supplies,Paper,116.28,124.85422592648528
+8,0.0,16.5984,First Class,Home Office,East,Office Supplies,Storage,63.84,482.9448644156033
+3,0.0,1.7901,Standard Class,Consumer,South,Office Supplies,Art,6.63,16.843422376627295
+3,0.0,78.5088,Standard Class,Home Office,West,Office Supplies,Appliances,270.72,251.03173958432052
+1,0.0,0.2034,Standard Class,Home Office,West,Office Supplies,Storage,20.34,53.6478864152964
+2,0.5,-571.9956,Standard Class,Consumer,South,Technology,Machines,1299.99,936.6148394889715
+3,0.0,49.9704,Second Class,Home Office,South,Office Supplies,Paper,106.32,113.28655331730488
+4,0.0,0.2992,First Class,Consumer,East,Office Supplies,Fasteners,14.96,16.93236931318311
+4,0.2,99.432,Standard Class,Consumer,West,Furniture,Chairs,883.84,1039.891439044689
+2,0.2,0.4706,Standard Class,Corporate,Central,Office Supplies,Fasteners,2.896,16.843422376627295
+2,0.0,2.6496,Standard Class,Corporate,West,Office Supplies,Labels,5.76,16.8957436141644
+2,0.0,2.7062,Standard Class,Corporate,West,Office Supplies,Storage,270.62,58.30567485468569
+5,0.2,47.243,Standard Class,Consumer,West,Technology,Phones,539.92,423.58397924678223
+5,0.2,9.352,Second Class,Consumer,Central,Office Supplies,Paper,26.72,22.735711139160827
+3,0.2,1.7487,Standard Class,Consumer,East,Office Supplies,Fasteners,4.824,16.843422376627295
+4,0.0,109.7208,Second Class,Home Office,West,Office Supplies,Paper,223.92,236.40443050599632
+9,0.0,5.3703,Standard Class,Consumer,South,Office Supplies,Art,19.89,19.596291895307203
+11,0.0,19.041,Standard Class,Home Office,West,Furniture,Furnishings,63.47,76.53271239218608
+2,0.0,6.2208,Standard Class,Corporate,South,Office Supplies,Paper,12.96,19.64514166406282
+2,0.0,0.0636,Standard Class,Consumer,East,Office Supplies,Supplies,6.36,17.003714753682836
+2,0.0,5.8696,Same Day,Consumer,Central,Office Supplies,Binders,12.76,19.581608595698313
+5,0.2,9.12,Standard Class,Consumer,South,Office Supplies,Fasteners,24.32,22.735711139160827
+4,0.4,-186.16,Standard Class,Corporate,East,Technology,Phones,859.2,755.8972127696962
+3,0.8,-44.2782,First Class,Corporate,Central,Office Supplies,Binders,26.046,28.272837907148393
+7,0.0,10.465,Second Class,Corporate,East,Office Supplies,Art,41.86,32.429431597425946
+3,0.0,26.985,Standard Class,Home Office,Central,Office Supplies,Art,107.94,72.58920428149904
+7,0.2,93.884,Standard Class,Consumer,South,Office Supplies,Paper,268.24,293.1547847136996
+2,0.0,96.3438,First Class,Consumer,South,Office Supplies,Labels,196.62,259.48549381679084
+7,0.0,751.7601,Second Class,Home Office,Central,Office Supplies,Appliances,1927.59,2247.097074998239
+5,0.2,41.76,Standard Class,Corporate,West,Technology,Phones,371.2,424.17947192603145
+3,0.2,1.8207,Second Class,Corporate,South,Office Supplies,Appliances,20.808,16.843422376627295
+7,0.0,158.529,First Class,Consumer,South,Furniture,Tables,1056.86,870.7867092961953
+1,0.15,20.0392,Same Day,Consumer,West,Furniture,Bookcases,425.833,197.35878095585446
+3,0.0,72.6408,Standard Class,Consumer,Central,Furniture,Chairs,302.67,317.2799464343413
+3,0.0,218.2518,Standard Class,Consumer,Central,Office Supplies,Appliances,839.43,730.6389203151838
+3,0.2,24.5028,Standard Class,Consumer,West,Office Supplies,Binders,70.008,81.72525711026276
+2,0.2,10.8784,Standard Class,Consumer,South,Technology,Phones,108.784,62.41271402092603
+7,0.2,1.8522,Second Class,Consumer,West,Office Supplies,Art,16.464,16.93236931318311
+5,0.2,24.528,Standard Class,Consumer,Central,Office Supplies,Paper,70.08,82.2240281149909
+6,0.0,41.535,First Class,Consumer,South,Technology,Accessories,106.5,140.48933977562132
+2,0.0,24.5998,Standard Class,Home Office,East,Office Supplies,Envelopes,52.34,68.54395562670676
+3,0.0,16.5888,First Class,Consumer,Central,Office Supplies,Appliances,61.44,46.36930597082024
+3,0.0,28.41,Second Class,Consumer,Central,Office Supplies,Binders,56.82,72.0369130094301
+5,0.0,15.378,First Class,Consumer,South,Technology,Accessories,34.95,68.1686619836583
+3,0.2,81.5949,Standard Class,Consumer,South,Technology,Accessories,383.976,383.40711827584323
+4,0.0,92.2368,Standard Class,Consumer,West,Office Supplies,Paper,192.16,189.1387933472398
+3,0.0,9.594,First Class,Consumer,West,Office Supplies,Storage,95.94,119.06523080289713
+7,0.2,12.7008,Standard Class,Corporate,Central,Office Supplies,Paper,36.288,34.569083078140416
+4,0.2,-67.6704,Standard Class,Consumer,South,Furniture,Bookcases,451.136,446.70475227427437
+7,0.0,4.2392,First Class,Home Office,South,Office Supplies,Storage,105.98,275.22451632673165
+3,0.0,22.2,First Class,Home Office,Central,Office Supplies,Labels,44.4,61.306715825840136
+7,0.0,197.9208,Second Class,Home Office,Central,Office Supplies,Appliances,706.86,667.367773809389
+5,0.8,-25.2185,Standard Class,Home Office,Central,Office Supplies,Binders,16.27,20.2641628094125
+6,0.2,10.8864,First Class,Consumer,East,Office Supplies,Paper,31.104,32.702763844412296
+3,0.0,4.8546,Standard Class,Corporate,West,Office Supplies,Art,16.74,19.596291895307203
+2,0.0,1.9024,Second Class,Consumer,West,Office Supplies,Art,6.56,16.843422376627295
+6,0.0,17.469,Standard Class,Consumer,East,Office Supplies,Art,38.82,50.20192442277543
+2,0.0,6.2208,Standard Class,Home Office,West,Office Supplies,Paper,12.96,19.64514166406282
+2,0.8,-19.602,Standard Class,Corporate,Central,Office Supplies,Appliances,8.712,17.85602182656167
+1,0.2,12.8574,Standard Class,Corporate,West,Office Supplies,Storage,114.288,80.46247914499502
+2,0.0,41.9136,Second Class,Consumer,South,Furniture,Bookcases,261.96,211.68673879855865
+5,0.2,25.245,First Class,Home Office,West,Furniture,Chairs,403.92,717.1584015643024
+2,0.2,7.264,Standard Class,Consumer,Central,Technology,Accessories,58.112,59.28717427610764
+1,0.0,2.3086,First Class,Home Office,East,Technology,Accessories,6.79,58.89794201186403
+5,0.3,-52.196,Standard Class,Consumer,Central,Furniture,Bookcases,913.43,563.5476851639697
+3,0.7,-5.5338,First Class,Consumer,East,Office Supplies,Binders,7.218,16.843422376627295
+10,0.0,7.095,Second Class,Consumer,Central,Office Supplies,Art,21.5,20.37845354334087
+3,0.3,-96.1146,Standard Class,Consumer,Central,Furniture,Chairs,747.558,521.7220605519965
+2,0.0,93.6988,Standard Class,Consumer,East,Office Supplies,Storage,360.38,523.9608182302724
+2,0.0,3.1096,Standard Class,Home Office,East,Office Supplies,Art,11.96,16.92971559448283
+8,0.0,202.2528,Standard Class,Consumer,West,Furniture,Furnishings,842.72,840.2254661116511
+2,0.0,109.7544,Same Day,Corporate,East,Technology,Phones,391.98,403.88451687530596
+4,0.2,7.2576,First Class,Home Office,South,Office Supplies,Paper,20.736,22.046619831368485
+2,0.0,0.0,Second Class,Corporate,West,Office Supplies,Storage,276.28,78.54617166674382
+2,0.2,29.364,First Class,Corporate,East,Office Supplies,Paper,78.304,89.67228281051408
+2,0.0,3.4776,Standard Class,Home Office,West,Office Supplies,Art,8.28,17.004031507836675
+4,0.2,9.4284,Standard Class,Home Office,West,Office Supplies,Binders,27.936,22.735711139160827
+2,0.0,15.1158,First Class,Consumer,West,Technology,Accessories,71.98,67.20951428736353
+1,0.2,0.0,First Class,Consumer,West,Furniture,Chairs,72.784,106.2907797667654
+5,0.0,15.065,Standard Class,Home Office,West,Office Supplies,Paper,32.75,39.774053159662934
+2,0.4,-81.8544,Standard Class,Corporate,East,Furniture,Tables,409.272,290.2602466815295
+3,0.2,5.4432,Standard Class,Corporate,Central,Office Supplies,Paper,15.552,19.3699797572532
+7,0.0,7.9548,First Class,Corporate,West,Office Supplies,Storage,795.48,330.0355523278175
+8,0.2,-97.176,Standard Class,Home Office,West,Furniture,Chairs,518.272,655.4703026159488
+5,0.0,0.189,Same Day,Home Office,South,Office Supplies,Fasteners,9.45,16.93236931318311
+2,0.0,5.4896,Second Class,Consumer,Central,Office Supplies,Art,11.68,19.596291895307203
+2,0.2,1.168,Standard Class,Consumer,Central,Office Supplies,Art,9.344,16.843422376627295
+3,0.0,17.0268,Standard Class,Consumer,West,Office Supplies,Appliances,60.81,53.9556560707351
+2,0.0,10.0744,Standard Class,Consumer,Central,Technology,Phones,35.98,61.74967428941542
+2,0.2,17.9684,Standard Class,Corporate,Central,Office Supplies,Envelopes,49.568,58.05199959713145
+7,0.2,4.2336,Standard Class,Corporate,West,Office Supplies,Binders,12.096,19.206893580362266
+1,0.7,-1.3984,Second Class,Corporate,East,Office Supplies,Binders,1.824,16.843422376627295
+1,0.0,1.512,Standard Class,Consumer,East,Office Supplies,Labels,3.15,16.843422376627295
+3,0.2,22.4955,Standard Class,Corporate,East,Technology,Accessories,119.976,128.83319317570144
+7,0.2,11.7334,First Class,Corporate,Central,Office Supplies,Paper,32.368,33.525529466668345
+7,0.7,-32.508,First Class,Home Office,West,Office Supplies,Binders,40.635,36.09695296318367
+3,0.2,3.2676,Second Class,Consumer,West,Office Supplies,Binders,9.336,16.95179926462122
+3,0.0,71.3898,Standard Class,Consumer,South,Technology,Accessories,209.97,246.1190460371146
+1,0.0,3.792,Standard Class,Corporate,East,Furniture,Furnishings,9.48,30.76927273539058
+2,0.0,13.5056,Second Class,Consumer,South,Office Supplies,Binders,29.36,35.893004434456195
+2,0.0,35.156,Standard Class,Consumer,West,Technology,Accessories,79.9,131.58994982183498
+3,0.0,160.623,Standard Class,Consumer,East,Office Supplies,Storage,535.41,591.7021350817987
+3,0.2,4.872,Standard Class,Corporate,West,Office Supplies,Binders,13.92,19.3699797572532
+5,0.0,26.565,Standard Class,Corporate,East,Office Supplies,Art,57.75,72.7100590434038
+3,0.2,48.9942,Second Class,Consumer,East,Office Supplies,Storage,435.504,552.8993089765838
+2,0.0,43.164,Standard Class,Consumer,West,Technology,Accessories,119.9,139.63900897136884
+3,0.2,40.3536,Standard Class,Consumer,South,Office Supplies,Paper,115.296,114.52360389644083
+2,0.0,1.2112,Standard Class,Consumer,West,Office Supplies,Storage,30.28,56.90873950278591
+3,0.0,6.8724,Standard Class,Consumer,Central,Office Supplies,Labels,14.94,19.942286678739894
+7,0.2,-14.9877,Standard Class,Corporate,West,Furniture,Tables,399.672,416.5764796891016
+4,0.2,8.6744,First Class,Corporate,East,Office Supplies,Art,99.136,24.189236541217266
+2,0.5,-135.087,Second Class,Consumer,West,Furniture,Tables,182.55,205.9922210112177
+4,0.0,592.7896,Standard Class,Home Office,East,Technology,Phones,2279.96,1916.786075057759
+2,0.0,25.4384,Standard Class,Consumer,East,Office Supplies,Appliances,97.84,80.04633565659778
+3,0.0,2.5056,Standard Class,Consumer,Central,Office Supplies,Art,8.64,16.8957436141644
+3,0.2,77.7468,Standard Class,Corporate,Central,Office Supplies,Storage,1554.936,853.9107337467975
+3,0.0,10.3473,Standard Class,Consumer,West,Office Supplies,Storage,344.91,122.08416606707375
+3,0.2,8.2764,Second Class,Corporate,West,Technology,Phones,110.352,60.03586980107789
+8,0.2,9.744,Standard Class,Consumer,Central,Office Supplies,Paper,26.88,30.950551603636782
+6,0.2,-26.8758,Standard Class,Consumer,West,Technology,Accessories,238.896,155.59929168136364
+5,0.3,-56.343,First Class,Corporate,Central,Furniture,Chairs,563.43,539.1136016240374
+2,0.4,-9.8724,Second Class,Home Office,East,Technology,Phones,15.588,62.518634618697206
+5,0.2,84.495,Standard Class,Consumer,West,Technology,Phones,675.96,931.9929049296039
+2,0.2,3.7408,Standard Class,Consumer,Central,Office Supplies,Paper,10.688,17.37604619771164
+2,0.2,3.7408,Standard Class,Corporate,South,Office Supplies,Paper,10.688,17.37604619771164
+2,0.0,6.2208,Standard Class,Consumer,West,Office Supplies,Paper,12.96,19.64514166406282
+2,0.0,11.5432,First Class,Consumer,East,Office Supplies,Paper,24.56,33.15214538802579
+5,0.0,16.17,First Class,Consumer,East,Office Supplies,Art,57.75,42.07051297956183
+2,0.0,1.5876,Second Class,Consumer,West,Office Supplies,Art,5.88,16.843422376627295
+4,0.7,-6.952,Standard Class,Home Office,East,Office Supplies,Binders,10.428,16.93236931318311
+4,0.0,117.0104,Second Class,Home Office,East,Office Supplies,Storage,900.08,610.0658182045003
+13,0.2,12.7764,Standard Class,Consumer,East,Office Supplies,Fasteners,39.312,34.72689009696983
+2,0.2,22.5732,Same Day,Corporate,West,Office Supplies,Binders,69.456,74.11910622729286
+2,0.0,6.3504,Standard Class,Consumer,West,Office Supplies,Paper,12.96,19.698063427342706
+3,0.0,5.166,Standard Class,Corporate,West,Office Supplies,Supplies,17.22,20.88979272087097
+2,0.0,4.7724,Standard Class,Corporate,West,Office Supplies,Supplies,238.62,20.88979272087097
+9,0.2,106.9578,Second Class,Consumer,West,Office Supplies,Binders,295.056,349.5257978096802
+8,0.0,26.7904,Standard Class,Corporate,South,Technology,Phones,95.68,106.48627027284527
+2,0.6,-7.9634,Standard Class,Consumer,Central,Furniture,Furnishings,10.984,30.99432857649329
+3,0.2,5.7825,Standard Class,Consumer,West,Office Supplies,Binders,18.504,19.47642709616997
+4,0.2,3.86,Standard Class,Corporate,South,Furniture,Furnishings,30.88,30.76927273539058
+1,0.0,5.4341,Standard Class,Consumer,South,Office Supplies,Envelopes,11.09,19.337620130481138
+9,0.0,27.9936,Same Day,Home Office,South,Office Supplies,Paper,58.32,69.47360916830509
+2,0.0,10.35,First Class,Consumer,Central,Office Supplies,Binders,23.0,31.293139714589323
+5,0.2,2.128,Standard Class,Corporate,Central,Office Supplies,Art,12.16,16.93236931318311
+7,0.2,27.3672,Standard Class,Corporate,West,Office Supplies,Binders,81.088,83.93351449882331
+1,0.2,1.8144,First Class,Corporate,West,Office Supplies,Paper,5.184,16.843422376627295
+4,0.2,-1.3952,Standard Class,Corporate,Central,Office Supplies,Supplies,6.976,17.13461479818646
+3,0.2,161.9919,Standard Class,Consumer,Central,Technology,Copiers,479.976,569.0863724730281
+2,0.0,4.195,Standard Class,Corporate,East,Office Supplies,Appliances,16.78,20.368431480501858
+4,0.0,50.8768,Second Class,Consumer,South,Office Supplies,Appliances,195.68,169.1925288875447
+3,0.4,-24.4764,Standard Class,Consumer,East,Technology,Phones,122.382,105.66121664086127
+3,0.3,-53.2704,Standard Class,Consumer,Central,Furniture,Chairs,233.058,383.8434534954857
+6,0.7,-3.6288,Standard Class,Corporate,South,Office Supplies,Binders,5.184,16.93236931318311
+1,0.2,1.1904,Standard Class,Consumer,Central,Office Supplies,Art,15.872,16.843422376627295
+1,0.0,84.2352,Standard Class,Consumer,South,Furniture,Chairs,350.98,326.43008370325197
+3,0.2,4.5588,First Class,Corporate,West,Technology,Accessories,91.176,59.27780495315669
+5,0.0,16.196,Standard Class,Consumer,Central,Office Supplies,Storage,404.9,172.554699284885
+5,0.0,8.636,First Class,Consumer,West,Furniture,Furnishings,25.4,32.49001968548028
+2,0.0,105.2468,Standard Class,Consumer,West,Office Supplies,Storage,362.92,421.260386532652
+1,0.0,7.3451,Standard Class,Corporate,East,Technology,Phones,14.99,59.41518530134354
+4,0.0,5.6448,Standard Class,Home Office,West,Office Supplies,Labels,11.52,19.337620130481138
+5,0.4,-158.102,Standard Class,Corporate,East,Technology,Phones,677.58,704.3034343743235
+3,0.2,25.497,First Class,Home Office,West,Technology,Phones,203.976,263.1796621103126
+2,0.0,6.2208,Second Class,Consumer,Central,Office Supplies,Paper,12.96,19.64514166406282
+4,0.2,53.8048,Second Class,Home Office,South,Office Supplies,Paper,153.728,172.0808267277303
+4,0.2,35.9964,Second Class,Consumer,West,Technology,Phones,319.968,316.46105682499626
+5,0.0,459.396,Standard Class,Corporate,West,Office Supplies,Appliances,1640.7,1460.803393917681
+2,0.2,2.5488,First Class,Consumer,West,Office Supplies,Art,11.328,16.8957436141644
+3,0.0,7.2177,Same Day,Consumer,South,Office Supplies,Labels,14.73,21.9104186739365
+5,0.6,-147.963,First Class,Corporate,Central,Furniture,Furnishings,190.92,137.02522969249978
+1,0.0,0.738,Standard Class,Home Office,East,Office Supplies,Art,1.64,16.843422376627295
+4,0.2,6.1792,Standard Class,Corporate,Central,Office Supplies,Storage,61.792,134.5897971330735
+3,0.0,16.1868,Standard Class,Consumer,East,Office Supplies,Fasteners,34.44,41.11542217027895
+3,0.2,3.9312,Standard Class,Consumer,West,Office Supplies,Binders,11.232,17.583881422590697
+8,0.0,190.3728,Standard Class,Corporate,West,Technology,Accessories,559.92,597.7641767402783
+3,0.0,2.5578,Standard Class,Corporate,West,Office Supplies,Art,8.82,16.8957436141644
+5,0.2,9.072,Second Class,Corporate,Central,Office Supplies,Paper,25.92,22.735711139160827
+2,0.3,-12.8392,Standard Class,Consumer,East,Furniture,Chairs,449.372,163.1137132900101
+2,0.0,2.19,Second Class,Consumer,West,Office Supplies,Supplies,7.3,17.003714753682836
+10,0.0,41.706,Standard Class,Consumer,West,Office Supplies,Art,99.3,119.71185715089145
+5,0.0,27.608,Second Class,Corporate,Central,Furniture,Furnishings,95.2,113.27629798422393
+6,0.2,5.715,Standard Class,Corporate,West,Office Supplies,Binders,18.288,19.3699797572532
+3,0.2,64.674,Standard Class,Corporate,East,Technology,Accessories,258.696,305.12075924014675
+2,0.0,9.8856,Same Day,Consumer,East,Furniture,Furnishings,27.46,38.122308955920616
+3,0.0,8.4888,Same Day,Consumer,West,Office Supplies,Storage,31.44,111.03364021214666
+3,0.7,-4.455,Standard Class,Consumer,East,Office Supplies,Binders,5.346,16.843422376627295
+5,0.2,148.704,Standard Class,Home Office,West,Furniture,Chairs,1487.04,1310.459381648619
+7,0.0,4.5612,Standard Class,Corporate,South,Office Supplies,Fasteners,12.67,19.29622278529163
+3,0.2,3.15,Standard Class,Corporate,South,Office Supplies,Labels,9.0,16.92971559448283
+6,0.2,0.9282,Second Class,Consumer,East,Office Supplies,Art,10.608,16.93236931318311
+2,0.0,5.616,Same Day,Corporate,West,Office Supplies,Paper,12.48,19.337620130481138
+8,0.0,5.6832,Standard Class,Consumer,West,Office Supplies,Fasteners,11.84,19.337620130481138
+2,0.0,5.382,Standard Class,Corporate,West,Office Supplies,Paper,11.96,19.337620130481138
+5,0.2,50.414,Second Class,Consumer,West,Office Supplies,Binders,155.12,152.04944568153743
+5,0.0,18.96,Standard Class,Corporate,East,Furniture,Furnishings,47.4,74.6919939928046
+4,0.8,-30.8672,Second Class,Consumer,Central,Office Supplies,Appliances,11.648,21.437583754977336
+3,0.2,12.2328,Standard Class,Consumer,West,Office Supplies,Appliances,122.328,40.10806370900915
+3,0.0,4.95,Standard Class,Consumer,East,Technology,Accessories,45.0,59.27780495315669
+3,0.0,22.4316,Standard Class,Corporate,Central,Technology,Accessories,62.31,97.8462643073816
+1,0.0,13.3371,Standard Class,Consumer,East,Technology,Phones,45.99,64.30307852878136
+7,0.2,75.5958,Standard Class,Consumer,West,Technology,Phones,1007.944,812.4677054476756
+10,0.0,68.585,Second Class,Consumer,West,Office Supplies,Storage,236.5,369.9888289030298
+5,0.0,18.33,Standard Class,Home Office,South,Furniture,Furnishings,61.1,70.671085454244
+5,0.0,10.374,Standard Class,Consumer,West,Furniture,Furnishings,24.7,38.88608263687607
+1,0.0,4.1916,Standard Class,Home Office,Central,Office Supplies,Storage,14.97,53.65223339646078
+2,0.2,23.7684,Second Class,Corporate,West,Office Supplies,Binders,65.568,75.80372932196995
+6,0.2,20.2986,Standard Class,Home Office,Central,Office Supplies,Labels,60.144,67.94142643961139
+6,0.0,47.9376,Standard Class,Consumer,West,Office Supplies,Storage,199.74,190.41065903618593
+9,0.7,-83.205,Standard Class,Consumer,East,Office Supplies,Binders,99.846,93.2541786349627
+7,0.2,83.2097,Second Class,Consumer,South,Office Supplies,Paper,229.544,243.4685324674462
+1,0.4,-115.7058,Standard Class,Consumer,East,Furniture,Tables,330.588,370.17847090073894
+1,0.0,6.149,Standard Class,Consumer,East,Office Supplies,Art,23.65,19.960815202835615
+5,0.0,12.432,Standard Class,Home Office,West,Office Supplies,Supplies,44.4,52.23705619958797
+2,0.2,23.9984,Standard Class,Consumer,West,Technology,Phones,239.984,244.4910781799091
+6,0.0,301.968,Second Class,Home Office,South,Office Supplies,Paper,629.1,801.5929748197631
+8,0.2,4.4736,Standard Class,Consumer,West,Technology,Phones,44.736,59.27780495315669
+10,0.7,-23.716,First Class,Consumer,West,Office Supplies,Binders,32.34,21.269332265357253
+2,0.0,4.8118,Standard Class,Home Office,South,Office Supplies,Labels,9.82,19.337620130481138
+1,0.2,0.5022,Standard Class,Home Office,East,Furniture,Furnishings,6.696,30.76927273539058
+3,0.0,12.8583,First Class,Corporate,South,Technology,Accessories,32.97,63.33920282403169
+4,0.0,10.6428,Standard Class,Consumer,West,Office Supplies,Paper,21.72,31.673412080221443
+2,0.0,25.172,Standard Class,Home Office,South,Technology,Phones,89.9,104.13944221840245
+2,0.0,5.3196,First Class,Consumer,West,Office Supplies,Supplies,20.46,22.318362350500607
+14,0.0,163.7874,Second Class,Consumer,South,Furniture,Chairs,1819.86,650.7755641750342
+2,0.0,6.7008,Standard Class,Consumer,East,Furniture,Furnishings,13.96,31.064678109067007
+4,0.0,6.9552,Standard Class,Consumer,West,Office Supplies,Art,16.56,20.37845354334087
+6,0.2,37.764,Standard Class,Consumer,West,Office Supplies,Binders,100.704,108.25932544285197
+3,0.2,2.8101,Same Day,Corporate,West,Office Supplies,Binders,7.752,16.92971559448283
+2,0.2,5.928,First Class,Home Office,South,Furniture,Furnishings,19.76,30.94976339152403
+1,0.2,13.4512,Standard Class,Consumer,Central,Office Supplies,Paper,38.432,35.934257790211426
+3,0.0,26.3967,Second Class,Home Office,West,Technology,Accessories,239.97,108.50357169415014
+2,0.0,83.2508,Standard Class,Corporate,East,Furniture,Bookcases,361.96,421.8498697975006
+2,0.0,20.6612,First Class,Consumer,West,Office Supplies,Envelopes,43.96,59.69355300765679
+1,0.2,1.8144,Standard Class,Consumer,Central,Office Supplies,Paper,5.184,16.843422376627295
+3,0.0,26.649,Second Class,Home Office,West,Furniture,Furnishings,76.14,104.72139457623749
+2,0.0,1.3416,Second Class,Corporate,West,Office Supplies,Art,5.16,16.843422376627295
+2,0.2,3.6288,Standard Class,Consumer,Central,Office Supplies,Paper,10.368,17.131603517558794
+3,0.8,-5.8869,Standard Class,Corporate,Central,Office Supplies,Binders,3.798,16.843422376627295
+3,0.2,4.1148,Standard Class,Consumer,East,Office Supplies,Paper,12.192,17.583881422590697
+5,0.6,-29.512,Standard Class,Corporate,Central,Furniture,Furnishings,38.08,46.34277855622107
+2,0.7,-2.4564,Standard Class,Consumer,South,Office Supplies,Binders,3.204,16.843422376627295
+3,0.2,-7.0146,First Class,Home Office,West,Technology,Phones,31.176,60.045299520995556
+2,0.0,27.882,Same Day,Consumer,West,Office Supplies,Paper,61.96,69.47360916830509
+2,0.0,37.9848,Standard Class,Corporate,West,Office Supplies,Paper,77.52,98.2970181950635
+4,0.3,-14.196,Standard Class,Consumer,East,Furniture,Chairs,198.744,293.3440483852378
+2,0.2,-1.3248,Standard Class,Consumer,Central,Office Supplies,Supplies,5.888,17.003714753682836
+5,0.7,-46.536,Standard Class,Consumer,East,Office Supplies,Binders,58.17,51.68209573344624
+1,0.0,4.9686,Standard Class,Consumer,South,Furniture,Chairs,70.98,72.21598990136816
+4,0.0,55.0584,Standard Class,Consumer,South,Office Supplies,Appliances,203.92,178.23556491909048
+5,0.3,-81.3065,First Class,Consumer,Central,Furniture,Tables,517.405,518.2067347890223
+5,0.8,-13.32,Standard Class,Consumer,Central,Office Supplies,Binders,8.88,17.717250583057673
+2,0.2,3.2832,Standard Class,Consumer,East,Office Supplies,Binders,9.728,16.95179926462122
+2,0.2,335.9944,Second Class,Consumer,West,Technology,Copiers,959.984,1076.636667064933
+5,0.0,12.492,Standard Class,Corporate,East,Office Supplies,Art,34.7,35.49911463077319
+3,0.2,5.8203,Standard Class,Consumer,Central,Office Supplies,Paper,16.056,19.47642709616997
+5,0.0,4.756,First Class,Consumer,West,Office Supplies,Art,16.4,19.596291895307203
+3,0.2,5.4432,Second Class,Consumer,Central,Office Supplies,Paper,15.552,19.3699797572532
+5,0.4,-112.041,Standard Class,Corporate,East,Furniture,Tables,373.47,438.9158199345152
+1,0.2,8.048,Standard Class,Corporate,South,Office Supplies,Appliances,64.384,24.126992929346393
+6,0.2,60.4968,Standard Class,Consumer,East,Office Supplies,Binders,186.144,175.42543157392217
+2,0.2,3.1382,Second Class,Consumer,East,Furniture,Furnishings,19.312,30.76927273539058
+2,0.3,-1.0196,Second Class,Consumer,East,Furniture,Chairs,71.372,236.0852083331817
+2,0.2,0.9856,Standard Class,Consumer,East,Furniture,Furnishings,7.168,30.76927273539058
+4,0.0,9.3184,Second Class,Corporate,East,Office Supplies,Appliances,33.28,24.19327951538106
+1,0.2,1.122,Second Class,Corporate,West,Office Supplies,Binders,2.992,16.843422376627295
+4,0.0,10.7136,First Class,Consumer,South,Office Supplies,Binders,22.32,31.8648475265996
+7,0.0,25.48,First Class,Corporate,West,Office Supplies,Paper,50.96,69.02377372759238
+2,0.2,152.495,Standard Class,Consumer,West,Office Supplies,Binders,487.984,486.8322758756878
+3,0.0,5.1816,Standard Class,Corporate,East,Furniture,Furnishings,15.24,30.94976339152403
+4,0.2,1.64,First Class,Consumer,Central,Office Supplies,Art,5.248,16.93236931318311
+2,0.0,32.6332,Standard Class,Corporate,Central,Furniture,Chairs,191.96,227.55911878034095
+5,0.8,-9.6565,Standard Class,Corporate,Central,Office Supplies,Binders,6.23,16.93236931318311
+3,0.0,17.253,Standard Class,Home Office,Central,Office Supplies,Envelopes,38.34,47.90703348074231
+3,0.2,0.0,Standard Class,Corporate,East,Furniture,Furnishings,254.352,33.99136489676951
+1,0.3,-22.948,First Class,Home Office,Central,Furniture,Tables,200.795,197.11450288858245
+4,0.2,62.988,Standard Class,Consumer,Central,Technology,Phones,167.968,533.8991096320267
+2,0.2,2.14,Standard Class,Home Office,Central,Office Supplies,Paper,6.848,16.843422376627295
+1,0.2,1.8144,Standard Class,Consumer,South,Office Supplies,Paper,5.184,16.843422376627295
+5,0.4,-69.89,Second Class,Corporate,East,Furniture,Tables,1048.35,445.356321164015
+1,0.0,28.7964,Standard Class,Corporate,South,Technology,Accessories,79.99,105.26693162142497
+2,0.2,2.3952,Standard Class,Home Office,Central,Office Supplies,Storage,23.952,55.34080327576619
+4,0.2,8.3524,Standard Class,Consumer,South,Technology,Accessories,35.168,60.03586980107789
+4,0.0,9.7608,First Class,Consumer,West,Office Supplies,Paper,19.92,30.91703609644702
+3,0.2,27.9108,Second Class,Consumer,Central,Office Supplies,Storage,372.144,326.39131548215767
+2,0.4,-93.08,Second Class,Consumer,East,Technology,Phones,429.6,360.38859737892744
+6,0.4,-52.641,Standard Class,Home Office,East,Technology,Phones,210.564,322.500767516454
+4,0.2,-1.1196,Standard Class,Consumer,South,Technology,Accessories,89.568,59.27780495315669
+2,0.2,2.7168,Standard Class,Consumer,Central,Office Supplies,Art,27.168,16.913339523117532
+4,0.2,38.3572,Standard Class,Consumer,West,Technology,Phones,438.368,360.9002788265633
+6,0.0,11.0808,Standard Class,Consumer,West,Office Supplies,Supplies,41.04,47.75259049699706
+2,0.0,6.2208,Standard Class,Corporate,West,Office Supplies,Paper,12.96,19.64514166406282
+2,0.0,6.2208,Standard Class,Consumer,West,Office Supplies,Paper,12.96,19.64514166406282
+3,0.8,-39.804,Standard Class,Consumer,Central,Office Supplies,Binders,25.68,27.13959999021066
+2,0.2,12.0764,Standard Class,Consumer,East,Furniture,Furnishings,69.008,40.8758572585511
+1,0.2,2.322,Second Class,Consumer,West,Office Supplies,Binders,6.88,16.861057561000177
+3,0.0,8.073,Second Class,Consumer,West,Office Supplies,Paper,17.94,22.018031156236095
+8,0.0,24.8832,Standard Class,Consumer,West,Office Supplies,Paper,51.84,67.84538601049367
+3,0.2,7.7679,Second Class,Corporate,West,Technology,Phones,88.776,60.03586980107789
+2,0.0,1.0904,Standard Class,Consumer,East,Office Supplies,Art,3.76,16.843422376627295
+3,0.0,176.8026,Standard Class,Consumer,Central,Furniture,Chairs,680.01,665.2014294826994
+1,0.0,31.4975,First Class,Consumer,Central,Technology,Phones,125.99,134.97703916406752
+4,0.2,9.5032,First Class,Consumer,West,Furniture,Chairs,108.608,340.87900032921254
+8,0.0,111.824,Standard Class,Corporate,West,Office Supplies,Art,385.6,314.22911480731074
+2,0.2,-2.7,Second Class,Consumer,East,Technology,Accessories,24.0,59.19102395882378
+2,0.0,6.2208,Standard Class,Consumer,South,Office Supplies,Paper,12.96,19.64514166406282
+2,0.2,10.062,Standard Class,Corporate,West,Office Supplies,Binders,30.96,31.12085477400866
+2,0.0,1.521,Standard Class,Consumer,Central,Office Supplies,Art,3.9,16.843422376627295
+1,0.2,1.3716,Standard Class,Home Office,East,Office Supplies,Paper,4.064,16.843422376627295
+6,0.2,15.012,Same Day,Consumer,East,Office Supplies,Paper,40.032,39.919881777336755
+2,0.2,11.5584,Second Class,Home Office,West,Office Supplies,Binders,33.024,33.28724419108454
+2,0.4,-9.7972,Standard Class,Home Office,East,Technology,Phones,41.988,62.518634618697206
+5,0.2,56.324,Standard Class,Corporate,West,Furniture,Chairs,563.24,565.9009625784852
+5,0.0,37.366,Standard Class,Corporate,West,Furniture,Furnishings,109.9,134.058800396601
+7,0.0,98.105,Standard Class,Corporate,East,Office Supplies,Binders,196.21,256.28095529022124
+7,0.2,30.8966,Standard Class,Consumer,East,Office Supplies,Binders,85.232,91.6336961765475
+2,0.2,1.8688,Standard Class,Consumer,West,Office Supplies,Art,9.344,16.843422376627295
+5,0.0,45.528,Second Class,Consumer,Central,Office Supplies,Paper,94.85,108.44572362224129
+2,0.2,2.3364,Standard Class,Corporate,South,Office Supplies,Appliances,20.768,16.8957436141644
+7,0.7,-169.372,Second Class,Corporate,South,Office Supplies,Binders,254.058,146.35087514018429
+3,0.0,23.9688,Standard Class,Corporate,East,Office Supplies,Storage,99.87,143.51312532775086
+2,0.0,18.2112,Second Class,Consumer,West,Office Supplies,Paper,37.94,54.367291980873674
+3,0.0,22.4316,First Class,Consumer,West,Technology,Accessories,62.31,99.1567666912914
+2,0.0,2.646,Standard Class,Consumer,West,Office Supplies,Art,5.88,16.8957436141644
+2,0.0,40.9216,Standard Class,Home Office,South,Furniture,Furnishings,127.88,142.910788690618
+7,0.0,350.427,Standard Class,Corporate,Central,Furniture,Tables,1592.85,1711.8523255590055
+3,0.0,54.3438,Standard Class,Consumer,West,Furniture,Furnishings,129.39,200.10351254694788
+7,0.1,177.4206,Same Day,Corporate,East,Furniture,Chairs,887.103,1135.6111638453408
+4,0.0,8.2944,Second Class,Consumer,Central,Office Supplies,Art,25.92,22.95316467048783
+13,0.0,175.136,First Class,Corporate,East,Furniture,Furnishings,547.3,664.4273570482553
+2,0.0,0.0,First Class,Consumer,West,Office Supplies,Fasteners,3.96,16.843422376627295
+2,0.2,54.3966,Second Class,Home Office,East,Technology,Accessories,255.984,281.7817797629265
+1,0.8,-1.11,Standard Class,Consumer,Central,Office Supplies,Appliances,0.444,16.843422376627295
+3,0.2,6.378,First Class,Corporate,West,Furniture,Tables,510.24,314.76055035793365
+2,0.2,12.41,First Class,Corporate,East,Office Supplies,Appliances,99.28,41.452776253183536
+5,0.8,-453.849,Standard Class,Consumer,Central,Office Supplies,Appliances,177.98,227.06166612298873
+6,0.0,0.3024,Standard Class,Consumer,East,Office Supplies,Fasteners,7.56,16.93236931318311
+3,0.8,-166.3935,Standard Class,Home Office,Central,Office Supplies,Appliances,62.79,71.33321266071583
+2,0.2,0.3336,Standard Class,Consumer,South,Office Supplies,Art,4.448,16.843422376627295
+3,0.0,4.2336,Standard Class,Consumer,West,Office Supplies,Labels,8.64,19.174533953590203
+3,0.2,6.3336,Second Class,Consumer,East,Office Supplies,Binders,17.472,19.79492782935493
+3,0.2,5.4432,Standard Class,Corporate,South,Office Supplies,Paper,15.552,19.3699797572532
+7,0.0,2400.9657,Standard Class,Consumer,East,Technology,Machines,4899.93,7376.988999999982
+1,0.3,-28.6862,Second Class,Consumer,Central,Furniture,Chairs,105.686,108.75954541110252
+3,0.0,8.4564,Second Class,Corporate,Central,Technology,Phones,29.16,60.03586980107789
+2,0.0,41.68,Second Class,Home Office,Central,Office Supplies,Storage,166.72,224.2707281125264
+6,0.0,22.5624,First Class,Consumer,East,Office Supplies,Storage,80.58,174.99804278323717
+1,0.2,1.3584,Standard Class,Corporate,South,Office Supplies,Art,13.584,16.843422376627295
+1,0.2,0.8946,First Class,Corporate,West,Office Supplies,Art,3.408,16.843422376627295
+6,0.0,35.3346,Standard Class,Consumer,Central,Office Supplies,Labels,75.18,98.45803772521955
+3,0.0,2.8764,First Class,Consumer,West,Office Supplies,Envelopes,6.12,16.92971559448283
+5,0.2,6.888,Standard Class,Corporate,West,Office Supplies,Binders,19.68,20.039151080752113
+3,0.0,2.592,Second Class,Home Office,Central,Office Supplies,Binders,5.4,16.8957436141644
+7,0.0,291.3778,Second Class,Consumer,South,Furniture,Bookcases,1266.86,987.5583787529021
+1,0.0,68.04,Second Class,Home Office,West,Office Supplies,Appliances,189.0,229.6782984035841
+5,0.0,419.8185,Standard Class,Consumer,West,Office Supplies,Appliances,1447.65,1390.8054999425701
+2,0.0,5.8604,Standard Class,Consumer,West,Office Supplies,Paper,11.96,19.461837054902794
+4,0.0,5.6448,Same Day,Consumer,East,Office Supplies,Labels,11.52,19.337620130481138
+2,0.7,-2.0108,First Class,Consumer,South,Office Supplies,Binders,2.742,16.843422376627295
+3,0.15,-29.6058,Standard Class,Consumer,West,Furniture,Bookcases,359.499,348.8175650797832
+5,0.2,84.66,Second Class,Consumer,Central,Technology,Accessories,398.4,358.955409886007
+4,0.2,7.4,Standard Class,Corporate,East,Office Supplies,Paper,23.68,22.046619831368485
+4,0.0,12.4416,Second Class,Home Office,Central,Office Supplies,Paper,25.92,34.46537569096245
+3,0.0,78.9516,Standard Class,Consumer,East,Technology,Phones,281.97,266.11369752775954
+3,0.0,5.1015,First Class,Home Office,West,Technology,Accessories,26.85,59.27780495315669
+12,0.2,21.888,Standard Class,Consumer,Central,Office Supplies,Fasteners,58.368,110.0117976383052
+1,0.2,4.6228,Standard Class,Consumer,West,Office Supplies,Binders,13.208,19.328582412063692
+5,0.2,6.2905,Standard Class,Consumer,East,Furniture,Furnishings,21.88,30.94976339152403
+2,0.2,6.999,Standard Class,Consumer,South,Technology,Phones,111.984,59.181887500456384
+7,0.0,50.9208,Standard Class,Consumer,South,Office Supplies,Art,181.86,170.30461224304835
+2,0.0,9.5088,Standard Class,Corporate,Central,Office Supplies,Art,33.96,23.24065254829083
+2,0.4,-103.266,Standard Class,Home Office,East,Furniture,Tables,344.22,300.9855787622324
+5,0.0,7.986,Standard Class,Consumer,West,Office Supplies,Art,24.2,22.546762785442322
+5,0.2,1.311,Second Class,Corporate,East,Office Supplies,Appliances,17.48,16.93236931318311
+5,0.0,95.2,Standard Class,Consumer,West,Technology,Accessories,595.0,370.3240054383607
+6,0.0,2.7336,Standard Class,Corporate,East,Office Supplies,Art,8.04,17.018662531038643
+2,0.2,1.2064,Second Class,Consumer,East,Office Supplies,Binders,3.328,16.843422376627295
+3,0.0,15.4752,Second Class,Consumer,East,Office Supplies,Art,59.52,40.93875899335569
+3,0.0,22.869,Standard Class,Consumer,West,Office Supplies,Appliances,65.34,74.05350677360663
+3,0.4,-92.6955,Same Day,Corporate,East,Technology,Phones,370.782,408.23008574378173
+1,0.0,41.9958,Standard Class,Home Office,East,Technology,Accessories,99.99,140.6064793101289
+4,0.0,5.5664,Second Class,Consumer,Central,Office Supplies,Binders,11.36,19.337620130481138
+2,0.2,12.9584,Standard Class,Consumer,West,Office Supplies,Binders,39.872,35.33926113436583
+4,0.0,55.912,Same Day,Consumer,West,Office Supplies,Art,192.8,221.1765022073787
+3,0.2,13.8579,Second Class,Consumer,Central,Technology,Phones,158.376,72.15388717837862
+6,0.2,12.9888,Same Day,Consumer,South,Furniture,Furnishings,129.888,43.644173560742814
+4,0.5,-3839.9904,Same Day,Corporate,South,Technology,Machines,7999.98,9493.498456666663
+3,0.2,-35.3646,Standard Class,Corporate,West,Furniture,Chairs,314.352,290.44959342811654
+2,0.0,146.388,Standard Class,Home Office,Central,Furniture,Chairs,487.96,616.1281877405534
+3,0.2,18.6006,Standard Class,Consumer,West,Office Supplies,Binders,51.312,58.391246417585535
+3,0.0,53.0439,First Class,Consumer,South,Office Supplies,Appliances,182.91,177.17482811272717
+5,0.2,41.697,Standard Class,Home Office,West,Technology,Phones,555.96,392.93950865347944
+2,0.0,18.2112,Standard Class,Consumer,East,Office Supplies,Paper,37.94,54.367291980873674
+2,0.2,-36.2136,Standard Class,Home Office,West,Furniture,Chairs,241.424,180.89696259561066
+2,0.0,1995.99,Standard Class,Home Office,East,Technology,Machines,3991.98,4580.806966666663
+5,0.7,-6599.978,Standard Class,Consumer,East,Technology,Machines,4499.985,2419.572769999996
+1,0.0,3.6322,First Class,Consumer,West,Office Supplies,Appliances,13.97,17.280723982188096
+7,0.0,20.5114,Standard Class,Consumer,East,Office Supplies,Paper,41.86,59.57934821415501
+4,0.0,2.3312,Standard Class,Consumer,West,Office Supplies,Fasteners,4.96,16.95000449755599
+4,0.6,-4.0128,Same Day,Consumer,Central,Furniture,Furnishings,6.688,30.711014720023176
+4,0.0,21.0,Standard Class,Home Office,West,Technology,Accessories,100.0,97.23025136461452
+4,0.2,30.98,First Class,Corporate,Central,Office Supplies,Paper,99.136,92.09431473683118
+9,0.0,13.608,Standard Class,Consumer,West,Office Supplies,Labels,28.35,37.02525446167337
+3,0.0,23.9169,Standard Class,Consumer,South,Office Supplies,Binders,48.81,65.04076527857775
+2,0.2,31.198,First Class,Corporate,South,Technology,Phones,249.584,286.5728921111934
+5,0.2,15.921,Second Class,Consumer,West,Office Supplies,Envelopes,43.92,41.02268781012161
+7,0.2,0.7056,Second Class,Corporate,East,Office Supplies,Art,9.408,16.93236931318311
+5,0.2,-25.049,Standard Class,Consumer,East,Furniture,Bookcases,2003.92,415.34401956186775
+3,0.7,-44.1462,Standard Class,Corporate,South,Office Supplies,Binders,57.582,52.20848803342471
+2,0.0,9.8164,Standard Class,Corporate,West,Office Supplies,Envelopes,21.34,30.91703609644702
+3,0.0,41.823,Second Class,Consumer,West,Office Supplies,Paper,92.94,103.02034444220439
+3,0.2,4.9248,Standard Class,Consumer,West,Office Supplies,Binders,14.592,19.3699797572532
+3,0.0,22.2,Standard Class,Consumer,West,Office Supplies,Labels,44.4,61.306715825840136
+9,0.0,13.3056,Second Class,Consumer,West,Office Supplies,Labels,27.72,35.23555374718786
+3,0.0,14.904,First Class,Corporate,West,Office Supplies,Labels,31.05,39.684884822459395
+2,0.2,27.248,Second Class,Consumer,West,Office Supplies,Binders,83.84,83.83525562876682
+4,0.0,18.0096,Standard Class,Consumer,West,Office Supplies,Paper,37.52,54.367291980873674
+3,0.0,4.536,Standard Class,Consumer,East,Office Supplies,Labels,9.45,19.29622278529163
+2,0.0,4.0572,First Class,Corporate,West,Office Supplies,Paper,8.82,17.583881422590697
+3,0.0,5.3898,Second Class,Consumer,South,Office Supplies,Storage,269.49,109.0702060537567
+2,0.0,10.7892,Standard Class,Consumer,South,Furniture,Furnishings,29.16,38.93428710206458
+1,0.0,0.8064,Standard Class,Consumer,East,Office Supplies,Art,2.88,16.843422376627295
+3,0.0,20.7675,Standard Class,Home Office,South,Technology,Accessories,53.25,94.35998801389974
+2,0.0,38.08,Standard Class,Corporate,East,Technology,Accessories,238.0,135.7423451737612
+2,0.2,2.8,Standard Class,Corporate,East,Office Supplies,Fasteners,8.0,16.92971559448283
+6,0.2,12.1032,Second Class,Consumer,South,Office Supplies,Appliances,161.376,39.832050650634315
+3,0.2,-97.5528,Second Class,Corporate,West,Furniture,Chairs,650.352,680.6227386004649
+10,0.2,10.68,Standard Class,Consumer,East,Office Supplies,Art,106.8,34.07805764348793
+2,0.0,10.3168,Standard Class,Consumer,East,Office Supplies,Art,39.68,32.13914793588366
+3,0.0,157.8702,Standard Class,Consumer,South,Office Supplies,Storage,544.38,682.7865843527659
+5,0.0,22.8285,First Class,Home Office,Central,Office Supplies,Storage,84.55,183.50075946690114
+2,0.0,80.3682,First Class,Corporate,West,Furniture,Tables,892.98,523.4548006740722
+2,0.4,-97.72,Standard Class,Consumer,Central,Technology,Machines,418.8,428.20030510264587
+5,0.0,240.8595,Second Class,Corporate,Central,Office Supplies,Labels,491.55,969.0554688698661
+3,0.4,41.79,Standard Class,Consumer,East,Technology,Phones,358.2,423.4949340967614
+3,0.0,8.6391,First Class,Consumer,West,Office Supplies,Storage,29.79,114.30597476449637
+7,0.2,12.7008,Second Class,Consumer,East,Office Supplies,Paper,36.288,34.569083078140416
+6,0.0,0.0,Standard Class,Corporate,South,Office Supplies,Storage,828.84,353.769853723532
+5,0.0,5.083,Standard Class,Consumer,East,Office Supplies,Storage,29.9,157.56375644397693
+3,0.0,8.6436,Second Class,Consumer,West,Office Supplies,Paper,17.64,22.565859016154576
+2,0.0,7.3132,Standard Class,Consumer,West,Office Supplies,Envelopes,15.56,21.9104186739365
+5,0.2,77.672,First Class,Consumer,West,Office Supplies,Paper,221.92,241.31816004934862
+2,0.2,19.176,Standard Class,Consumer,East,Technology,Accessories,63.92,110.86284998295179
+5,0.6,-11.439,Standard Class,Corporate,Central,Furniture,Furnishings,14.76,31.03720176348516
+2,0.7,-0.99,First Class,Corporate,East,Office Supplies,Binders,1.188,16.843422376627295
+5,0.0,7.056,Standard Class,Home Office,Central,Office Supplies,Binders,14.4,19.942286678739894
+5,0.0,264.5865,Second Class,Consumer,East,Technology,Phones,979.95,987.997569188801
+3,0.2,0.7425,Standard Class,Consumer,Central,Technology,Accessories,2.376,59.27780495315669
+5,0.2,17.127,First Class,Consumer,South,Office Supplies,Appliances,152.24,71.42211395276844
+2,0.7,-2.9964,Standard Class,Consumer,South,Office Supplies,Binders,4.086,16.843422376627295
+5,0.0,1668.205,Standard Class,Home Office,East,Technology,Machines,3404.5,4500.660251851844
+2,0.2,0.9576,Same Day,Corporate,Central,Office Supplies,Storage,12.768,55.89076887239634
+3,0.0,29.2857,First Class,Home Office,South,Office Supplies,Binders,62.31,75.59048233861314
+3,0.0,1.7901,Standard Class,Consumer,West,Office Supplies,Art,6.63,16.843422376627295
+3,0.0,5.6628,Standard Class,Corporate,West,Furniture,Furnishings,14.52,30.94976339152403
+6,0.0,82.0776,Standard Class,Consumer,Central,Furniture,Furnishings,373.08,291.9247614311636
+4,0.0,5.4332,Second Class,Home Office,West,Office Supplies,Labels,11.56,19.337620130481138
+3,0.0,79.8912,Standard Class,Consumer,East,Office Supplies,Paper,166.44,167.98430159226768
+5,0.0,13.365,Standard Class,Consumer,Central,Office Supplies,Binders,29.7,35.501253664809475
+3,0.0,34.9074,Standard Class,Consumer,East,Technology,Accessories,85.14,130.76021427047388
+2,0.2,1.068,Standard Class,Consumer,South,Furniture,Furnishings,17.088,30.76927273539058
+8,0.2,66.7152,Second Class,Home Office,West,Technology,Phones,889.536,799.212024239975
+3,0.2,88.074,First Class,Consumer,South,Office Supplies,Paper,251.64,271.8898089584552
+2,0.0,1.6896,Standard Class,Home Office,East,Office Supplies,Art,3.52,16.843422376627295
+8,0.2,363.9048,First Class,Home Office,West,Technology,Phones,4158.912,1968.155887563402
+6,0.0,24.9804,Second Class,Consumer,West,Office Supplies,Storage,92.52,163.13063754977446
+6,0.2,-325.572,Standard Class,Consumer,West,Furniture,Tables,2003.52,1408.0856281803922
+2,0.0,6.0632,Standard Class,Corporate,West,Office Supplies,Art,23.32,19.960815202835615
+2,0.6,-13.993,Second Class,Consumer,Central,Furniture,Furnishings,15.992,32.34438474152554
+3,0.2,2.5146,Standard Class,Consumer,East,Office Supplies,Appliances,33.528,16.8957436141644
+2,0.2,1.6116,Standard Class,Corporate,Central,Office Supplies,Storage,21.488,55.95653347590511
+2,0.0,3.0576,Standard Class,Home Office,South,Office Supplies,Binders,6.24,16.92971559448283
+8,0.2,60.9552,Second Class,Home Office,Central,Technology,Phones,812.736,559.1280277704786
+1,0.0,5.7716,Standard Class,Consumer,East,Office Supplies,Paper,12.28,19.370592897481163
+5,0.0,83.281,Second Class,Corporate,Central,Office Supplies,Supplies,4164.05,623.1439147676122
+4,0.2,19.6224,First Class,Consumer,West,Office Supplies,Paper,56.064,66.83253560902095
+2,0.0,3.9032,Standard Class,Corporate,West,Technology,Accessories,27.88,58.89794201186403
+3,0.2,4.6746,Second Class,Consumer,West,Office Supplies,Storage,53.424,98.90471991687315
+3,0.2,3.5022,Second Class,Corporate,West,Office Supplies,Binders,10.776,17.004031507836675
+4,0.2,6.6352,Standard Class,Corporate,West,Office Supplies,Binders,20.416,20.039151080752113
+3,0.0,54.9504,First Class,Consumer,West,Office Supplies,Appliances,203.52,177.33122050198276
+8,0.0,24.8832,Same Day,Consumer,East,Office Supplies,Paper,51.84,67.84538601049367
+5,0.0,15.2,Standard Class,Consumer,West,Office Supplies,Fasteners,30.4,39.774053159662934
+2,0.0,1.0904,Standard Class,Home Office,South,Office Supplies,Art,3.76,16.843422376627295
+2,0.0,13.428,Standard Class,Home Office,East,Office Supplies,Binders,29.84,35.501253664809475
+3,0.0,11.2308,Same Day,Home Office,West,Office Supplies,Envelopes,22.92,32.83916274175516
+3,0.0,9.3312,First Class,Consumer,West,Office Supplies,Paper,19.44,22.599509981728847
+5,0.2,146.79,Standard Class,Home Office,East,Office Supplies,Paper,419.4,466.37899918588556
+5,0.0,14.651,Standard Class,Home Office,West,Office Supplies,Paper,29.9,39.62377034762091
+5,0.2,6.552,Standard Class,Consumer,West,Office Supplies,Binders,18.72,20.039151080752113
+5,0.2,70.196,Standard Class,Corporate,West,Furniture,Chairs,1403.92,941.03607305934
+5,0.0,52.532,Standard Class,Corporate,Central,Office Supplies,Paper,114.2,116.20249688305397
+7,0.0,81.8496,Standard Class,Consumer,West,Furniture,Furnishings,227.36,291.9527121236514
+3,0.0,157.1292,First Class,Corporate,South,Furniture,Tables,872.94,729.7179870613178
+4,0.0,130.87,Standard Class,Corporate,Central,Office Supplies,Storage,523.48,575.7973615429181
+3,0.3,-127.5792,Standard Class,Consumer,Central,Furniture,Tables,637.896,739.9366636832204
+7,0.0,84.9436,Second Class,Home Office,East,Office Supplies,Paper,184.66,183.53146543154102
+1,0.8,-5.2072,Standard Class,Consumer,Central,Office Supplies,Appliances,2.264,16.843422376627295
+1,0.0,3.8775,First Class,Corporate,West,Office Supplies,Storage,15.51,55.6250536415079
+6,0.0,30.9504,Standard Class,Home Office,West,Office Supplies,Art,119.04,85.8791311346099
+2,0.2,-6.396,Standard Class,Home Office,West,Office Supplies,Storage,51.168,65.12516190673047
+5,0.7,-15.44,Second Class,Corporate,East,Office Supplies,Binders,23.16,18.58206463483046
+5,0.2,8.7285,First Class,Consumer,East,Furniture,Furnishings,30.36,32.65188615458095
+3,0.0,9.8901,Standard Class,Consumer,Central,Office Supplies,Storage,36.63,120.80078422309688
+4,0.7,-58.8616,Second Class,Consumer,East,Office Supplies,Binders,76.776,74.32776762605856
+2,0.0,113.6742,Standard Class,Home Office,South,Technology,Phones,391.98,417.27746450299753
+2,0.2,1.008,Standard Class,Consumer,Central,Office Supplies,Art,2.688,16.843422376627295
+2,0.0,6.2208,First Class,Consumer,West,Office Supplies,Paper,12.96,19.64514166406282
+2,0.2,9.2386,Standard Class,Consumer,West,Technology,Phones,105.584,61.513394896075106
+2,0.0,6.3744,First Class,Corporate,East,Furniture,Furnishings,13.28,30.94976339152403
+1,0.2,-5.1984,Standard Class,Corporate,South,Office Supplies,Storage,51.984,61.76728884143573
+2,0.0,6.2208,First Class,Home Office,East,Office Supplies,Paper,12.96,19.64514166406282
+3,0.0,19.4688,Standard Class,Home Office,West,Furniture,Furnishings,60.84,79.70839360191694
+2,0.2,2.9568,Standard Class,Corporate,Central,Office Supplies,Paper,8.448,16.92971559448283
+3,0.2,4.884,Standard Class,Consumer,East,Office Supplies,Art,19.536,19.846233659480678
+7,0.2,8.085,First Class,Corporate,South,Office Supplies,Art,64.68,23.3814037704848
+5,0.0,37.0,First Class,Corporate,East,Office Supplies,Labels,74.0,98.6205084598827
+9,0.7,-57.7566,Second Class,Consumer,East,Office Supplies,Binders,78.759,75.79843390312593
+8,0.2,4.672,Same Day,Consumer,East,Office Supplies,Art,37.376,19.80483631429117
+2,0.2,2.99,First Class,Corporate,West,Office Supplies,Paper,9.568,16.92971559448283
+3,0.0,316.8825,Standard Class,Consumer,East,Furniture,Chairs,1267.53,1035.168550974728
+5,0.2,18.7695,Standard Class,Corporate,South,Office Supplies,Appliances,166.84,108.53001890532127
+2,0.0,10.9584,Standard Class,Home Office,Central,Technology,Phones,273.96,62.00462023224837
+2,0.2,-81.7258,Second Class,Corporate,East,Office Supplies,Supplies,384.592,357.8596133601564
+2,0.0,142.9948,Same Day,Corporate,East,Technology,Phones,549.98,468.6488268531588
+3,0.2,2.3328,Standard Class,Consumer,South,Office Supplies,Art,15.552,16.861057561000177
+3,0.2,19.791,Standard Class,Consumer,East,Office Supplies,Binders,52.776,67.08242111797288
+4,0.0,12.4416,First Class,Consumer,East,Office Supplies,Paper,25.92,34.46537569096245
+1,0.2,1.971,Second Class,Consumer,West,Office Supplies,Binders,5.84,16.843422376627295
+3,0.0,10.9698,Standard Class,Consumer,East,Office Supplies,Envelopes,23.34,32.567665041353536
+2,0.0,22.0748,Standard Class,Consumer,West,Office Supplies,Appliances,76.12,70.92462760642866
+3,0.2,1.5066,Standard Class,Consumer,Central,Office Supplies,Art,13.392,16.843422376627295
+1,0.0,3.666,Second Class,Consumer,Central,Furniture,Furnishings,12.22,30.584568854436796
+4,0.2,-68.392,Standard Class,Corporate,East,Furniture,Furnishings,547.136,409.7717337022858
+3,0.0,49.8042,Second Class,Consumer,East,Furniture,Furnishings,276.69,189.63692933685178
+5,0.0,100.4255,First Class,Corporate,West,Office Supplies,Paper,204.95,209.98195493978602
+9,0.2,85.3092,Standard Class,Consumer,West,Furniture,Tables,1706.184,1066.0253720912149
+2,0.8,-2.0264,Standard Class,Consumer,Central,Office Supplies,Binders,1.192,16.843422376627295
+2,0.2,16.3352,Second Class,Consumer,West,Office Supplies,Binders,46.672,41.40537716058275
+2,0.2,2.502,Standard Class,Corporate,Central,Office Supplies,Supplies,22.24,17.05603599121994
+2,0.2,31.494,Standard Class,Corporate,West,Technology,Phones,83.984,290.39320091475076
+3,0.0,16.5354,Second Class,Consumer,Central,Furniture,Furnishings,53.34,50.562891979735575
+5,0.0,83.281,Second Class,Corporate,South,Office Supplies,Supplies,4164.05,643.7775070336793
+10,0.0,93.204,Standard Class,Home Office,East,Technology,Accessories,258.9,705.5994846533999
+4,0.2,31.2736,Standard Class,Corporate,West,Office Supplies,Paper,86.272,96.13612542088109
+7,0.2,1014.9797,Standard Class,Consumer,East,Technology,Copiers,2799.944,3502.396573721473
+3,0.0,6.6846,Second Class,Corporate,East,Office Supplies,Supplies,25.71,22.382385434094815
+3,0.2,6.5538,Standard Class,Consumer,Central,Office Supplies,Art,23.832,20.838581917879953
+3,0.5,-48.7032,Second Class,Home Office,East,Furniture,Bookcases,86.97,208.25412020489992
+2,0.0,4.8804,Standard Class,Home Office,West,Office Supplies,Paper,9.96,19.337620130481138
+5,0.0,2.552,Standard Class,Consumer,Central,Office Supplies,Art,8.8,16.984690550720217
+4,0.2,2.1888,Same Day,Home Office,Central,Office Supplies,Art,19.456,16.93236931318311
+7,0.0,9.1938,Second Class,Consumer,South,Office Supplies,Art,27.86,23.24065254829083
+2,0.2,-5.7588,Second Class,Consumer,West,Furniture,Chairs,153.568,296.0839801569045
+5,0.0,28.965,Standard Class,Corporate,West,Office Supplies,Supplies,579.3,184.86531221759085
+3,0.4,-8.379,Standard Class,Home Office,East,Technology,Phones,35.91,63.14991960516892
+3,0.0,280.59,Standard Class,Corporate,East,Technology,Phones,597.0,902.8652307253868
+1,0.0,24.9366,Standard Class,Consumer,East,Furniture,Furnishings,63.94,99.73429734487829
+4,0.0,4.0664,Standard Class,Home Office,West,Office Supplies,Storage,23.92,149.14630430133678
+2,0.2,5.133,Standard Class,Corporate,East,Office Supplies,Binders,14.16,19.3699797572532
+2,0.0,67.495,Standard Class,Home Office,East,Technology,Phones,269.98,246.55618152095334
+2,0.2,-25.109,First Class,Consumer,Central,Office Supplies,Storage,118.16,112.28001887227511
+10,0.0,58.66,Standard Class,Corporate,East,Technology,Phones,209.5,203.80398896727135
+2,0.1,14.6224,Standard Class,Home Office,East,Furniture,Chairs,69.264,158.99824598617096
+2,0.2,14.3952,First Class,Consumer,East,Technology,Accessories,47.984,66.42514235289077
+2,0.2,1.6704,First Class,Consumer,Central,Office Supplies,Labels,4.608,16.843422376627295
+2,0.0,14.6718,Standard Class,Corporate,West,Furniture,Furnishings,44.46,46.930929641885626
+3,0.0,163.1898,Standard Class,Consumer,Central,Technology,Accessories,479.97,501.45022877842916
+2,0.2,21.42,First Class,Home Office,Central,Technology,Accessories,100.8,119.825546318053
+3,0.0,4.908,Second Class,Corporate,West,Technology,Accessories,49.08,59.27780495315669
+2,0.2,3.6288,Standard Class,Home Office,Central,Office Supplies,Paper,10.368,17.131603517558794
+3,0.2,303.804,Standard Class,Consumer,South,Technology,Accessories,1012.68,1230.2148965679407
+3,0.0,4.8588,Standard Class,Consumer,Central,Office Supplies,Storage,242.94,108.00769926591488
+3,0.2,-22.6716,Standard Class,Corporate,South,Office Supplies,Storage,129.552,157.11892605852432
+1,0.0,12.7746,Standard Class,Consumer,East,Office Supplies,Envelopes,27.18,34.62318270979187
+7,0.2,1.0731,Standard Class,Consumer,South,Office Supplies,Art,12.264,16.93236931318311
+5,0.2,4.1965,Standard Class,Home Office,South,Office Supplies,Art,47.96,19.52261918751165
+2,0.0,2.0228,Standard Class,Consumer,West,Office Supplies,Appliances,7.78,16.843422376627295
+7,0.0,4.116,Second Class,Corporate,West,Office Supplies,Art,14.7,17.699956427454097
+6,0.2,2.4864,Standard Class,Consumer,Central,Office Supplies,Fasteners,7.104,16.984690550720217
+2,0.2,3.352,Standard Class,Home Office,West,Technology,Phones,33.52,58.89794201186403
+1,0.2,5.1294,Same Day,Consumer,East,Furniture,Bookcases,136.784,195.4631435337972
+3,0.0,0.2334,Standard Class,Home Office,South,Office Supplies,Fasteners,23.34,16.843422376627295
+2,0.2,1.1016,Standard Class,Home Office,Central,Office Supplies,Envelopes,3.264,16.843422376627295
+5,0.2,4.176,First Class,Consumer,Central,Office Supplies,Labels,11.52,17.692736867579956
+6,0.0,155.25,Standard Class,Consumer,South,Furniture,Chairs,517.5,634.9845703776728
+2,0.7,-15.1976,Second Class,Consumer,West,Office Supplies,Binders,20.724,18.500576958546166
+10,0.2,-18.186,Standard Class,Consumer,West,Technology,Accessories,103.92,114.51850914567869
+3,0.2,2.5641,Second Class,Consumer,West,Office Supplies,Storage,29.304,94.59971120622252
+4,0.2,5.5536,Second Class,Consumer,West,Office Supplies,Binders,17.088,19.3699797572532
+3,0.5,-1.9791,First Class,Consumer,South,Technology,Machines,32.985,222.9126470823876
+3,0.0,134.9925,Standard Class,Consumer,East,Technology,Phones,539.97,461.1746427809645
+5,0.2,29.95,Standard Class,Corporate,East,Technology,Accessories,119.8,153.71040907001986
+3,0.7,-3.4272,First Class,Home Office,East,Office Supplies,Binders,4.896,16.843422376627295
+2,0.1,-8.0784,Second Class,Home Office,East,Furniture,Chairs,181.764,201.50515017204097
+5,0.0,25.792,First Class,Consumer,West,Office Supplies,Art,99.2,72.41664459895935
+7,0.3,-24.843,Standard Class,Corporate,Central,Furniture,Chairs,347.802,598.3344213446014
+6,0.2,7.92,Second Class,Consumer,West,Office Supplies,Paper,25.344,22.154232313668082
+6,0.2,88.485,Second Class,Home Office,Central,Technology,Phones,1415.76,830.7179302978675
+5,0.0,15.552,Standard Class,Home Office,West,Office Supplies,Paper,32.4,39.774053159662934
+3,0.0,163.818,Standard Class,Home Office,East,Technology,Phones,546.06,600.3297362270239
+1,0.2,1.5602,Same Day,Home Office,West,Office Supplies,Binders,4.304,16.843422376627295
+8,0.0,6.912,Standard Class,Corporate,West,Office Supplies,Art,23.04,20.37845354334087
+3,0.7,-4.5936,Standard Class,Home Office,East,Office Supplies,Binders,5.742,16.843422376627295
+4,0.7,-2.6208,First Class,Home Office,South,Office Supplies,Binders,3.744,16.93236931318311
+3,0.2,2.8101,Standard Class,Corporate,East,Office Supplies,Binders,7.752,16.92971559448283
+4,0.2,-3.5996,Second Class,Consumer,West,Furniture,Chairs,287.968,283.78469446028737
+3,0.2,16.1838,Second Class,Consumer,South,Office Supplies,Paper,47.952,41.32760777362373
+3,0.0,45.555,Standard Class,Consumer,East,Furniture,Chairs,182.22,286.62869797014866
+3,0.2,1.3728,First Class,Corporate,South,Furniture,Furnishings,4.992,30.76927273539058
+7,0.2,53.7544,Second Class,Consumer,Central,Technology,Phones,537.544,554.0515770956343
+9,0.0,27.9936,First Class,Consumer,West,Office Supplies,Paper,58.32,69.47360916830509
+8,0.2,6.216,Standard Class,Corporate,South,Furniture,Furnishings,23.68,31.03806322485736
+6,0.2,1049.985,Standard Class,Home Office,West,Technology,Copiers,3359.952,3110.431522300227
+3,0.6,-10.1736,Standard Class,Corporate,Central,Furniture,Furnishings,22.608,31.03720176348516
+2,0.2,54.1764,Standard Class,Corporate,West,Furniture,Chairs,481.568,555.1047361593767
+2,0.0,6.3504,Standard Class,Corporate,South,Office Supplies,Paper,12.96,19.698063427342706
+3,0.2,5.1408,Standard Class,Consumer,South,Furniture,Furnishings,45.696,30.94976339152403
+5,0.7,-7.84,First Class,Corporate,East,Office Supplies,Binders,11.76,16.93236931318311
+2,0.2,84.5982,Standard Class,Consumer,South,Technology,Phones,751.984,778.1973288491178
+3,0.8,-20.5623,Second Class,Corporate,Central,Office Supplies,Binders,12.462,18.04181310565773
+1,0.2,1.07,Second Class,Consumer,South,Office Supplies,Paper,3.424,16.843422376627295
+2,0.0,193.32,First Class,Corporate,East,Technology,Phones,716.0,651.4765696137152
+3,0.0,12.222,Standard Class,Home Office,West,Office Supplies,Appliances,40.74,36.34978001547244
+1,0.0,2.211,Standard Class,Consumer,East,Office Supplies,Art,6.7,16.843422376627295
+1,0.7,-3.788,Standard Class,Home Office,West,Office Supplies,Binders,5.682,16.843422376627295
+5,0.7,-5.412,Standard Class,Home Office,South,Office Supplies,Binders,7.38,16.93236931318311
+4,0.0,5.9136,Standard Class,Home Office,West,Office Supplies,Labels,12.32,19.64514166406282
+7,0.0,30.415,Standard Class,Corporate,Central,Office Supplies,Binders,60.83,81.8890227232404
+5,0.0,8.6715,Standard Class,Corporate,West,Office Supplies,Labels,18.45,22.565859016154576
+7,0.4,9.4437,Standard Class,Home Office,East,Technology,Phones,62.958,61.65972772851658
+3,0.2,-20.7846,Standard Class,Corporate,West,Furniture,Chairs,184.752,252.38248445878523
+2,0.0,8.2062,Standard Class,Consumer,South,Office Supplies,Binders,17.46,22.018031156236095
+2,0.0,33.8744,First Class,Consumer,South,Furniture,Bookcases,241.96,181.50104395771143
+4,0.0,14.9744,Standard Class,Corporate,West,Office Supplies,Envelopes,30.56,39.774053159662934
+3,0.2,28.7064,First Class,Corporate,East,Office Supplies,Paper,85.056,87.14009599065447
+3,0.0,35.2872,Second Class,Consumer,Central,Technology,Phones,135.72,135.32353965677342
+4,0.0,31.6,Standard Class,Corporate,South,Technology,Accessories,316.0,144.73662798093875
+4,0.0,19.8744,First Class,Consumer,East,Office Supplies,Paper,40.56,59.07998666431584
+3,0.0,21.7515,First Class,Corporate,South,Furniture,Furnishings,127.95,86.72240001531475
+1,0.6,-4.04,Standard Class,Consumer,Central,Furniture,Furnishings,6.464,30.711014720023176
+8,0.7,-331.96,First Class,Home Office,South,Office Supplies,Binders,398.352,353.0882176426804
+5,0.0,118.983,Standard Class,Corporate,West,Technology,Accessories,349.95,431.34373165983334
+2,0.0,22.2352,Second Class,Corporate,East,Office Supplies,Storage,85.52,132.281434073466
+2,0.8,-22.62,First Class,Consumer,Central,Office Supplies,Binders,15.08,17.960266570437824
+7,0.8,-68.1856,First Class,Corporate,Central,Office Supplies,Binders,42.616,41.29184649661613
+4,0.2,17.352,Standard Class,Consumer,Central,Office Supplies,Art,154.24,52.25720820814784
+5,0.2,29.692,Standard Class,Consumer,East,Office Supplies,Paper,91.36,90.61626070601544
+3,0.0,11.685,Standard Class,Consumer,West,Office Supplies,Storage,46.74,118.1850591594297
+10,0.0,112.422,Standard Class,Corporate,East,Furniture,Furnishings,274.2,560.3791893053938
+3,0.2,16.011,Second Class,Consumer,West,Technology,Phones,213.48,86.9253354988496
+5,0.0,2.184,Standard Class,Home Office,West,Office Supplies,Art,8.4,16.93236931318311
+9,0.0,374.6286,Standard Class,Consumer,South,Furniture,Bookcases,1628.82,1604.3340295794003
+9,0.2,69.705,Standard Class,Consumer,West,Office Supplies,Paper,223.056,234.36734703776466
+3,0.0,79.8912,Same Day,Consumer,West,Office Supplies,Paper,166.44,167.976034925601
+8,0.1,313.2624,Standard Class,Consumer,East,Furniture,Chairs,2563.056,1695.5341439744916
+3,0.7,-14.3313,Same Day,Corporate,East,Office Supplies,Binders,18.693,17.917202680245268
+3,0.0,355.4466,Second Class,Corporate,East,Technology,Accessories,826.62,1007.5160321135696
+3,0.0,3.285,Standard Class,Consumer,East,Office Supplies,Supplies,10.95,17.112091641676763
+6,0.0,157.0176,Second Class,Consumer,West,Office Supplies,Appliances,541.44,569.0611444858431
+1,0.2,6.4784,Second Class,Consumer,South,Furniture,Chairs,64.784,102.70302287881343
+2,0.0,6.3296,First Class,Corporate,South,Office Supplies,Paper,13.76,19.698063427342706
+2,0.7,-15.8356,Standard Class,Home Office,West,Office Supplies,Binders,21.594,18.540342090863362
+11,0.0,44.5962,Second Class,Consumer,West,Office Supplies,Storage,153.78,427.24490290334364
+2,0.0,5.5328,First Class,Home Office,West,Furniture,Furnishings,14.56,30.94976339152403
+1,0.0,3.1104,Standard Class,Consumer,West,Office Supplies,Paper,6.48,16.92971559448283
+2,0.0,20.06,Same Day,Consumer,West,Technology,Accessories,118.0,94.1378076331369
+1,0.7,-1.294,Second Class,Corporate,East,Office Supplies,Binders,1.941,16.843422376627295
+3,0.0,1.7901,First Class,Consumer,West,Office Supplies,Art,6.63,16.843422376627295
+1,0.0,24.936,Same Day,Consumer,East,Technology,Accessories,166.24,105.03016756387898
+7,0.0,412.5394,First Class,Consumer,Central,Furniture,Chairs,1586.69,1518.6020483302689
+3,0.0,5.778,Standard Class,Consumer,West,Office Supplies,Paper,12.84,19.444067469397904
+5,0.2,9.25,Standard Class,Corporate,West,Office Supplies,Paper,29.6,22.735711139160827
+2,0.2,1.764,Standard Class,Consumer,East,Office Supplies,Labels,5.04,16.843422376627295
+11,0.2,11.814,Standard Class,Corporate,South,Office Supplies,Fasteners,31.504,33.525529466668345
+5,0.2,9.3125,Standard Class,Corporate,West,Office Supplies,Binders,29.8,22.735711139160827
+3,0.0,4.8162,Standard Class,Consumer,West,Office Supplies,Fasteners,10.47,19.337620130481138
+3,0.0,27.2862,Second Class,Corporate,East,Furniture,Furnishings,88.02,105.60453721781617
+3,0.0,5.1816,Standard Class,Home Office,West,Furniture,Furnishings,15.24,30.94976339152403
+4,0.0,11.1776,First Class,Consumer,South,Furniture,Furnishings,39.92,39.63576366295425
+2,0.7,-2.0622,Second Class,Corporate,South,Office Supplies,Binders,2.946,16.843422376627295
+3,0.2,5.7312,First Class,Consumer,South,Furniture,Furnishings,19.104,30.94976339152403
+3,0.2,-3.8385,Standard Class,Consumer,South,Furniture,Furnishings,102.36,32.582743300113286
+3,0.2,3.5712,Standard Class,Consumer,South,Office Supplies,Art,47.616,17.16644080428584
+3,0.2,50.4063,Standard Class,Consumer,Central,Office Supplies,Envelopes,149.352,189.81871813443829
+12,0.2,18.7224,Standard Class,Corporate,West,Office Supplies,Binders,51.648,70.76626840797849
+1,0.2,1.1466,Standard Class,Consumer,Central,Office Supplies,Paper,3.528,16.843422376627295
+4,0.2,19.0848,First Class,Consumer,East,Furniture,Furnishings,72.704,111.50328585759924
+2,0.5,-27.828,First Class,Corporate,South,Technology,Machines,695.7,397.84968118717666
+9,0.0,46.9278,Standard Class,Corporate,Central,Office Supplies,Art,161.82,137.77621513921818
+3,0.3,-9.111,Standard Class,Consumer,East,Furniture,Chairs,127.554,284.9816211059073
+4,0.2,43.1976,First Class,Consumer,Central,Technology,Phones,575.968,455.23374827388676
+6,0.0,68.8464,Standard Class,Consumer,Central,Office Supplies,Appliances,245.88,239.3202401616014
+4,0.0,18.3908,Standard Class,Consumer,South,Technology,Accessories,79.96,86.78687296925558
+2,0.0,45.3488,Standard Class,Home Office,Central,Furniture,Chairs,161.96,237.2388898163543
+1,0.8,-1.5715,Standard Class,Corporate,Central,Office Supplies,Binders,0.898,16.843422376627295
+4,0.0,2.7664,Second Class,Consumer,West,Office Supplies,Art,10.64,17.018662531038643
+4,0.2,-7.008,Standard Class,Consumer,Central,Technology,Phones,35.04,60.045299520995556
+3,0.0,3.9102,First Class,Corporate,East,Office Supplies,Envelopes,7.98,17.583881422590697
+4,0.2,1415.4296,First Class,Home Office,East,Office Supplies,Binders,4355.168,3516.963620962964
+3,0.0,2.0088,Same Day,Consumer,West,Office Supplies,Storage,50.22,102.89025130101199
+3,0.0,32.9817,Standard Class,Consumer,South,Technology,Phones,113.73,131.07250382897132
+2,0.0,46.1184,Standard Class,Consumer,Central,Office Supplies,Paper,96.08,108.64169044789935
+5,0.0,13.452,Standard Class,Home Office,South,Office Supplies,Art,35.4,36.89478047639694
+3,0.6,-4.6752,Second Class,Consumer,Central,Furniture,Furnishings,11.688,30.711014720023176
+4,0.0,12.8256,First Class,Corporate,West,Office Supplies,Paper,26.72,34.62318270979187
+3,0.7,-11.937,First Class,Corporate,South,Office Supplies,Binders,15.57,17.363382265138554
+1,0.2,3.4995,Standard Class,Consumer,West,Technology,Phones,55.992,58.89794201186403
+1,0.0,4.57,First Class,Consumer,South,Office Supplies,Binders,9.14,19.29622278529163
+2,0.2,1.6704,Second Class,Consumer,South,Office Supplies,Labels,4.608,16.843422376627295
+3,0.2,31.4532,Standard Class,Consumer,West,Furniture,Tables,629.064,600.0207774066754
+6,0.0,19.2384,Second Class,Home Office,East,Office Supplies,Paper,40.08,57.4353125883945
+3,0.2,3.5529,First Class,Home Office,Central,Office Supplies,Art,21.864,17.16644080428584
+5,0.5,-430.617,Standard Class,Corporate,Central,Furniture,Tables,652.45,687.9801482172547
+5,0.0,156.429,Standard Class,Corporate,East,Office Supplies,Storage,601.65,639.2907513418925
+8,0.0,25.424,Second Class,Home Office,West,Office Supplies,Storage,90.8,436.1167416049362
+5,0.0,88.725,First Class,Consumer,South,Furniture,Bookcases,354.9,448.33156706031383
+1,0.0,3.4357,Second Class,Consumer,East,Office Supplies,Labels,7.31,17.004031507836675
+10,0.0,71.928,Same Day,Consumer,West,Furniture,Furnishings,199.8,382.87528632271193
+3,0.0,11.2308,Standard Class,Consumer,West,Office Supplies,Paper,22.92,32.83916274175516
+2,0.2,-21.294,Standard Class,Corporate,South,Office Supplies,Storage,113.568,108.88428761325736
+2,0.2,-3.8864,Standard Class,Consumer,South,Furniture,Bookcases,77.728,222.07954698791514
+2,0.0,1.9024,Standard Class,Home Office,Central,Office Supplies,Art,6.56,16.843422376627295
+6,0.0,14.256,Standard Class,Home Office,Central,Office Supplies,Paper,31.68,38.62558722992337
+1,0.0,3.6348,Standard Class,Corporate,West,Office Supplies,Supplies,13.98,17.29189589461434
+2,0.0,35.6346,Standard Class,Home Office,Central,Technology,Phones,131.98,135.36890440358164
+3,0.2,2.8782,Second Class,Consumer,East,Office Supplies,Envelopes,8.856,16.92971559448283
+6,0.0,10.203,Standard Class,Consumer,South,Technology,Accessories,53.7,61.415736157684165
+2,0.2,2.2712,Same Day,Consumer,South,Office Supplies,Art,10.688,16.861057561000177
+5,0.0,84.51,Standard Class,Corporate,East,Office Supplies,Storage,704.25,853.9395350745689
+3,0.2,67.9833,Standard Class,Consumer,East,Office Supplies,Envelopes,201.432,243.32659831246215
+3,0.0,68.9631,Second Class,Corporate,West,Office Supplies,Paper,146.73,146.88926647314665
+2,0.8,-11.5872,First Class,Corporate,Central,Office Supplies,Binders,6.816,17.044036034230096
+2,0.0,2.19,Standard Class,Home Office,East,Office Supplies,Supplies,7.3,17.003714753682836
+6,0.0,26.0568,Standard Class,Consumer,West,Office Supplies,Storage,93.06,170.35887033127506
+1,0.0,1.8288,Standard Class,Corporate,East,Office Supplies,Binders,3.81,16.843422376627295
+1,0.2,0.0,Standard Class,Consumer,South,Furniture,Furnishings,31.984,33.99136489676951
+10,0.2,18.144,Standard Class,Corporate,Central,Office Supplies,Paper,51.84,58.05199959713145
+3,0.7,-10.5798,First Class,Consumer,East,Office Supplies,Binders,14.427,16.90249010891263
+1,0.0,5.8891,Second Class,Consumer,South,Office Supplies,Binders,12.53,19.64514166406282
+7,0.2,9.0636,Standard Class,Consumer,West,Office Supplies,Labels,27.888,22.735711139160827
+1,0.2,1.984,First Class,Home Office,West,Office Supplies,Art,15.872,16.843422376627295
+1,0.0,7.106,Standard Class,Consumer,West,Furniture,Furnishings,18.7,31.064678109067007
+8,0.0,1459.2,First Class,Corporate,South,Technology,Machines,3040.0,3488.6432233333376
+4,0.2,12.1176,Standard Class,Consumer,East,Furniture,Bookcases,323.136,272.2129674285885
+5,0.0,252.59,Same Day,Consumer,East,Furniture,Furnishings,971.5,989.5555115608679
+2,0.0,119.4742,Standard Class,Corporate,South,Technology,Phones,411.98,441.2750237421475
+5,0.0,20.1015,Standard Class,Corporate,East,Furniture,Furnishings,74.45,81.50311757509597
+4,0.0,7.8064,Standard Class,Consumer,West,Technology,Accessories,55.76,60.03586980107789
+4,0.0,22.8904,Standard Class,Consumer,East,Office Supplies,Art,88.04,65.10934184322095
+7,0.0,21.7728,Standard Class,Home Office,Central,Office Supplies,Paper,45.36,60.7117296528171
+3,0.0,12.8568,Standard Class,Consumer,West,Furniture,Furnishings,29.22,42.32527312951402
+5,0.0,114.9385,Standard Class,Consumer,West,Office Supplies,Paper,244.55,247.71996690926971
+5,0.0,6.206,Standard Class,Corporate,Central,Office Supplies,Art,21.4,19.960815202835615
+2,0.2,0.6156,Standard Class,Consumer,Central,Office Supplies,Fasteners,1.824,16.843422376627295
+3,0.7,-11.19,Same Day,Consumer,South,Office Supplies,Binders,13.428,16.936448928787495
+2,0.2,2.8478,Standard Class,Consumer,East,Office Supplies,Binders,7.856,16.92971559448283
+6,0.0,50.1876,Standard Class,Consumer,South,Office Supplies,Art,185.88,170.54882080525593
+3,0.3,-39.5118,First Class,Consumer,Central,Furniture,Tables,307.314,274.0439132932339
+2,0.2,0.559,Standard Class,Consumer,Central,Office Supplies,Art,3.44,16.843422376627295
+3,0.0,41.0388,Standard Class,Consumer,South,Furniture,Furnishings,186.54,142.69942533307162
+1,0.0,4.1916,Standard Class,Home Office,West,Office Supplies,Storage,14.97,54.60088117841176
+2,0.0,10.3904,Second Class,Corporate,West,Furniture,Furnishings,30.56,38.88608263687607
+5,0.0,16.194,Second Class,Corporate,East,Office Supplies,Storage,269.9,171.19970981688817
+3,0.0,222.588,Same Day,Home Office,West,Office Supplies,Storage,1112.94,1028.2903539821705
+3,0.0,4.2336,Standard Class,Consumer,West,Office Supplies,Labels,8.64,19.174533953590203
+7,0.0,19.2556,Standard Class,Home Office,Central,Office Supplies,Binders,41.86,57.993677178838745
+5,0.0,10.327,Second Class,Home Office,East,Office Supplies,Binders,22.45,31.221769589789492
+4,0.0,7.1864,Same Day,Corporate,West,Office Supplies,Storage,359.32,167.24399685484363
+4,0.0,5.6416,Second Class,Consumer,East,Office Supplies,Art,13.12,19.596291895307203
+2,0.0,11.5432,Standard Class,Consumer,East,Office Supplies,Paper,24.56,33.15214538802579
+2,0.0,57.3212,Standard Class,Consumer,South,Office Supplies,Envelopes,121.96,132.13588828284006
+2,0.0,3.4368,Second Class,Corporate,South,Office Supplies,Binders,7.16,17.004031507836675
+1,0.2,0.1584,Standard Class,Home Office,West,Office Supplies,Art,1.408,16.843422376627295
+1,0.0,8.49,Standard Class,Home Office,East,Office Supplies,Envelopes,16.98,22.489503404729472
+1,0.0,47.7306,Standard Class,Consumer,Central,Office Supplies,Storage,265.17,218.1330508825891
+2,0.8,-4.396,Standard Class,Consumer,Central,Office Supplies,Binders,2.512,16.843422376627295
+2,0.2,4.3308,Standard Class,Corporate,West,Office Supplies,Binders,12.832,19.243981284104166
+1,0.0,1.7343,Standard Class,Consumer,East,Office Supplies,Labels,3.69,16.843422376627295
+4,0.2,-17.9928,First Class,Corporate,West,Technology,Phones,79.968,92.96102754418095
+1,0.2,0.6474,Standard Class,Consumer,East,Furniture,Furnishings,3.984,30.76927273539058
+3,0.0,152.0232,Standard Class,Consumer,South,Office Supplies,Appliances,542.94,562.7937017009737
+3,0.2,124.485,Same Day,Consumer,West,Office Supplies,Binders,398.352,468.4316782159633
+1,0.0,12.098,First Class,Consumer,East,Furniture,Bookcases,120.98,175.80336310883914
+2,0.0,5.3392,Second Class,Corporate,South,Office Supplies,Envelopes,11.36,19.337620130481138
+3,0.2,-10.9188,Standard Class,Consumer,South,Furniture,Chairs,218.376,237.15590627076787
+1,0.0,34.386,First Class,Consumer,East,Technology,Accessories,78.15,130.9773497411989
+8,0.0,13.604,Second Class,Consumer,East,Technology,Accessories,71.6,65.6523547159833
+2,0.0,23.5248,Second Class,Home Office,South,Technology,Phones,90.48,102.44507396991249
+4,0.0,16.0928,Standard Class,Home Office,West,Office Supplies,Paper,34.24,40.810502206776825
+4,0.0,14.2688,Standard Class,Home Office,Central,Office Supplies,Binders,29.12,38.62558722992337
+5,0.2,3.4965,Second Class,Corporate,West,Technology,Phones,39.96,59.27780495315669
+3,0.0,5.8233,Second Class,Corporate,South,Office Supplies,Binders,12.39,19.444067469397904
+2,0.0,4.3008,Second Class,Corporate,West,Office Supplies,Envelopes,8.96,19.211621657332103
+5,0.2,-110.49,First Class,Consumer,East,Furniture,Bookcases,883.92,618.1932465981702
+5,0.0,3177.475,Standard Class,Consumer,South,Office Supplies,Binders,6354.95,7984.161579999994
+1,0.2,1.1225,Standard Class,Consumer,East,Office Supplies,Binders,3.592,16.843422376627295
+2,0.2,-44.196,Standard Class,Consumer,East,Furniture,Bookcases,353.568,272.08993612626324
+5,0.2,1.7995,Standard Class,Corporate,Central,Technology,Accessories,143.96,59.27780495315669
+5,0.2,130.2075,Second Class,Consumer,West,Technology,Machines,385.8,912.0910799334301
+2,0.2,1.764,Standard Class,Consumer,East,Office Supplies,Labels,5.04,16.843422376627295
+3,0.0,251.8911,Standard Class,Home Office,Central,Office Supplies,Appliances,868.59,852.676526914374
+2,0.0,4.4824,First Class,Corporate,South,Office Supplies,Appliances,17.24,20.706443797314584
+9,0.2,15.6078,Standard Class,Home Office,East,Office Supplies,Paper,43.056,40.494178557052315
+3,0.2,12.6672,Standard Class,Consumer,South,Furniture,Furnishings,77.952,42.45789809619597
+3,0.2,0.711,First Class,Consumer,East,Office Supplies,Appliances,9.48,16.843422376627295
+2,0.2,-8.9964,Standard Class,Consumer,Central,Technology,Phones,39.984,63.18485988423934
+5,0.2,19.596,Standard Class,Corporate,West,Technology,Phones,195.96,174.06153231774906
+4,0.2,8.8624,Standard Class,Consumer,South,Office Supplies,Envelopes,24.448,22.702060173586556
+6,0.2,20.097,Standard Class,Home Office,West,Technology,Phones,321.552,179.22797468015423
+7,0.0,26.3494,Second Class,Corporate,West,Office Supplies,Appliances,90.86,80.00014695894096
+3,0.0,0.0,Standard Class,Consumer,West,Office Supplies,Fasteners,5.94,16.843422376627295
+2,0.0,21.0752,Standard Class,Consumer,East,Furniture,Furnishings,56.96,84.77467393827555
+6,0.0,109.7226,Standard Class,Corporate,East,Office Supplies,Appliances,281.34,373.391431113841
+3,0.2,-2.436,Second Class,Consumer,East,Office Supplies,Storage,38.976,114.77103392922368
+12,0.2,135.4068,Second Class,Consumer,West,Furniture,Tables,3610.848,1017.1092136238198
+3,0.5,-204.4458,Standard Class,Consumer,West,Furniture,Tables,393.165,344.5870925731399
+4,0.7,-4.49,Second Class,Consumer,South,Office Supplies,Binders,5.388,16.93236931318311
+4,0.7,-4.6464,Standard Class,Corporate,South,Office Supplies,Binders,6.336,16.93236931318311
+3,0.0,7.668,First Class,Home Office,East,Office Supplies,Paper,17.04,21.9104186739365
+3,0.2,19.1976,Standard Class,Corporate,West,Technology,Phones,191.976,170.01914076419908
+13,0.2,20.8494,First Class,Consumer,West,Office Supplies,Binders,61.776,106.7501962592289
+3,0.2,7.6968,Standard Class,Consumer,Central,Office Supplies,Storage,102.624,102.7197818047577
+4,0.2,15.8376,First Class,Corporate,West,Technology,Phones,211.168,84.51426298291443
+5,0.2,55.745,Standard Class,Consumer,West,Technology,Phones,445.96,534.0786427137256
+1,0.0,3.0774,Second Class,Home Office,East,Office Supplies,Paper,6.69,16.92971559448283
+2,0.2,8.88,Standard Class,Corporate,East,Office Supplies,Labels,23.68,22.702060173586556
+5,0.2,11.297,First Class,Home Office,West,Office Supplies,Binders,34.76,33.10572487152981
+2,0.1,32.6332,Second Class,Consumer,East,Furniture,Chairs,172.764,272.81987809773494
+3,0.0,46.575,Second Class,Consumer,West,Furniture,Furnishings,155.25,166.76077686233745
+6,0.2,81.744,Standard Class,Corporate,West,Office Supplies,Binders,251.52,233.7646780685235
+2,0.0,15.468,First Class,Consumer,West,Furniture,Furnishings,128.9,48.42588849995656
+6,0.2,67.86,Standard Class,Home Office,West,Office Supplies,Binders,180.96,202.4355516745015
+1,0.2,1.6038,Second Class,Consumer,West,Office Supplies,Binders,4.752,16.843422376627295
+5,0.2,32.396,Standard Class,Home Office,West,Office Supplies,Binders,99.68,97.81587737939503
+3,0.0,8.694,First Class,Corporate,West,Office Supplies,Labels,18.9,22.565859016154576
+3,0.0,15.525,First Class,Consumer,East,Office Supplies,Binders,34.5,39.774053159662934
+7,0.0,21.7728,First Class,Corporate,West,Office Supplies,Paper,45.36,60.7117296528171
+2,0.7,-3.552,Standard Class,Home Office,South,Office Supplies,Binders,5.328,16.843422376627295
+2,0.0,15.764,Standard Class,Corporate,South,Office Supplies,Art,56.3,41.53639362426173
+2,0.3,-2.0568,Standard Class,Corporate,Central,Furniture,Chairs,47.992,185.41765705297868
+3,0.0,9.594,Standard Class,Consumer,East,Office Supplies,Storage,95.94,117.23168595896362
+4,0.2,13.9728,Standard Class,Consumer,South,Furniture,Chairs,186.304,221.54995979581116
+2,0.2,7.6154,Standard Class,Consumer,South,Technology,Accessories,46.864,59.41518530134354
+1,0.45,-76.6062,Standard Class,Consumer,South,Furniture,Tables,191.5155,240.967083371336
+1,0.2,3.5858,Second Class,Corporate,West,Furniture,Tables,143.432,182.43836989581175
+2,0.0,3.4368,Standard Class,Consumer,South,Office Supplies,Binders,7.16,17.004031507836675
+2,0.7,-2.97,Standard Class,Consumer,South,Office Supplies,Binders,3.564,16.843422376627295
+1,0.4,-13.3341,Standard Class,Corporate,East,Technology,Phones,61.542,64.91649665732369
+3,0.0,12.5832,Same Day,Consumer,East,Office Supplies,Storage,44.94,117.2442505453201
+5,0.0,53.997,Second Class,Consumer,East,Technology,Accessories,899.95,195.375819328919
+14,0.1,161.9674,Standard Class,Home Office,East,Furniture,Chairs,767.214,1243.0305294863374
+2,0.0,10.881,Standard Class,Corporate,Central,Office Supplies,Art,40.3,33.528296353406645
+5,0.0,118.6575,Standard Class,Consumer,West,Furniture,Tables,912.75,986.186186846
+3,0.0,17.22,First Class,Consumer,East,Office Supplies,Paper,34.44,47.740004878397585
+4,0.0,225.264,Standard Class,Consumer,South,Furniture,Chairs,866.4,919.8640333063854
+5,0.0,10.881,First Class,Consumer,Central,Furniture,Furnishings,41.85,39.29421117454842
+3,0.2,21.1977,Standard Class,Corporate,East,Office Supplies,Envelopes,62.808,70.76424419444658
+2,0.0,14.501,Same Day,Home Office,East,Furniture,Furnishings,85.3,47.87033196208575
+2,0.0,3.2406,Standard Class,Corporate,East,Furniture,Furnishings,9.82,30.76927273539058
+3,0.2,52.3764,Standard Class,Consumer,South,Furniture,Chairs,698.352,569.263670713009
+3,0.0,9.6192,Second Class,Corporate,East,Office Supplies,Paper,20.04,28.753345928211242
+8,0.2,28.7928,Standard Class,Home Office,West,Technology,Phones,255.936,276.3247753461901
+1,0.2,2.934,Second Class,Consumer,South,Office Supplies,Envelopes,7.824,16.92971559448283
+3,0.2,2.9889,Standard Class,Corporate,Central,Office Supplies,Labels,8.856,16.92971559448283
+7,0.2,-112.9527,Standard Class,Consumer,West,Furniture,Tables,1004.024,784.9594743102872
+2,0.0,104.7528,Standard Class,Consumer,Central,Furniture,Tables,581.96,653.7145503465182
+6,0.2,-10.9116,Standard Class,Corporate,West,Technology,Accessories,62.352,63.81614487071104
+4,0.0,92.3936,Second Class,Consumer,West,Furniture,Furnishings,355.36,298.8139536102495
+3,0.0,10.3071,Second Class,Consumer,West,Office Supplies,Labels,21.93,31.221769589789492
+2,0.2,1.7248,Standard Class,Consumer,Central,Office Supplies,Labels,4.928,16.843422376627295
+5,0.0,240.8595,Second Class,Consumer,South,Office Supplies,Labels,491.55,941.648379046898
+2,0.1,2.8392,Standard Class,Corporate,East,Furniture,Chairs,127.764,154.77874899603566
+3,0.0,31.5192,Standard Class,Corporate,East,Office Supplies,Paper,68.52,87.6383930664515
+2,0.0,3.0268,Standard Class,Corporate,East,Office Supplies,Paper,6.58,16.92971559448283
+1,0.2,0.5004,Second Class,Consumer,Central,Office Supplies,Supplies,6.672,17.003714753682836
+6,0.2,76.7904,Same Day,Corporate,East,Technology,Accessories,383.952,383.4825072755744
+5,0.0,8.733,Standard Class,Corporate,East,Office Supplies,Art,21.3,23.207001582716558
+6,0.0,4.6464,First Class,Consumer,East,Furniture,Furnishings,10.56,30.776887372645483
+5,0.0,5.8045,Standard Class,Home Office,West,Office Supplies,Fasteners,12.35,19.444067469397904
+5,0.0,247.485,Standard Class,Home Office,East,Technology,Phones,824.95,970.7890145703999
+2,0.2,7.803,Standard Class,Consumer,East,Office Supplies,Binders,23.12,22.154232313668082
+5,0.2,1.652,First Class,Corporate,East,Office Supplies,Art,16.52,16.93236931318311
+3,0.2,-8.997,Second Class,Consumer,East,Technology,Accessories,71.976,63.81614487071104
+2,0.2,10.8588,Standard Class,Corporate,South,Furniture,Bookcases,289.568,183.1083846666087
+4,0.0,10.3936,Standard Class,Corporate,South,Furniture,Furnishings,129.92,38.62624263687607
+1,0.0,2.4402,Standard Class,Home Office,South,Office Supplies,Paper,4.98,16.8957436141644
+5,0.2,4.176,Standard Class,Consumer,Central,Office Supplies,Labels,11.52,17.692736867579956
+7,0.0,0.5236,Second Class,Corporate,East,Office Supplies,Fasteners,26.18,16.93236931318311
+3,0.0,0.2244,Standard Class,Consumer,West,Office Supplies,Fasteners,11.22,16.843422376627295
+3,0.2,0.8997,Standard Class,Consumer,East,Technology,Accessories,71.976,59.27780495315669
+5,0.2,3.772,Standard Class,Consumer,Central,Office Supplies,Art,13.12,17.499830420994506
+9,0.2,12.8151,Standard Class,Corporate,West,Office Supplies,Binders,35.352,34.72689009696983
+9,0.4,-464.697,Standard Class,Corporate,East,Furniture,Tables,1548.99,1458.443735093678
+5,0.4,-199.77,Standard Class,Consumer,Central,Technology,Machines,998.85,981.2136161788336
+2,0.7,-2.0622,Same Day,Consumer,East,Office Supplies,Binders,2.946,16.843422376627295
+7,0.2,-2.3814,Standard Class,Consumer,East,Office Supplies,Fasteners,10.584,16.93236931318311
+3,0.0,12.993,Standard Class,Corporate,East,Furniture,Furnishings,129.93,42.84039566482641
+3,0.0,0.864,Second Class,Consumer,West,Office Supplies,Supplies,28.8,17.003714753682836
+1,0.2,1.7375,Standard Class,Consumer,West,Technology,Phones,5.56,58.89794201186403
+4,0.2,102.9528,Second Class,Home Office,West,Furniture,Chairs,915.136,1056.641809736221
+4,0.2,6.2064,Standard Class,Consumer,Central,Office Supplies,Supplies,55.168,22.5894676297191
+1,0.0,26.6304,First Class,Home Office,East,Office Supplies,Paper,55.48,69.35379755429963
+3,0.2,2.6811,Standard Class,Consumer,Central,Office Supplies,Storage,23.832,92.7711834032228
+4,0.8,-6.286,Standard Class,Home Office,Central,Office Supplies,Binders,3.592,16.93236931318311
+2,0.2,1.7248,Standard Class,Consumer,Central,Office Supplies,Labels,4.928,16.843422376627295
+2,0.7,-2.3136,First Class,Corporate,South,Office Supplies,Binders,2.892,16.843422376627295
+2,0.0,27.882,Second Class,Consumer,West,Office Supplies,Paper,61.96,69.47360916830509
+2,0.2,249.995,Same Day,Home Office,East,Technology,Copiers,799.984,1162.075076788668
+3,0.0,25.2213,Standard Class,Corporate,Central,Technology,Phones,86.97,106.35141445767876
+3,0.2,3.6744,Standard Class,Consumer,East,Office Supplies,Storage,36.744,96.85446946275235
+4,0.0,1.6712,Standard Class,Home Office,East,Office Supplies,Storage,83.56,143.70100654525228
+2,0.1,68.3332,Standard Class,Consumer,East,Furniture,Chairs,361.764,509.54458414018706
+14,0.0,147.0896,Standard Class,Home Office,South,Office Supplies,Paper,319.76,313.1589785440455
+8,0.4,-734.5264,Second Class,Corporate,East,Furniture,Tables,1421.664,2233.9806237301577
+2,0.3,-1.0656,Standard Class,Consumer,Central,Furniture,Chairs,37.296,187.42543694044275
+3,0.2,12.2715,Standard Class,Corporate,West,Office Supplies,Binders,36.36,34.25908123251941
+6,0.0,18.6624,Standard Class,Corporate,West,Office Supplies,Paper,38.88,54.44264050106982
+3,0.2,-21.4704,Standard Class,Consumer,East,Furniture,Furnishings,190.848,70.25233816845392
+3,0.0,16.6764,Standard Class,Consumer,East,Office Supplies,Art,64.14,61.59530985897405
+3,0.2,73.194,Standard Class,Consumer,West,Furniture,Chairs,585.552,725.8017824578864
+9,0.2,110.1195,Standard Class,Corporate,South,Technology,Phones,978.84,1026.808147827254
+4,0.7,-12.208,First Class,Consumer,East,Office Supplies,Binders,18.312,17.425951330311737
+3,0.0,4.4892,Standard Class,Home Office,East,Office Supplies,Art,15.48,19.554894550117695
+2,0.3,-14.8704,Same Day,Consumer,Central,Furniture,Chairs,520.464,256.63038669182504
+2,0.2,0.5992,Second Class,Corporate,East,Office Supplies,Art,6.848,16.843422376627295
+3,0.3,-70.1043,Second Class,Consumer,Central,Furniture,Chairs,258.279,472.44165230054256
+5,0.0,28.629,First Class,Consumer,West,Office Supplies,Storage,477.15,156.26409631781
+2,0.0,217.767,Standard Class,Corporate,West,Technology,Accessories,659.9,861.0902216756997
+2,0.0,16.1096,Standard Class,Corporate,East,Office Supplies,Appliances,61.96,46.10285786160381
+2,0.0,13.788,Standard Class,Consumer,East,Office Supplies,Appliances,45.96,41.46035779276316
+1,0.0,30.0957,First Class,Home Office,East,Technology,Machines,69.99,115.26586969251788
+8,0.0,10.312,Standard Class,Corporate,East,Technology,Accessories,103.12,61.415736157684165
+3,0.2,-5.4558,Standard Class,Corporate,East,Technology,Accessories,31.176,59.57088690011644
+2,0.2,3.9474,Second Class,Corporate,Central,Office Supplies,Labels,11.696,17.583881422590697
+3,0.0,6.6846,Standard Class,Home Office,East,Office Supplies,Supplies,25.71,23.47487368686832
+7,0.8,-18.5262,Standard Class,Corporate,Central,Office Supplies,Binders,11.228,17.930186895043327
+2,0.0,9.6914,Second Class,Corporate,Central,Office Supplies,Paper,20.62,29.812161892899997
+4,0.2,24.196,Same Day,Corporate,East,Office Supplies,Appliances,387.136,174.65341166480178
+3,0.2,-17.9964,Second Class,Consumer,Central,Technology,Accessories,119.976,100.60094251214365
+1,0.0,7.5371,Same Day,Consumer,West,Office Supplies,Art,25.99,22.43915030314273
+3,0.7,-1.9656,Standard Class,Consumer,South,Office Supplies,Binders,2.808,16.843422376627295
+4,0.2,5.6956,First Class,Corporate,Central,Office Supplies,Labels,15.712,19.3699797572532
+4,0.3,-75.192,Standard Class,Consumer,Central,Furniture,Chairs,526.344,460.06879216283426
+4,0.0,6.674,Second Class,Consumer,South,Office Supplies,Fasteners,14.2,19.942286678739894
+5,0.0,133.152,Standard Class,Home Office,East,Office Supplies,Paper,277.4,283.18023099253537
+2,0.2,-4.3792,Standard Class,Corporate,South,Office Supplies,Supplies,20.608,17.003714753682836
+2,0.2,8.8624,Standard Class,Corporate,East,Office Supplies,Binders,24.448,22.702060173586556
+4,0.0,36.4704,Standard Class,Home Office,South,Technology,Accessories,151.96,131.43100241982688
+2,0.0,310.9872,Second Class,Corporate,West,Office Supplies,Storage,1295.78,1050.6645388125264
+1,0.0,11.1176,First Class,Corporate,East,Office Supplies,Storage,42.76,75.67339969616435
+2,0.0,12.1728,First Class,Consumer,Central,Technology,Accessories,38.04,62.83577735183699
+3,0.2,6.4638,Standard Class,Home Office,West,Office Supplies,Binders,19.152,19.90984254689791
+2,0.0,6.512,Same Day,Consumer,Central,Office Supplies,Art,16.28,20.37845354334087
+3,0.0,4.2336,First Class,Home Office,East,Office Supplies,Labels,8.64,19.174533953590203
+3,0.0,122.148,Standard Class,Consumer,West,Office Supplies,Envelopes,271.44,322.39032606953225
+4,0.0,96.416,Standard Class,Home Office,East,Office Supplies,Binders,209.6,266.15294517092957
+6,0.0,16.146,Standard Class,Corporate,East,Office Supplies,Paper,35.88,40.810502206776825
+4,0.3,-110.0232,Standard Class,Consumer,Central,Furniture,Chairs,366.744,557.1373582616524
+4,0.4,-36.9544,Standard Class,Consumer,East,Technology,Phones,158.376,189.51088296661072
+9,0.0,401.814,Second Class,Home Office,West,Furniture,Tables,1913.4,2259.1068318325783
+3,0.0,5.9988,First Class,Home Office,South,Technology,Phones,149.97,59.27780495315669
+3,0.0,9.3312,Second Class,Corporate,West,Office Supplies,Paper,19.44,22.599509981728847
+5,0.3,-34.392,Second Class,Consumer,Central,Furniture,Tables,300.93,493.50534220744584
+6,0.0,106.5408,Standard Class,Home Office,West,Furniture,Furnishings,665.88,416.33562715862365
+5,0.2,0.0,Standard Class,Consumer,South,Furniture,Chairs,2803.92,560.6986204076824
+5,0.0,52.688,Standard Class,Consumer,South,Furniture,Furnishings,142.4,190.50152808601868
+3,0.0,100.9113,First Class,Home Office,East,Technology,Phones,347.97,326.06885983232974
+5,0.2,25.186,Standard Class,Consumer,Central,Technology,Phones,71.96,249.03125944868418
+7,0.0,32.4688,Standard Class,Consumer,Central,Furniture,Bookcases,405.86,272.5368411985778
+8,0.2,40.3704,Standard Class,Consumer,West,Office Supplies,Binders,119.616,113.77248280734554
+3,0.2,1.7955,First Class,Consumer,South,Office Supplies,Art,28.728,16.843422376627295
+2,0.2,2.1588,Same Day,Corporate,South,Office Supplies,Storage,24.672,56.04974961536089
+1,0.0,50.328,Second Class,Consumer,West,Office Supplies,Paper,104.85,113.87723781042665
+3,0.0,49.9704,Standard Class,Home Office,Central,Office Supplies,Paper,106.32,113.36070566518846
+7,0.2,80.4839,Standard Class,Consumer,West,Technology,Accessories,279.944,445.76343704792447
+2,0.2,22.2384,Standard Class,Corporate,West,Technology,Phones,222.384,199.48397008091857
+2,0.8,-1.9344,Standard Class,Consumer,Central,Office Supplies,Binders,1.248,16.843422376627295
+1,0.2,0.8388,Standard Class,Consumer,Central,Office Supplies,Supplies,11.184,17.003714753682836
+6,0.7,-21.7932,Standard Class,Home Office,East,Office Supplies,Binders,29.718,20.262102414933604
+3,0.2,21.5397,Standard Class,Corporate,South,Technology,Phones,246.168,193.95985387809563
+2,0.8,-3.5224,Standard Class,Consumer,Central,Office Supplies,Binders,2.072,16.843422376627295
+3,0.2,25.5798,Standard Class,Home Office,West,Office Supplies,Binders,75.792,83.20514885508985
+3,0.0,13.7931,Second Class,Home Office,West,Technology,Accessories,59.97,65.85924887714664
+13,0.0,124.6752,Standard Class,Corporate,East,Office Supplies,Paper,259.74,276.0715085754939
+9,0.0,33.777,Same Day,Home Office,East,Office Supplies,Paper,75.06,95.92203404740877
+3,0.0,48.3771,Standard Class,Consumer,East,Office Supplies,Binders,102.93,113.27906890480486
+3,0.2,1.752,Second Class,Consumer,East,Office Supplies,Art,14.016,16.843422376627295
+5,0.0,2.299,Second Class,Corporate,Central,Technology,Phones,114.95,59.27780495315669
+3,0.0,146.7693,First Class,Consumer,West,Technology,Accessories,772.47,520.2579409687481
+3,0.2,40.872,Standard Class,Home Office,East,Office Supplies,Binders,125.76,113.7591775430956
+1,0.8,-10.4214,Standard Class,Corporate,Central,Office Supplies,Binders,6.316,16.90249010891263
+2,0.0,54.8604,Standard Class,Corporate,East,Office Supplies,Paper,111.96,119.98182027953912
+2,0.7,-11.9616,Standard Class,Consumer,East,Office Supplies,Binders,14.952,17.363382265138554
+3,0.0,4.6764,Second Class,Home Office,East,Furniture,Furnishings,38.97,30.76927273539058
+2,0.0,3.852,Standard Class,Corporate,West,Office Supplies,Paper,8.56,17.432050286884525
+2,0.0,6.9888,First Class,Consumer,East,Office Supplies,Paper,14.56,19.942286678739894
+4,0.0,3.9128,Standard Class,Consumer,East,Office Supplies,Storage,195.64,144.42414559873234
+6,0.7,-4.488,Same Day,Consumer,East,Office Supplies,Binders,6.732,16.93236931318311
+2,0.0,15.1158,Standard Class,Home Office,South,Technology,Accessories,71.98,67.20951428736353
+1,0.0,5.5177,Standard Class,Home Office,West,Furniture,Furnishings,23.99,30.94976339152403
+3,0.2,45.294,Standard Class,Corporate,West,Furniture,Chairs,362.352,549.4552452548472
+4,0.0,112.3508,Standard Class,Corporate,South,Furniture,Tables,591.32,701.0416210459824
+3,0.4,-147.8655,Same Day,Corporate,East,Furniture,Tables,328.59,404.8211318344166
+3,0.4,-73.7061,Standard Class,Corporate,East,Technology,Phones,340.182,337.0887067189066
+2,0.2,10.104,Standard Class,Consumer,South,Furniture,Furnishings,67.36,38.28997431763686
+9,0.0,13.3056,Second Class,Home Office,Central,Office Supplies,Labels,27.72,35.23555374718786
+5,0.2,-67.941,First Class,Consumer,West,Furniture,Chairs,603.92,553.1322821727077
+3,0.8,-7.392,Standard Class,Consumer,Central,Office Supplies,Appliances,2.688,16.843422376627295
+2,0.3,-7.098,First Class,Consumer,East,Furniture,Chairs,99.372,173.31828496943692
+5,0.8,-18.2525,Standard Class,Consumer,Central,Office Supplies,Binders,10.43,17.930186895043327
+2,0.0,5.346,Standard Class,Corporate,Central,Office Supplies,Binders,11.88,19.337620130481138
+2,0.1,140.396,First Class,Consumer,East,Furniture,Chairs,631.782,736.5064569691876
+4,0.0,5.4332,Standard Class,Consumer,West,Office Supplies,Labels,11.56,19.337620130481138
+3,0.0,0.7794,Second Class,Home Office,South,Technology,Phones,38.97,59.27780495315669
+2,0.2,0.3336,Same Day,Consumer,Central,Office Supplies,Art,4.448,16.843422376627295
+3,0.2,10.896,Standard Class,Consumer,South,Technology,Accessories,87.168,62.07877588919478
+3,0.0,2.0748,First Class,Consumer,East,Office Supplies,Art,7.98,16.843422376627295
+1,0.0,4.331,Standard Class,Consumer,West,Furniture,Furnishings,43.31,30.76927273539058
+3,0.0,36.4044,Second Class,Corporate,West,Office Supplies,Paper,79.14,96.82597456220302
+1,0.0,21.2954,Standard Class,Corporate,South,Furniture,Furnishings,51.94,85.65672800686235
+7,0.2,89.5888,Same Day,Consumer,West,Technology,Accessories,447.944,502.75418754397174
+4,0.2,-0.8392,Same Day,Consumer,South,Office Supplies,Storage,67.136,153.91435632641384
+2,0.2,16.704,Second Class,Consumer,Central,Technology,Phones,148.48,120.54213274782204
+2,0.0,6.9664,Standard Class,Corporate,East,Office Supplies,Storage,24.88,60.71782905014459
+3,0.0,4.2336,Standard Class,Consumer,South,Office Supplies,Labels,8.64,19.174533953590203
+5,0.0,112.224,Standard Class,Consumer,West,Office Supplies,Appliances,400.8,391.35230212862007
+2,0.0,11.5432,Second Class,Consumer,South,Office Supplies,Paper,24.56,33.15214538802579
+5,0.0,83.314,Second Class,Corporate,Central,Technology,Phones,297.55,296.77227941229677
+2,0.0,26.3912,Same Day,Home Office,West,Technology,Accessories,59.98,106.84098872953027
+9,0.2,204.0714,Standard Class,Consumer,Central,Office Supplies,Envelopes,604.656,888.0560073850199
+5,0.2,9.294,Standard Class,Consumer,East,Office Supplies,Appliances,123.92,24.64304924591245
+4,0.2,9.192,First Class,Corporate,East,Office Supplies,Appliances,73.536,24.64304924591245
+5,0.2,42.495,Standard Class,Consumer,West,Technology,Phones,339.96,430.1074671869646
+3,0.0,1.3365,Second Class,Corporate,East,Technology,Accessories,2.97,59.27780495315669
+4,0.2,21.7176,Second Class,Corporate,East,Furniture,Bookcases,579.136,226.02051808073514
+7,0.2,1.6632,Standard Class,Corporate,Central,Technology,Accessories,5.544,59.27780495315669
+1,0.0,17.27,Second Class,Corporate,South,Office Supplies,Binders,34.54,47.90703348074231
+4,0.0,2.2272,Second Class,Consumer,West,Furniture,Furnishings,6.96,30.76927273539058
+1,0.0,7.8166,Second Class,Corporate,East,Furniture,Furnishings,45.98,32.08628681643949
+2,0.2,-55.256,First Class,Consumer,East,Office Supplies,Storage,221.024,262.8454619011786
+4,0.0,22.5008,Same Day,Consumer,East,Office Supplies,Paper,45.92,62.85465121381357
+2,0.0,331.191,Standard Class,Consumer,East,Office Supplies,Binders,735.98,830.4319593108253
+7,0.0,5.733,Standard Class,Home Office,West,Office Supplies,Art,12.74,19.596291895307203
+1,0.2,5.9384,Second Class,Home Office,South,Office Supplies,Paper,18.272,19.74200606607504
+7,0.2,108.7408,Same Day,Consumer,South,Office Supplies,Paper,310.688,387.6284766742073
+2,0.0,3.0814,Second Class,Corporate,East,Furniture,Furnishings,9.94,30.76927273539058
+2,0.0,4.6812,First Class,Consumer,East,Office Supplies,Paper,9.96,19.29622278529163
+5,0.2,4.36,Standard Class,Consumer,West,Technology,Phones,43.6,59.27780495315669
+7,0.0,16.6796,Standard Class,Consumer,South,Office Supplies,Binders,36.26,88.2595019716067
+3,0.0,2.7072,Second Class,Corporate,South,Office Supplies,Binders,5.64,16.913339523117532
+3,0.0,38.2668,Standard Class,Corporate,East,Furniture,Bookcases,173.94,208.84596620789497
+5,0.0,19.996,Standard Class,Consumer,South,Technology,Accessories,249.95,93.43495678031533
+5,0.4,-181.265,Standard Class,Home Office,East,Technology,Phones,776.85,780.2992916935365
+1,0.0,16.7886,Standard Class,Consumer,West,Office Supplies,Storage,62.18,91.66177079799549
+2,0.3,-14.1372,First Class,Corporate,Central,Furniture,Bookcases,141.372,195.98897014892603
+2,0.2,13.9972,Standard Class,Consumer,Central,Technology,Accessories,79.984,66.3635209688988
+5,0.2,7.068,Standard Class,Home Office,West,Furniture,Furnishings,23.56,31.064678109067007
+5,0.0,11.086,Second Class,Corporate,South,Office Supplies,Binders,24.1,32.567665041353536
+3,0.0,4.4712,Second Class,Consumer,West,Furniture,Furnishings,12.42,30.76927273539058
+2,0.0,16.2688,Standard Class,Home Office,Central,Office Supplies,Art,39.68,42.14216659648104
+2,0.0,47.994,Second Class,Home Office,West,Technology,Accessories,159.98,158.13345488249126
+5,0.0,126.225,Standard Class,Consumer,South,Furniture,Bookcases,504.9,1156.4874312794316
+4,0.0,8.0968,Same Day,Corporate,West,Furniture,Furnishings,27.92,32.08628681643949
+5,0.0,74.213,Second Class,Consumer,South,Office Supplies,Binders,157.9,179.82715497558624
+1,0.15,-6.049,Standard Class,Consumer,West,Furniture,Bookcases,102.833,201.11525644378557
+4,0.2,-6.534,Standard Class,Consumer,West,Technology,Accessories,58.08,60.045299520995556
+4,0.0,25.1916,Same Day,Consumer,West,Technology,Accessories,119.96,106.5190076831845
+2,0.0,7.4872,Standard Class,Consumer,Central,Office Supplies,Envelopes,15.28,21.9104186739365
+1,0.0,36.7173,Standard Class,Corporate,East,Technology,Phones,135.99,131.80383080129553
+4,0.2,13.0,Same Day,Home Office,West,Technology,Accessories,41.6,63.989807748225324
+3,0.0,2.3997,First Class,Consumer,East,Technology,Phones,239.97,59.27780495315669
+5,0.0,111.591,Second Class,Corporate,Central,Technology,Accessories,619.95,449.03466327775317
+1,0.2,-0.8886,Standard Class,Consumer,West,Furniture,Tables,35.544,167.18947285179138
+3,0.0,9.3312,Standard Class,Consumer,West,Office Supplies,Paper,19.44,22.599509981728847
+5,0.0,16.7875,Same Day,Corporate,East,Office Supplies,Storage,67.15,167.80704382106933
+6,0.0,5.7072,Standard Class,Consumer,South,Office Supplies,Art,19.68,19.596291895307203
+6,0.0,35.712,First Class,Corporate,East,Office Supplies,Art,119.04,105.18945739343917
+4,0.2,7.384,Second Class,Consumer,West,Office Supplies,Binders,22.72,22.046619831368485
+3,0.2,22.6782,Standard Class,Consumer,West,Technology,Phones,302.376,226.75491564978725
+5,0.0,3.5475,Standard Class,Consumer,West,Office Supplies,Art,10.75,17.25538774084166
+2,0.0,12.298,First Class,Consumer,West,Office Supplies,Art,47.3,35.18911278515218
+6,0.4,-227.4912,Standard Class,Consumer,East,Furniture,Tables,853.092,888.8542325637945
+4,0.2,8.8624,Standard Class,Consumer,South,Office Supplies,Paper,24.448,22.702060173586556
+2,0.2,4.5188,Standard Class,Corporate,West,Office Supplies,Binders,13.904,19.328582412063692
+2,0.0,23.5764,First Class,Corporate,East,Furniture,Chairs,261.96,192.68337425374813
+2,0.2,3.6288,Standard Class,Consumer,West,Office Supplies,Paper,10.368,17.131603517558794
+3,0.3,-18.1176,Standard Class,Consumer,Central,Furniture,Chairs,317.058,292.6675021135718
+4,0.7,-13.8432,First Class,Consumer,East,Office Supplies,Binders,19.776,17.979771745418446
+3,0.0,5.3898,Standard Class,Home Office,East,Office Supplies,Storage,269.49,110.2879022390768
+8,0.0,29.2528,Standard Class,Corporate,East,Office Supplies,Envelopes,62.24,75.82309386541965
+2,0.3,-46.7362,Standard Class,Consumer,East,Furniture,Chairs,172.186,215.25111760013414
+1,0.0,3.5767,Standard Class,Home Office,East,Office Supplies,Paper,7.61,17.131603517558794
+4,0.0,11.0016,Second Class,Corporate,East,Office Supplies,Binders,22.92,32.567665041353536
+3,0.2,0.846,Standard Class,Consumer,West,Office Supplies,Fasteners,4.512,16.843422376627295
+1,0.0,3.2392,Standard Class,Corporate,West,Office Supplies,Storage,80.98,55.17524087830731
+6,0.0,68.8464,Standard Class,Home Office,East,Office Supplies,Appliances,245.88,233.00843467738733
+4,0.7,-2.8608,Standard Class,Corporate,East,Office Supplies,Binders,3.576,16.93236931318311
+2,0.0,843.1706,Standard Class,Consumer,South,Office Supplies,Binders,1793.98,1813.9097905500214
+3,0.2,22.6782,First Class,Consumer,West,Technology,Phones,302.376,228.57738040891732
+2,0.2,22.5732,Standard Class,Consumer,East,Office Supplies,Binders,69.456,74.11910622729286
+3,0.0,173.0316,Standard Class,Corporate,South,Technology,Phones,617.97,610.7427152102412
+3,0.0,112.788,Standard Class,Consumer,Central,Furniture,Chairs,563.94,606.0285358047138
+3,0.1,102.4998,First Class,Consumer,East,Furniture,Chairs,542.646,637.7554764391838
+3,0.0,2.8536,Standard Class,Home Office,West,Office Supplies,Art,9.84,16.92971559448283
+4,0.0,33.4584,First Class,Consumer,West,Office Supplies,Art,123.92,102.64782645256602
+5,0.0,41.986,Standard Class,Consumer,Central,Technology,Phones,149.95,140.25672911853312
+2,0.2,-19.5624,Standard Class,Corporate,East,Office Supplies,Storage,82.368,89.72761361476157
+6,0.0,21.4074,Standard Class,Consumer,South,Technology,Accessories,101.94,98.23571962483554
+2,0.2,30.2384,Standard Class,Corporate,West,Technology,Phones,302.384,281.0608677394698
+4,0.2,4.0872,Standard Class,Corporate,East,Office Supplies,Fasteners,12.576,17.65555159571168
+1,0.2,-11.0691,Standard Class,Corporate,South,Furniture,Chairs,98.392,94.73288519940992
+2,0.2,-34.758,Standard Class,Home Office,West,Office Supplies,Supplies,185.376,140.39931400426642
+5,0.0,8.6855,Second Class,Corporate,West,Office Supplies,Art,29.95,23.207001582716558
+5,0.0,83.284,Second Class,Corporate,Central,Office Supplies,Paper,177.2,178.27454629146845
+5,0.0,6.854,Standard Class,Corporate,West,Office Supplies,Fasteners,14.9,19.942286678739894
+2,0.2,51.4764,Second Class,Consumer,West,Furniture,Chairs,457.568,627.6386922145498
+1,0.0,10.3408,First Class,Corporate,Central,Office Supplies,Paper,22.48,31.221769589789492
+7,0.0,18.8328,First Class,Consumer,West,Office Supplies,Art,49.56,57.17870894351795
+2,0.7,-3.14,First Class,Corporate,South,Office Supplies,Binders,3.768,16.843422376627295
+2,0.0,3.4368,Standard Class,Consumer,East,Office Supplies,Binders,7.16,17.004031507836675
+3,0.0,9.3312,Same Day,Consumer,East,Office Supplies,Paper,19.44,22.599509981728847
+7,0.8,-729.9138,First Class,Corporate,Central,Office Supplies,Binders,442.372,788.0555783989894
+5,0.2,125.245,Second Class,Home Office,West,Furniture,Chairs,2003.92,1165.0304048122016
+4,0.2,-32.784,Second Class,Consumer,Central,Office Supplies,Storage,131.136,211.70880284997037
+1,0.0,15.525,Standard Class,Consumer,West,Furniture,Furnishings,51.75,48.42588849995656
+3,0.0,50.9082,Standard Class,Consumer,East,Furniture,Furnishings,164.22,189.44515124785147
+1,0.0,50.8254,Second Class,Corporate,East,Furniture,Bookcases,220.98,293.83404079950174
+3,0.2,-64.7748,Second Class,Consumer,West,Office Supplies,Storage,272.736,391.7018686882938
+5,0.2,37.495,Standard Class,Consumer,Central,Technology,Phones,299.96,328.3521587852399
+6,0.6,-34.9536,Standard Class,Consumer,Central,Furniture,Furnishings,63.552,47.45003476843855
+4,0.1,71.162,Standard Class,Consumer,Central,Office Supplies,Appliances,376.74,340.2959291502883
+3,0.6,-12.7512,First Class,Consumer,Central,Furniture,Furnishings,24.288,31.26725101456531
+2,0.0,1.376,Standard Class,Consumer,East,Office Supplies,Art,3.2,16.843422376627295
+3,0.0,17.1774,Second Class,Consumer,Central,Office Supplies,Storage,286.29,134.40383512512477
+4,0.0,122.3856,First Class,Consumer,West,Technology,Accessories,339.96,412.5722493456079
+2,0.0,3.3,First Class,Consumer,East,Technology,Accessories,30.0,58.89794201186403
+4,0.2,6.7048,Standard Class,Home Office,East,Office Supplies,Paper,18.496,20.039151080752113
+1,0.15,-12.6882,Second Class,Consumer,West,Furniture,Bookcases,119.833,197.086268086355
+2,0.2,2.6936,Same Day,Corporate,West,Office Supplies,Binders,8.288,16.8957436141644
+4,0.2,52.8228,Standard Class,Corporate,Central,Office Supplies,Paper,156.512,166.1798377329992
+3,0.0,16.302,Standard Class,Consumer,West,Furniture,Furnishings,37.05,50.52726775719456
+3,0.0,41.4456,Standard Class,Corporate,West,Furniture,Furnishings,148.02,148.20534925192814
+5,0.2,15.498,First Class,Corporate,Central,Office Supplies,Fasteners,45.92,39.919881777336755
+3,0.2,0.0,Standard Class,Consumer,West,Furniture,Chairs,451.152,258.5146734318943
+7,0.2,22.3776,Standard Class,Corporate,West,Furniture,Furnishings,111.888,141.50517080940057
+2,0.2,9.4366,Same Day,Consumer,West,Office Supplies,Binders,26.032,22.735711139160827
+2,0.2,3.0134,Standard Class,Corporate,East,Technology,Accessories,18.544,58.89794201186403
+13,0.2,21.0249,Standard Class,Consumer,East,Office Supplies,Binders,62.296,107.558460712078
+3,0.2,314.2719,Same Day,Corporate,West,Office Supplies,Binders,931.176,1025.1876085081722
+3,0.2,1.7991,Standard Class,Consumer,Central,Technology,Accessories,47.976,59.27780495315669
+2,0.0,54.8604,Standard Class,Consumer,West,Office Supplies,Paper,111.96,119.97488027953914
+4,0.0,27.3096,First Class,Consumer,West,Furniture,Furnishings,151.72,102.84780051703409
+4,0.0,11.7208,Standard Class,Corporate,South,Office Supplies,Paper,23.92,33.42182207949038
+3,0.2,5.2287,Standard Class,Consumer,West,Furniture,Tables,418.296,319.2381792379609
+4,0.0,14.9744,Second Class,Corporate,West,Office Supplies,Envelopes,30.56,39.774053159662934
+4,0.0,115.1808,Standard Class,Corporate,West,Technology,Accessories,239.96,390.1696216685278
+3,0.2,134.9955,Standard Class,Corporate,Central,Technology,Copiers,719.976,557.8773006393501
+3,0.0,7.9794,First Class,Corporate,East,Office Supplies,Supplies,30.69,31.053445319074434
+1,0.2,-3.8646,Standard Class,Corporate,South,Office Supplies,Storage,16.272,62.342198645357286
+1,0.0,1.8468,Standard Class,Corporate,East,Office Supplies,Supplies,6.84,17.003714753682836
+9,0.0,44.712,Same Day,Consumer,East,Office Supplies,Labels,93.15,119.40705319390705
+1,0.2,15.5344,Standard Class,Consumer,South,Office Supplies,Paper,44.384,39.919881777336755
+1,0.2,-2.0988,Same Day,Corporate,South,Furniture,Furnishings,55.968,32.38190022319021
+3,0.0,16.5888,Second Class,Corporate,West,Office Supplies,Appliances,61.44,46.346612637486906
+3,0.2,23.1093,Second Class,Home Office,East,Office Supplies,Binders,68.472,74.60427803742579
+2,0.2,20.1584,Standard Class,Consumer,West,Technology,Phones,201.584,182.82295965229744
+2,0.0,6.3744,Standard Class,Home Office,South,Furniture,Furnishings,13.28,30.94976339152403
+5,0.2,9.072,Standard Class,Home Office,East,Office Supplies,Paper,25.92,22.735711139160827
+7,0.2,66.6344,Standard Class,Consumer,West,Technology,Phones,666.344,782.880986733752
+2,0.2,329.994,Second Class,Corporate,West,Technology,Copiers,879.984,1089.2209843629105
+4,0.0,12.208,Second Class,Corporate,East,Technology,Phones,43.6,64.27739466562927
+4,0.0,14.418,Standard Class,Corporate,West,Office Supplies,Paper,32.04,41.78601525589294
+4,0.2,12.178,Second Class,Consumer,South,Furniture,Chairs,194.848,247.33902645782496
+5,0.0,10.048,First Class,Home Office,Central,Furniture,Furnishings,31.4,38.25503789363062
+4,0.4,-57.1152,Standard Class,Consumer,East,Technology,Phones,285.576,319.3943866979282
+2,0.0,54.7756,Same Day,Consumer,Central,Furniture,Tables,248.98,250.70598672668945
+2,0.0,107.082,Standard Class,Consumer,South,Office Supplies,Storage,356.94,625.9403826371824
+2,0.2,6.5,Second Class,Corporate,Central,Technology,Accessories,20.8,58.89794201186403
+3,0.6,-3.9624,Standard Class,Corporate,Central,Furniture,Furnishings,6.096,30.711014720023176
+3,0.0,4.4088,Standard Class,Corporate,East,Furniture,Furnishings,10.02,30.76927273539058
+3,0.2,23.235,Second Class,Consumer,East,Office Supplies,Paper,74.352,74.9033276178613
+4,0.7,-336.784,Second Class,Consumer,South,Office Supplies,Binders,505.176,352.11331726744453
+3,0.2,3.7596,Standard Class,Corporate,East,Office Supplies,Binders,11.568,17.37604619771164
+3,0.8,-4.9878,Standard Class,Consumer,Central,Office Supplies,Binders,2.934,16.843422376627295
+5,0.0,13.365,Second Class,Consumer,East,Office Supplies,Binders,29.7,35.501253664809475
+1,0.0,63.107,First Class,Home Office,West,Furniture,Tables,286.85,335.94899445586833
+6,0.2,59.6556,Same Day,Corporate,East,Office Supplies,Appliances,795.408,548.5117525450029
+8,0.0,219.4416,Standard Class,Home Office,East,Office Supplies,Paper,447.84,635.9494774230502
+2,0.2,53.272,First Class,Corporate,West,Technology,Machines,532.72,547.4734250703088
+3,0.0,7.0218,Standard Class,Corporate,West,Office Supplies,Paper,14.94,19.942286678739894
+7,0.2,62.8075,First Class,Home Office,East,Office Supplies,Envelopes,200.984,214.34474981784896
+4,0.0,14.7,First Class,Consumer,West,Furniture,Furnishings,35.0,46.85622614538213
+3,0.2,3.4668,Standard Class,Corporate,South,Office Supplies,Paper,10.272,17.004031507836675
+3,0.2,5.6376,Same Day,Home Office,Central,Office Supplies,Paper,15.552,19.3699797572532
+3,0.0,1.656,Standard Class,Corporate,South,Technology,Accessories,20.7,59.27780495315669
+8,0.0,62.5056,Standard Class,Corporate,West,Furniture,Furnishings,183.84,193.6447193282191
+5,0.2,4.4685,Standard Class,Corporate,South,Office Supplies,Storage,39.72,123.88786962306258
+5,0.0,19.9155,Standard Class,Corporate,East,Furniture,Furnishings,60.35,83.1343921853416
+4,0.2,10.0116,First Class,Corporate,Central,Office Supplies,Paper,29.664,31.12085477400866
+9,0.2,15.0696,Standard Class,Consumer,West,Furniture,Furnishings,52.416,49.44276017861059
+9,0.0,56.0547,First Class,Corporate,Central,Technology,Accessories,143.73,201.0071112874476
+3,0.2,5.4432,Standard Class,Consumer,South,Office Supplies,Paper,15.552,19.3699797572532
+6,0.2,10.8864,Standard Class,Corporate,South,Office Supplies,Paper,31.104,32.702763844412296
+2,0.2,0.5904,Standard Class,Home Office,Central,Office Supplies,Art,5.248,16.843422376627295
+1,0.0,11.5971,Second Class,Consumer,East,Technology,Phones,39.99,62.20188764080328
+1,0.0,18.6956,Standard Class,Home Office,West,Furniture,Bookcases,84.98,146.0321444399291
+5,0.0,37.884,Same Day,Consumer,Central,Furniture,Furnishings,135.3,155.851936328132
+7,0.7,-29.2446,Standard Class,Corporate,South,Office Supplies,Binders,39.879,35.468755379667506
+2,0.4,-75.8304,Standard Class,Corporate,East,Furniture,Tables,284.364,286.8271443290479
+5,0.2,459.9875,Same Day,Consumer,West,Office Supplies,Binders,1471.96,1403.34749357146
+4,0.0,12.936,Standard Class,Home Office,South,Office Supplies,Art,46.2,36.29978382055133
+3,0.2,377.73,First Class,Home Office,West,Technology,Machines,3357.6,2820.8324438725685
+3,0.0,75.735,First Class,Corporate,South,Furniture,Bookcases,302.94,472.4116474263373
+2,0.5,-7.2,First Class,Consumer,South,Technology,Machines,120.0,183.07570368213493
+5,0.0,11.454,Standard Class,Corporate,East,Office Supplies,Labels,24.9,33.15214538802579
+9,0.2,35.415,Standard Class,Home Office,Central,Office Supplies,Envelopes,113.328,103.9432138444671
+4,0.0,48.5392,Second Class,Corporate,East,Office Supplies,Paper,105.52,110.04772969966264
+5,0.0,20.585,Standard Class,Consumer,East,Office Supplies,Paper,44.75,59.57934821415501
+4,0.0,18.28,Standard Class,Consumer,Central,Office Supplies,Binders,36.56,54.423514147075494
+4,0.0,13.32,Standard Class,Consumer,West,Office Supplies,Paper,29.6,35.501253664809475
+8,0.2,33.1584,Standard Class,Consumer,West,Furniture,Furnishings,120.576,263.36580377464685
+2,0.0,8.0464,First Class,Corporate,West,Office Supplies,Paper,17.12,22.018031156236095
+7,0.2,10.465,Second Class,Consumer,Central,Office Supplies,Paper,33.488,31.647152054390528
+6,0.0,206.316,Standard Class,Consumer,East,Technology,Accessories,468.9,654.180565261655
+5,0.0,15.552,Standard Class,Home Office,Central,Office Supplies,Paper,32.4,39.774053159662934
+3,0.0,22.2,Second Class,Corporate,West,Office Supplies,Labels,44.4,61.306715825840136
+3,0.0,259.5297,Standard Class,Corporate,West,Furniture,Tables,1128.39,1394.276622167315
+5,0.0,80.784,Standard Class,Consumer,South,Furniture,Chairs,504.9,383.45379869236524
+6,0.0,20.9664,Standard Class,Consumer,South,Office Supplies,Paper,43.68,60.55831024213717
+2,0.0,8.4966,Standard Class,Consumer,West,Technology,Accessories,49.98,59.773529613439266
+3,0.0,41.2938,Standard Class,Consumer,South,Office Supplies,Appliances,152.94,124.16569065584862
+5,0.8,-9.705,Standard Class,Consumer,Central,Office Supplies,Binders,6.47,16.93236931318311
+9,0.2,-26.946,Standard Class,Consumer,Central,Technology,Accessories,431.136,204.98898141181823
+3,0.0,118.3413,Standard Class,Home Office,South,Office Supplies,Envelopes,251.79,328.79930975994307
+8,0.0,259.8896,Standard Class,Corporate,West,Furniture,Bookcases,1367.84,1165.144636394569
+2,0.0,65.435,Standard Class,Consumer,West,Office Supplies,Storage,261.74,298.97872802292125
+2,0.0,0.0,Standard Class,Corporate,East,Office Supplies,Storage,81.96,76.79472296627164
+1,0.2,7.0659,Standard Class,Home Office,Central,Office Supplies,Envelopes,20.936,20.039151080752113
+3,0.2,-82.884,Standard Class,Corporate,Central,Office Supplies,Storage,331.536,382.4933641144505
+4,0.0,8.6016,Standard Class,Consumer,South,Office Supplies,Envelopes,17.92,22.565859016154576
+3,0.2,-48.9549,Standard Class,Home Office,Central,Office Supplies,Storage,230.376,282.94477941724466
+4,0.2,3.3408,Standard Class,Home Office,South,Office Supplies,Labels,9.216,17.040746201177036
+2,0.2,3.792,Second Class,Corporate,East,Furniture,Furnishings,15.168,30.76927273539058
+4,0.7,-10.0372,Standard Class,Consumer,South,Office Supplies,Binders,13.092,16.93236931318311
+9,0.32,-437.5404,Second Class,Consumer,Central,Furniture,Bookcases,1352.3976,2335.6485004150377
+5,0.15,35.245,Same Day,Home Office,West,Furniture,Bookcases,599.165,352.86892051606156
+4,0.2,143.9968,Standard Class,Consumer,Central,Technology,Phones,1439.968,1113.8965625618537
+9,0.0,21.4776,Standard Class,Home Office,East,Furniture,Furnishings,56.52,85.05794811810016
+3,0.2,5.4432,Standard Class,Home Office,West,Office Supplies,Paper,15.552,19.3699797572532
+7,0.0,43.5981,Second Class,Consumer,Central,Technology,Accessories,111.79,148.80423310187928
+3,0.2,19.755,Standard Class,Corporate,South,Technology,Phones,52.68,175.2529990961908
+5,0.2,28.65,Standard Class,Consumer,West,Office Supplies,Binders,91.68,86.63980149386283
+3,0.0,9.12,Second Class,Consumer,West,Office Supplies,Fasteners,18.24,22.599509981728847
+9,0.0,48.9645,Standard Class,Consumer,West,Office Supplies,Art,181.35,142.1357093386559
+4,0.2,25.176,Standard Class,Home Office,West,Office Supplies,Binders,67.136,83.09541625793301
+3,0.0,220.4853,Second Class,Home Office,Central,Technology,Phones,449.97,809.0776150062616
+1,0.0,89.997,Standard Class,Consumer,West,Technology,Copiers,299.99,277.10256024973245
+2,0.0,5.6644,Standard Class,Consumer,Central,Office Supplies,Paper,11.56,19.337620130481138
+6,0.0,8.1216,Standard Class,Home Office,East,Office Supplies,Fasteners,17.28,22.018031156236095
+3,0.0,9.534,Second Class,Consumer,West,Office Supplies,Storage,34.05,116.88078222121771
+8,0.0,9.6048,Standard Class,Home Office,West,Office Supplies,Labels,20.88,28.753345928211242
+4,0.2,10.43,Standard Class,Home Office,East,Office Supplies,Binders,33.376,31.647152054390528
+6,0.7,-21.1068,Standard Class,Consumer,South,Office Supplies,Binders,28.782,19.983660228852347
+6,0.2,17.994,Second Class,Corporate,West,Technology,Phones,143.952,148.8488678749644
+1,0.2,4.6193,Second Class,Corporate,West,Technology,Phones,52.792,58.89794201186403
+4,0.0,23.808,Standard Class,Consumer,Central,Office Supplies,Art,79.36,66.57193300835083
+3,0.0,16.5888,Standard Class,Corporate,East,Office Supplies,Appliances,61.44,46.671956050185315
+1,0.0,0.5299,First Class,Home Office,East,Technology,Phones,52.99,58.89794201186403
+4,0.2,3.528,Second Class,Corporate,South,Office Supplies,Labels,10.08,17.220550454114612
+3,0.2,15.0735,Standard Class,Consumer,Central,Technology,Phones,241.176,75.12438366057553
+6,0.2,1.2348,Standard Class,Consumer,Central,Office Supplies,Art,14.112,16.93236931318311
+7,0.0,361.2994,Second Class,Corporate,South,Office Supplies,Appliances,1245.86,1428.4874116847525
+1,0.0,11.5971,Standard Class,Corporate,East,Technology,Phones,39.99,62.20188764080328
+5,0.2,59.4355,First Class,Home Office,Central,Office Supplies,Paper,163.96,181.95495478688318
+4,0.0,13.1868,Standard Class,Corporate,West,Office Supplies,Storage,48.84,180.86770839008653
+6,0.0,10.5252,Standard Class,Consumer,East,Office Supplies,Fasteners,21.48,31.512053251331768
+3,0.0,7.0218,Second Class,Consumer,Central,Office Supplies,Paper,14.94,19.942286678739894
+3,0.2,-11.5938,Standard Class,Consumer,Central,Office Supplies,Storage,48.816,123.46247525341178
+7,0.2,13.3476,Second Class,Consumer,West,Office Supplies,Binders,38.136,35.604961051987445
+1,0.0,10.0282,Second Class,Consumer,South,Office Supplies,Art,34.58,31.90313431704407
+2,0.2,22.9954,Second Class,Consumer,East,Technology,Accessories,79.984,132.19523566947365
+1,0.1,6.8388,Same Day,Consumer,East,Furniture,Chairs,102.582,86.19752594982232
+3,0.0,81.921,Standard Class,Consumer,East,Office Supplies,Binders,174.3,191.09676557820154
+6,0.2,7.5762,Standard Class,Consumer,South,Office Supplies,Storage,67.344,143.69488046280148
+3,0.2,28.7679,Second Class,Corporate,Central,Technology,Phones,328.776,273.80474374046867
+3,0.0,14.2758,First Class,Corporate,West,Office Supplies,Appliances,43.26,42.97315539453811
+1,0.0,3.5048,Second Class,Consumer,Central,Office Supplies,Storage,13.48,53.372686647112914
+4,0.2,-1.3608,Second Class,Corporate,Central,Office Supplies,Fasteners,6.048,16.93236931318311
+6,0.0,5.7072,Standard Class,Consumer,Central,Office Supplies,Art,19.68,19.596291895307203
+3,0.0,4.6221,Second Class,Consumer,Central,Furniture,Furnishings,14.91,30.63145039436984
+2,0.2,31.374,Second Class,Consumer,West,Office Supplies,Binders,92.96,95.96641351481425
+1,0.0,1.0336,Standard Class,Corporate,Central,Office Supplies,Art,3.04,16.843422376627295
+3,0.2,5.2884,Second Class,Consumer,South,Office Supplies,Paper,16.272,19.3699797572532
+4,0.0,12.5928,First Class,Consumer,Central,Office Supplies,Art,46.64,35.49911463077319
+5,0.8,-45.84,Standard Class,Home Office,Central,Office Supplies,Binders,30.56,28.841146175645797
+4,0.0,176.7864,Standard Class,Consumer,West,Technology,Accessories,519.96,524.1747881419828
+2,0.2,6.1992,Standard Class,Consumer,Central,Office Supplies,Fasteners,18.368,19.74200606607504
+2,0.0,43.1904,Standard Class,Consumer,East,Technology,Phones,89.98,137.3340573814029
+2,0.2,3.9592,Second Class,Corporate,South,Office Supplies,Storage,45.248,56.80309115977225
+2,0.3,-12.0588,Standard Class,Home Office,East,Furniture,Chairs,281.372,160.73505358893033
+5,0.0,12.691,Standard Class,Home Office,Central,Office Supplies,Binders,25.9,34.46537569096245
+2,0.2,2.6412,Standard Class,Corporate,South,Office Supplies,Art,35.216,16.8957436141644
+5,0.0,176.386,Standard Class,Home Office,East,Technology,Phones,629.95,623.6866751672297
+3,0.7,-3.3894,Same Day,Home Office,East,Office Supplies,Binders,4.842,16.843422376627295
+5,0.2,107.79,Standard Class,Consumer,South,Technology,Accessories,431.16,640.0270384808917
+6,0.3,0.0,Standard Class,Consumer,Central,Furniture,Chairs,362.25,722.8731471465667
+3,0.2,11.4504,Standard Class,Consumer,East,Office Supplies,Binders,35.232,33.28724419108454
+1,0.2,1.3978,Standard Class,Corporate,West,Office Supplies,Binders,3.856,16.843422376627295
+1,0.2,1.3257,Standard Class,Consumer,East,Office Supplies,Binders,3.928,16.843422376627295
+2,0.0,1.4456,Standard Class,Home Office,West,Office Supplies,Art,5.56,16.843422376627295
+2,0.6,-15.5268,Standard Class,Corporate,Central,Furniture,Furnishings,34.504,32.10440963711722
+8,0.7,-18.4464,Standard Class,Consumer,West,Office Supplies,Binders,26.352,19.071509632970724
+1,0.0,36.2835,Standard Class,Consumer,Central,Technology,Accessories,109.95,134.40775634116542
+4,0.2,2.7192,Standard Class,Consumer,Central,Technology,Accessories,108.768,59.27780495315669
+2,0.0,3.9992,Second Class,Consumer,East,Technology,Phones,99.98,58.89794201186403
+5,0.0,0.0,Standard Class,Consumer,South,Office Supplies,Storage,306.2,235.9899883378372
+8,0.0,28.008,Standard Class,Consumer,West,Office Supplies,Paper,62.24,69.47360916830509
+3,0.0,18.396,Standard Class,Consumer,East,Office Supplies,Appliances,52.56,63.369887554739094
+2,0.8,-2.544,Standard Class,Corporate,Central,Office Supplies,Binders,1.696,16.843422376627295
+4,0.3,-4.1136,Standard Class,Consumer,Central,Furniture,Chairs,95.984,236.15832624259477
+2,0.2,23.2182,Standard Class,Home Office,West,Technology,Phones,206.384,229.26165427406687
+3,0.2,8.3958,First Class,Corporate,Central,Technology,Accessories,47.976,60.03586980107789
+3,0.0,224.073,Standard Class,Corporate,Central,Office Supplies,Binders,497.94,732.2226725205167
+8,0.4,-40.4712,Standard Class,Consumer,East,Technology,Phones,220.752,226.1041393126865
+4,0.2,100.196,First Class,Corporate,West,Furniture,Chairs,1603.136,1000.6697898821915
+2,0.0,4.7232,Standard Class,Consumer,East,Office Supplies,Binders,9.84,19.29622278529163
+6,0.0,91.3248,Standard Class,Consumer,West,Technology,Accessories,217.44,290.09177616934306
+7,0.7,-356.9643,First Class,Corporate,West,Furniture,Bookcases,209.979,277.48372633283395
+8,0.2,10.008,Standard Class,Consumer,South,Office Supplies,Supplies,88.96,49.02006466022672
+2,0.2,-5.264,Standard Class,Corporate,Central,Technology,Accessories,30.08,59.19102395882378
+2,0.0,0.0,First Class,Home Office,South,Office Supplies,Storage,122.48,76.35070511152541
+3,0.2,29.985,Standard Class,Consumer,South,Office Supplies,Envelopes,95.952,92.01428050611416
+6,0.0,48.8064,Standard Class,Consumer,East,Office Supplies,Art,119.04,138.28791951001844
+5,0.0,3.753,Standard Class,Corporate,Central,Office Supplies,Art,13.9,17.499830420994506
+1,0.0,7.2744,First Class,Consumer,West,Office Supplies,Art,25.98,22.43915030314273
+5,0.0,23.384,First Class,Home Office,East,Furniture,Furnishings,63.2,93.04102700394212
+4,0.2,-11.5176,Standard Class,Corporate,West,Furniture,Chairs,307.136,261.08174562476245
+2,0.2,-3.504,First Class,Home Office,West,Technology,Phones,17.52,59.19102395882378
+3,0.2,0.5754,Standard Class,Corporate,South,Office Supplies,Art,6.576,16.843422376627295
+9,0.2,42.4647,First Class,Consumer,West,Office Supplies,Binders,117.144,124.43561187436634
+4,0.0,11.8248,Standard Class,Consumer,Central,Office Supplies,Art,30.32,34.45556101930112
+8,0.0,21.2856,First Class,Corporate,East,Office Supplies,Paper,43.44,60.7117296528171
+4,0.7,-31.6712,Standard Class,Consumer,South,Office Supplies,Binders,43.188,34.73933822438614
+9,0.2,10.08,Standard Class,Home Office,East,Office Supplies,Paper,28.8,31.12085477400866
+7,0.2,5.7365,Standard Class,Consumer,Central,Technology,Accessories,41.72,59.27780495315669
+3,0.2,12.6927,First Class,Consumer,South,Office Supplies,Envelopes,37.608,34.569083078140416
+2,0.2,8.9544,Standard Class,Consumer,East,Office Supplies,Binders,25.584,22.702060173586556
+3,0.0,30.09,Standard Class,Corporate,West,Technology,Accessories,177.0,114.15448232884135
+6,0.2,14.628,Standard Class,Consumer,South,Technology,Accessories,50.88,66.5866338947097
+5,0.0,15.552,Standard Class,Consumer,West,Office Supplies,Paper,32.4,39.774053159662934
+6,0.0,34.3548,Second Class,Corporate,West,Office Supplies,Storage,572.58,205.94959370620464
+2,0.8,-9.156,First Class,Corporate,Central,Office Supplies,Binders,6.104,16.86980024800993
+3,0.2,3.21,Standard Class,Corporate,Central,Office Supplies,Paper,10.272,16.92971559448283
+5,0.0,7.08,Second Class,Corporate,West,Office Supplies,Envelopes,14.75,19.942286678739894
+8,0.2,40.3704,Standard Class,Consumer,West,Office Supplies,Binders,119.616,113.77248280734554
+3,0.2,4.8519,Standard Class,Consumer,East,Office Supplies,Binders,14.376,19.3699797572532
+1,0.0,3.3504,Standard Class,Home Office,West,Furniture,Furnishings,6.98,30.76927273539058
+3,0.2,4.2666,Standard Class,Corporate,East,Office Supplies,Binders,13.128,19.243981284104166
+2,0.2,3.2616,Standard Class,Home Office,South,Office Supplies,Paper,9.664,16.95179926462122
+5,0.2,38.396,Second Class,Consumer,West,Technology,Phones,383.96,380.2157411621109
+1,0.2,0.8382,Standard Class,Corporate,West,Office Supplies,Appliances,11.176,16.843422376627295
+2,0.2,2.1728,Standard Class,Consumer,East,Office Supplies,Envelopes,6.208,16.843422376627295
+6,0.2,5.9778,First Class,Consumer,East,Office Supplies,Labels,17.712,19.74200606607504
+5,0.0,3.44,Standard Class,Home Office,East,Office Supplies,Art,8.0,17.092978444392493
+7,0.0,34.9825,First Class,Consumer,West,Technology,Accessories,139.93,131.97823499533436
+2,0.2,22.9488,Standard Class,Corporate,West,Office Supplies,Binders,65.568,74.34644051979124
+4,0.0,6.304,First Class,Home Office,South,Office Supplies,Storage,315.2,155.98346435671593
+6,0.2,-337.806,Standard Class,Consumer,South,Office Supplies,Storage,1801.632,1772.2352196976865
+1,0.0,0.4356,First Class,Home Office,West,Technology,Accessories,0.99,58.89794201186403
+2,0.2,0.3384,Second Class,Corporate,East,Office Supplies,Art,3.008,16.843422376627295
+1,0.0,187.797,Standard Class,Consumer,East,Technology,Phones,625.99,635.1756512288672
+2,0.2,4.4604,Standard Class,Consumer,East,Technology,Accessories,25.488,58.89794201186403
+5,0.0,15.372,Same Day,Corporate,East,Office Supplies,Supplies,54.9,65.78830053714782
+2,0.0,8.5544,Standard Class,Home Office,East,Furniture,Furnishings,25.16,32.49001968548028
+7,0.2,196.686,Second Class,Corporate,East,Furniture,Bookcases,1573.488,1915.244342664339
+5,0.8,-16.467,Standard Class,Home Office,Central,Office Supplies,Binders,9.98,17.866226213725614
+8,0.0,12.3256,Standard Class,Consumer,East,Furniture,Furnishings,39.76,41.7979928095227
+9,0.0,21.384,Standard Class,Corporate,West,Office Supplies,Paper,47.52,60.7117296528171
+1,0.0,4.4955,Second Class,Corporate,Central,Office Supplies,Paper,9.99,19.29622278529163
+5,0.2,7.049,Standard Class,Consumer,West,Furniture,Chairs,563.92,366.68099689331524
+7,0.2,5.1282,Standard Class,Corporate,South,Office Supplies,Supplies,45.584,20.92215234764304
+3,0.0,12.5118,Standard Class,Consumer,East,Office Supplies,Art,29.79,35.49911463077319
+5,0.0,59.373,Same Day,Corporate,East,Office Supplies,Art,219.9,188.3337497155612
+3,0.0,4.4352,Standard Class,Consumer,West,Furniture,Furnishings,9.24,30.76927273539058
+6,0.0,50.94,Standard Class,Home Office,Central,Office Supplies,Envelopes,101.88,121.76397485485808
+3,0.0,57.4938,Standard Class,Home Office,Central,Furniture,Bookcases,212.94,293.90468225467225
+1,0.0,4.4174,Same Day,Consumer,East,Technology,Phones,16.99,58.89794201186403
+3,0.2,28.7064,Standard Class,Consumer,West,Office Supplies,Paper,85.056,87.14009599065447
+3,0.0,2.9346,First Class,Corporate,South,Office Supplies,Storage,146.73,103.50789064948535
+1,0.8,-11.0848,First Class,Consumer,Central,Office Supplies,Binders,6.928,16.936448928787495
+3,0.7,-9.8463,Standard Class,Consumer,South,Office Supplies,Binders,12.843,16.86980024800993
+3,0.2,28.4364,Standard Class,Consumer,West,Furniture,Tables,568.728,486.23306171663813
+7,0.0,22.6275,Second Class,Home Office,West,Office Supplies,Storage,452.55,211.5000731632703
+6,0.7,-6.5736,Standard Class,Home Office,West,Office Supplies,Binders,8.964,16.93236931318311
+2,0.3,-31.3722,Standard Class,Consumer,Central,Furniture,Tables,244.006,193.96922552295362
+8,0.0,585.552,Standard Class,Corporate,Central,Furniture,Chairs,1951.84,2571.633022483213
+2,0.0,120.9416,First Class,Consumer,East,Office Supplies,Appliances,465.16,387.3692969188872
+1,0.0,20.485,First Class,Corporate,East,Furniture,Bookcases,81.94,148.36609391647306
+6,0.0,54.6912,First Class,Corporate,South,Office Supplies,Binders,113.94,123.10074201973606
+3,0.0,7.1586,Standard Class,Consumer,East,Office Supplies,Supplies,357.93,33.34183633874059
+8,0.8,-74.7456,Second Class,Consumer,Central,Office Supplies,Appliances,29.312,36.824825664213805
+4,0.2,9.3024,Standard Class,Corporate,East,Furniture,Bookcases,186.048,260.9806393155653
+3,0.0,23.1192,Standard Class,Corporate,Central,Furniture,Furnishings,60.84,90.36930468748304
+3,0.0,7.776,Second Class,Consumer,Central,Office Supplies,Binders,16.2,22.018031156236095
+6,0.2,10.8864,Standard Class,Home Office,South,Office Supplies,Paper,31.104,32.702763844412296
+2,0.0,6.0168,Standard Class,Consumer,South,Office Supplies,Paper,13.08,19.64514166406282
+6,0.1,29.7408,First Class,Corporate,Central,Office Supplies,Appliances,167.292,124.27054444253592
+2,0.7,-13.3936,Same Day,Consumer,East,Office Supplies,Binders,18.264,17.844934432594638
+3,0.0,131.355,Standard Class,Corporate,East,Technology,Phones,437.85,431.131164621665
+7,0.2,-31.9144,Standard Class,Consumer,West,Furniture,Chairs,638.288,495.94222867639485
+4,0.2,23.7564,Standard Class,Consumer,West,Technology,Phones,211.168,230.5138769502012
+2,0.2,13.0112,Standard Class,Consumer,East,Office Supplies,Appliances,130.112,42.85927661958366
+3,0.2,1.5522,First Class,Corporate,South,Office Supplies,Art,9.552,16.843422376627295
+9,0.2,107.955,Second Class,Corporate,Central,Technology,Phones,863.64,1049.514143942487
+7,0.0,282.2092,Second Class,Corporate,East,Office Supplies,Storage,1085.42,1180.6327848724395
+8,0.0,388.8128,Standard Class,Consumer,South,Furniture,Tables,2430.08,1862.4123491768808
+7,0.7,-24.276,Standard Class,Consumer,East,Technology,Machines,30.345,253.26410458171077
+8,0.2,30.392,First Class,Consumer,Central,Office Supplies,Paper,83.84,91.68347423719398
+5,0.0,8.027,Same Day,Consumer,West,Office Supplies,Fasteners,17.45,22.018031156236095
+5,0.2,-1.744,Second Class,Corporate,Central,Office Supplies,Supplies,8.72,17.13461479818646
+4,0.2,7.2576,Standard Class,Consumer,East,Office Supplies,Paper,20.736,22.046619831368485
+4,0.0,21.5824,Standard Class,Consumer,Central,Office Supplies,Fasteners,45.92,61.23456482208304
+2,0.8,-166.32,Standard Class,Consumer,Central,Office Supplies,Appliances,75.6,70.8672394268941
+9,0.2,14.7546,First Class,Corporate,West,Office Supplies,Storage,168.624,293.8080182904569
+6,0.0,315.825,Second Class,Corporate,South,Office Supplies,Storage,1263.3,1143.3295053416148
+4,0.0,303.3408,Standard Class,Corporate,East,Technology,Phones,631.96,928.3510236152574
+2,0.0,9.99,Second Class,Consumer,West,Office Supplies,Storage,55.5,77.66937821761142
+2,0.2,-24.496,Second Class,Corporate,Central,Office Supplies,Storage,97.984,112.64449330664968
+3,0.4,-122.877,First Class,Consumer,East,Furniture,Tables,409.59,415.10872820108403
+3,0.0,0.2016,Standard Class,Consumer,West,Office Supplies,Fasteners,5.04,16.843422376627295
+3,0.0,349.3392,First Class,Corporate,West,Office Supplies,Storage,1247.64,1196.2401530762972
+2,0.7,-2.6586,First Class,Consumer,East,Office Supplies,Binders,3.798,16.843422376627295
+3,0.0,1.6038,Standard Class,Home Office,East,Technology,Phones,5.94,59.27780495315669
+3,0.2,7.0128,Second Class,Consumer,West,Furniture,Furnishings,23.376,31.064678109067007
+10,0.0,19.26,Second Class,Consumer,West,Office Supplies,Paper,42.8,57.4353125883945
+5,0.0,274.386,Second Class,Consumer,South,Technology,Phones,979.95,969.6258497742339
+9,0.2,6.9732,First Class,Corporate,East,Office Supplies,Fasteners,21.456,20.039151080752113
+2,0.0,33.3136,Second Class,Consumer,West,Office Supplies,Paper,70.88,99.37183371389968
+4,0.0,9.744,Second Class,Corporate,East,Office Supplies,Storage,64.96,175.0237744200149
+3,0.0,9.7119,First Class,Home Office,East,Office Supplies,Art,35.97,31.732831146672186
+3,0.2,-35.3646,Second Class,Corporate,South,Furniture,Chairs,314.352,295.829839297732
+2,0.0,5.4896,Standard Class,Corporate,West,Office Supplies,Art,11.68,19.596291895307203
+2,0.7,-26.726,Standard Class,Home Office,South,Office Supplies,Binders,34.86,29.1894702135799
+3,0.0,4.4712,Standard Class,Consumer,West,Furniture,Furnishings,12.42,30.76927273539058
+7,0.7,-28.6272,Standard Class,Home Office,South,Office Supplies,Binders,35.784,37.40171237513528
+2,0.0,28.0032,Standard Class,Home Office,South,Office Supplies,Binders,58.34,70.18933150821063
+3,0.0,9.3312,Second Class,Consumer,East,Office Supplies,Paper,19.44,22.599509981728847
+5,0.4,-295.9785,Same Day,Consumer,East,Furniture,Tables,1044.63,1154.33620292807
+2,0.0,19.3314,First Class,Corporate,West,Technology,Accessories,58.58,91.11338494559158
+1,0.0,3.1104,Standard Class,Home Office,East,Office Supplies,Paper,6.48,16.92971559448283
+5,0.0,100.4255,First Class,Consumer,East,Office Supplies,Paper,204.95,210.22259441068553
+12,0.2,15.5376,Standard Class,Corporate,South,Office Supplies,Labels,47.808,39.919881777336755
+1,0.2,3.596,Standard Class,Home Office,South,Technology,Phones,35.96,58.89794201186403
+3,0.0,2.5056,Standard Class,Consumer,Central,Office Supplies,Art,8.64,16.8957436141644
+5,0.7,-42.8,Standard Class,Consumer,South,Office Supplies,Binders,64.2,52.729846825068485
+6,0.2,6.8136,Standard Class,Consumer,Central,Office Supplies,Art,32.064,20.838581917879953
+2,0.4,-44.985,Standard Class,Corporate,East,Technology,Phones,179.94,198.45768065031157
+7,0.0,54.04,Same Day,Home Office,South,Office Supplies,Binders,108.08,122.37937479610937
+5,0.2,29.372,First Class,Home Office,West,Office Supplies,Binders,83.92,89.18899402800817
+3,0.0,3.6156,Standard Class,Home Office,West,Office Supplies,Fasteners,7.86,17.131603517558794
+3,0.2,22.6782,Standard Class,Home Office,West,Technology,Phones,302.376,227.9675238015947
+8,0.7,-5.2416,Standard Class,Home Office,East,Office Supplies,Binders,7.488,16.93236931318311
+4,0.2,46.632,Standard Class,Corporate,West,Furniture,Furnishings,621.76,301.4788208878941
+6,0.2,-8.2764,Standard Class,Home Office,South,Furniture,Furnishings,220.704,34.73669042126526
+9,0.2,180.441,Standard Class,Corporate,West,Furniture,Tables,2887.056,1058.5434234815918
+3,0.7,-6.0237,First Class,Home Office,West,Office Supplies,Binders,7.857,16.843422376627295
+7,0.7,-935.9595,First Class,Corporate,East,Technology,Machines,652.995,1065.309680861111
+4,0.0,75.9696,Standard Class,Corporate,East,Office Supplies,Paper,155.04,162.9353401198193
+2,0.0,6.2608,Standard Class,Consumer,East,Furniture,Furnishings,14.56,30.94976339152403
+1,0.0,3.6796,Standard Class,Consumer,Central,Office Supplies,Storage,91.99,53.372686647112914
+3,0.0,4.6644,First Class,Consumer,West,Office Supplies,Art,17.94,19.554894550117695
+2,0.1,97.6524,First Class,Corporate,East,Furniture,Chairs,462.564,560.1253736954237
+3,0.2,19.4376,Standard Class,Home Office,West,Office Supplies,Binders,59.808,66.63566848885905
+5,0.2,20.388,Standard Class,Corporate,West,Office Supplies,Appliances,203.88,126.81759824493538
+3,0.1,2.3094,First Class,Corporate,East,Furniture,Chairs,207.846,281.8306648261481
+2,0.0,7.0096,First Class,Consumer,West,Office Supplies,Storage,26.96,62.155673313872356
+2,0.0,2.19,Second Class,Home Office,West,Office Supplies,Supplies,7.3,17.003714753682836
+7,0.0,19.8254,Second Class,Corporate,Central,Office Supplies,Paper,40.46,59.07998666431584
+2,0.8,-13.5548,Same Day,Consumer,Central,Office Supplies,Appliances,5.768,17.645897312756286
+6,0.3,-43.4352,Second Class,Corporate,East,Furniture,Chairs,760.116,592.5934044080485
+3,0.2,10.647,Standard Class,Corporate,South,Furniture,Chairs,170.352,351.9533643422912
+1,0.0,17.991,Standard Class,Consumer,East,Office Supplies,Envelopes,39.98,54.423514147075494
+6,0.0,105.468,Standard Class,Corporate,South,Technology,Accessories,239.7,345.1165281628973

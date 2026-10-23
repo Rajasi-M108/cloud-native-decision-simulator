@@ -1,0 +1,62 @@
+{
+  "holdout_accuracy": 0.7568,
+  "holdout_f1": 0.8117,
+  "value": [
+    {
+      "feature": "relationships",
+      "importance": 0.2681
+    },
+    {
+      "feature": "funding_total_usd",
+      "importance": 0.1329
+    },
+    {
+      "feature": "milestones",
+      "importance": 0.1166
+    },
+    {
+      "feature": "avg_participants",
+      "importance": 0.1048
+    },
+    {
+      "feature": "age_last_funding_year",
+      "importance": 0.101
+    },
+    {
+      "feature": "age_first_funding_year",
+      "importance": 0.0886
+    },
+    {
+      "feature": "is_top500",
+      "importance": 0.0631
+    },
+    {
+      "feature": "funding_rounds",
+      "importance": 0.0511
+    },
+    {
+      "feature": "has_VC",
+      "importance": 0.0156
+    },
+    {
+      "feature": "has_roundD",
+      "importance": 0.0143
+    },
+    {
+      "feature": "has_roundB",
+      "importance": 0.0141
+    },
+    {
+      "feature": "has_roundC",
+      "importance": 0.0129
+    },
+    {
+      "feature": "has_roundA",
+      "importance": 0.0089
+    },
+    {
+      "feature": "has_angel",
+      "importance": 0.008
+    }
+  ]
+}

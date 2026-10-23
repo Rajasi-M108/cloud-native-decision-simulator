@@ -1,0 +1,24 @@
+{
+  "results": {
+    "linear_regression": {
+      "MAE": 176.3337,
+      "RMSE": 493.1905,
+      "MAPE": 449.7597,
+      "R2": 0.3225
+    },
+    "random_forest": {
+      "MAE": 73.9925,
+      "RMSE": 267.5435,
+      "MAPE": 81.1787,
+      "R2": 0.8006
+    },
+    "xgboost": {
+      "MAE": 76.2522,
+      "RMSE": 320.3813,
+      "MAPE": 58.4631,
+      "R2": 0.7141
+    }
+  },
+  "best_model": "random_forest",
+  "target": "Sales"
+}
